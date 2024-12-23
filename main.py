@@ -1,13 +1,19 @@
+import logging
 import sys
+from datetime import datetime
 
 import uvicorn
 from fastapi import FastAPI
+from starlette.responses import Response
+
 from xml_utils import create_babuji_message_map,create_kcv_message_map
 from dotenv import load_dotenv
 from fastapi import FastAPI, Request
 from fastapi.responses import HTMLResponse
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
+logging.basicConfig(filename='app.log', level=logging.INFO, format='%(asctime)s %(message)s')
+
 
 
 load_dotenv()
@@ -30,7 +36,32 @@ babuji_message_map = create_babuji_message_map(babuji_abs_xml)
 kcv_message_map = create_kcv_message_map(kcv_abs_xml)
 
 
-@app.get("/data/{date}")
+@app.middleware("http")
+async def log_traffic(request: Request, call_next):
+    start_time = datetime.now()
+    response = await call_next(request)
+    process_time = (datetime.now() - start_time).total_seconds()
+    client_host = request.client.host
+    log_params = {
+        "request_method": request.method,
+        "request_url": str(request.url),
+        "request_size": request.headers.get("content-length"),
+        "request_headers": dict(request.headers),
+        "request_body": await request.body(),
+        "response_status": response.status_code,
+        "response_size": response.headers.get("content-length"),
+        "response_headers": dict(response.headers),
+        "process_time": process_time,
+        "client_host": client_host
+    }
+    logging.info(str(log_params))
+    return response
+#
+# @app.api_route("/{rest_of_path:path}", methods=["GET", "POST", "PUT", "DELETE", "PATCH", "OPTIONS"])
+# async def catch_all(request: Request, rest_of_path: str):
+#     return Response(status_code=200)
+
+@app.get("/F/{date}")
 async def message(date: str):
     return {babuji_message_map[date], kcv_message_map[date] }
 
