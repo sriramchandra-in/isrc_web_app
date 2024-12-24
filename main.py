@@ -76,6 +76,10 @@ async def html(request: Request, date: str):
         request=request, name="index.html", context=context
     )
 
-@app.get("/html/{file}", response_class=HTMLResponse)
-async def render_html(file:str):
-    return FileResponse(f'static/{file}.html')
+@app.get("/html/babuji/{file}", response_class=HTMLResponse)
+async def render_babuji_html(file:str):
+    return FileResponse(f'static/html/babuji/{file}.html')
+
+@app.get("/audio/babuji/{file}", response_class=HTMLResponse)
+async def render_babuji_audio(file:str):
+    return FileResponse(f'static/audio/babuji/{file}.mp3', media_type='audio/mpeg')
