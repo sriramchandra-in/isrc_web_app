@@ -58,7 +58,7 @@
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
         <quiz>Basics</quiz>
-        <babuji audio="audio/babuji/constant_remembrance"  txt="audio/babuji/constant_remembrance">Constant Remembrance</babuji>
+        <babuji audio="audio/babuji/constant_remembrance"  txt="html/babuji/constant_remembrance">Constant Remembrance</babuji>
 
         <kcn audio="https://drive.google.com/file/d/1FSlUg7Z3DIV09BCkt5-bJyRpaswaWMEY/view?usp=drive_link"  txt="https://sriramchandra.in/books/LiberalExpo/mobile/index.html#p=90" >Ten Commandments</kcn>
 
