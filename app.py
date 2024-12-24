@@ -26,7 +26,7 @@ def main():
     # print(kcv_abs_xml)
     #babuji_message_map = create_babuji_message_map(babuji_abs_xml)
     #kcv_message_map = create_kcv_message_map(kcv_abs_xml)
-    convert_text_to_html("config/txt/constant_remembrance")
+    convert_text_to_html("config/txt/meditation")
 
 if __name__ == '__main__':
   main()
