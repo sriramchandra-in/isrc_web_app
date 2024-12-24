@@ -12,30 +12,30 @@
     <div class="container">
         <h3>Rev. Babuji Maharaj Book Message !</h3>
         <p>{{ master["message"]["sentence"] }}</p>
-        <a href='{{ master["message"]["href"] }}'>{{ master["message"]["reference"] }}</a>
+        <a href='{{ master["message"]["href"] }}'  target='_blank'>{{ master["message"]["reference"] }}</a>
         <p></p>
     </div>
     {% if master["babuji_audio"]["exists"] %}
     <div class="container">
        <h3>Rev. Babuji Maharaj Audio Message !</h3>
-       <a href='{{ master["babuji_audio"]["txt"] }}'>{{ master["babuji_audio"]["title"] }}</a>
+       <a href='{{ master["babuji_audio"]["txt"] }}'  target='_blank'>{{ master["babuji_audio"]["title"] }}</a>
        <p></p>
-       <a href='{{ master["babuji_audio"]["audio"] }}'>Audio</a>
+       <a href='{{ master["babuji_audio"]["audio"] }}'  target='_blank'>Audio</a>
         <p></p>
     </div>
     {% endif %}
     <div class="container">
         <h3>Rev. Dr. K.C.Varadhachari Book Message !</h3>
         <p>{{ kcv["message"]["sentence"] }}</p>
-        <a href='{{ kcv["message"]["href"] }}'>{{ kcv["message"]["reference"] }}</a>
+        <a href='{{ kcv["message"]["href"] }}'  target='_blank'>{{ kcv["message"]["reference"] }}</a>
         <p></p>
     </div>
     {% if master["kcn_audio"]["exists"] %}
     <div class="container">
        <h3>Rev. K.C. Narayana reference to Master's Message !</h3>
-       <a href='{{ master["kcn_audio"]["txt"] }}'>{{ master["kcn_audio"]["title"] }}</a>
+       <a href='{{ master["kcn_audio"]["txt"] }}' target='_blank'>{{ master["kcn_audio"]["title"] }}</a>
        <p></p>
-       <a href='{{ master["kcn_audio"]["audio"] }}'>Audio</a>
+       <a href='{{ master["kcn_audio"]["audio"] }}'  target='_blank'>Audio</a>
        <p></p>
     </div>
     {% endif %}
