@@ -434,7 +434,7 @@
 
         <quiz>Basics</quiz>
 
-         <babuji audio="audio/babuji/021_making_masters" txt="html/babuji/021_making_masters">Q and A</babuji>
+         <babuji audio="audio/babuji/021_making_masters" txt="html/babuji/021_making_masters">Making Masters</babuji>
 
 
     </item>
@@ -456,9 +456,7 @@
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
         <quiz>Basics</quiz>
-
-        <babuji audio="https://drive.google.com/file/d/18H652y46l6cr5U3PmLCLLkzBTYQaM6IM/view?usp=drive_link" txt="https://drive.google.com/file/d/1faUl76RzH_2tRyvXF05nfNtDlpN1tKXB/view?usp=drive_link">Q and A</babuji>
-
+        <babuji audio="audio/babuji/022_q_and_a" txt="html/babuji/022_q_and_a">Q and A</babuji>
 
     </item>
 
@@ -478,7 +476,7 @@
 
         <quiz>Basics</quiz>
 
-        <babuji audio="https://drive.google.com/file/d/1x5dkEGkGfebYsoZogZ0ooL_vmvYURMwT/view?usp=drive_link" txt="https://drive.google.com/file/d/1Bo59UygKq6DyFMo5NWlJkd5xVc9wloe0/view?usp=drive_link">Curvature</babuji>
+        <babuji audio="audio/babuji/023_curvature" txt="html/babuji/023_curvature">Curvature</babuji>
 
     </item>
 
@@ -498,7 +496,7 @@
 
         <quiz>Basics</quiz>
 
-        <babuji audio="https://drive.google.com/file/d/1GmhRA0_33eqbPgaB6ZpgXQS5xSmtBK5g/view?usp=drive_link" txt="https://drive.google.com/file/d/1fRU_5IM_cEAAnqdHzTPlkWj2hVLOaJ1S/view?usp=drive_link">Sufferings</babuji>
+       <babuji audio="audio/babuji/024_sufferings" txt="html/babuji/024_sufferings">Sufferings</babuji>
 
 
     </item>
@@ -519,8 +517,7 @@
 
         <quiz>Basics</quiz>
 
-        <babuji audio="https://drive.google.com/file/d/1GmGOGhXgciT9IMmPJwjmzJAaAW-gFlH5/view?usp=drive_link" txt="https://drive.google.com/file/d/1IP_bHDlWBy5Q7NmdFiFOoptQw-qt1GAg/view?usp=drive_link">God is Attributeless</babuji>
-
+      <babuji audio="audio/babuji/025_god_is_attributeless" txt="html/babuji/025_god_is_attributeless">Q and A</babuji>
 
     </item>
 
@@ -540,7 +537,7 @@
 
         <quiz>Basics</quiz>
 
-        <babuji audio="https://drive.google.com/file/d/1hjX-B3M222nA2gLQf1RQLjz6Z1DARQq_/view?usp=drive_link" txt="https://drive.google.com/file/d/1LRVld8uvQnuSEKpHLnZ5d9lggo85hO1R/view?usp=drive_link">Change</babuji>
+       <babuji audio="audio/babuji/026_change" txt="html/babuji/026_change">Change</babuji>
 
 
     </item>
@@ -559,7 +556,7 @@
 
         <quiz>Basics</quiz>
 
-        <babuji audio="https://drive.google.com/file/d/1IW_X6RVHwDtuAPCpLa33EeCKgXYZwhzA/view?usp=drive_link" txt="https://drive.google.com/file/d/16-80IAothFzWP2HQndFdOO7ipp81PMfT/view?usp=drive_link">Mantras</babuji>
+        <babuji audio="audio/babuji/027_mantras" txt="html/babuji/027_mantras">Mantras</babuji>
 
 
     </item>
@@ -580,8 +577,7 @@
 
         <quiz>Basics</quiz>
 
-        <babuji audio="https://drive.google.com/file/d/1XE5vZaTbYhWGlLfzRJFoNe7QX_n-Zpbd/view?usp=drive_link" txt="https://drive.google.com/file/d/1t_QOHoneXJ6sEalOknsukHjHiBuvFXit/view?usp=drive_link">The Effect</babuji>
-
+        <babuji audio="audio/babuji/028_the_effects" txt="html/babuji/028_the_effects">The effects</babuji>
 
     </item>
 
@@ -600,8 +596,7 @@
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
         <quiz>Basics</quiz>
-
-        <babuji audio="https://drive.google.com/file/d/1cQbiGc1ioTj5jqwEL6PS-nlKnYp7p0hj/view?usp=drive_link" txt="https://drive.google.com/file/d/1cUinFX2u1YloAtWhAgcb0pkLSTY40uYw/view?usp=drive_link">Powers of Nature</babuji>
+        <babuji audio="audio/babuji/029_powers_of_nature" txt="html/babuji/029_powers_of_nature">Powers of Nature</babuji>
 
 
     </item>
@@ -622,7 +617,7 @@
 
         <quiz>Basics</quiz>
 
-        <babuji audio="https://drive.google.com/file/d/1nuBiX7zX26GD92sFLIaANnhC1J4Dq49d/view?usp=drive_link" txt="https://drive.google.com/file/d/1kW7NMAeCny6iJkSRjfRPVOjOnHo205Cr/view?usp=drive_link">Krishna</babuji>
+         <babuji audio="audio/babuji/030_krishna" txt="html/babuji/030_krishna">Powers of Nature</babuji>
 
 
     </item>
@@ -643,7 +638,7 @@
 
         <quiz>Basics</quiz>
 
-        <babuji audio="https://drive.google.com/file/d/1w6NJbsdVIZGJYaZGZr257Je-OwZ25kq9/view?usp=drive_link" txt="https://drive.google.com/file/d/1bCminmQGIbQzqFAcgcYFNdnOQT9MtDUZ/view?usp=drive_link">Krishna</babuji>
+       <babuji audio="audio/babuji/031_q_and_a" txt="html/babuji/031_q_and_a">Q and A</babuji>
 
 
     </item>

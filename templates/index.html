@@ -10,13 +10,14 @@
         <h2>{{ id }}</h2>
     </div>
     <div class="container">
-        <h3>Rev.Babuji Maharaj Book Message !</h3>
+        <h3>Rev.Babuji Maharaj's Book Message !</h3>
         <p>{{ master["message"]["sentence"] }}</p>
-        <a href='{{ master["message"]["href"] }}'  target='_blank'></a>
+        <a href='{{ master["message"]["href"] }}'  target='_blank'>{{ master["message"]["reference"] }}</a>
+         <p></p>
     </div>
     {% if master["babuji_audio"]["exists"] %}
     <div class="container">
-       <h3>Rev.Babuji Maharaj Audio Message !</h3>
+       <h3>Rev.Babuji Maharaj's Audio Message !</h3>
        <a href='{{ master["babuji_audio"]["txt"] }}'  target='_blank'>{{ master["babuji_audio"]["title"] }}</a>
        <p></p>
        <a href='{{ master["babuji_audio"]["audio"] }}'  target='_blank'>Audio</a>
@@ -24,7 +25,7 @@
     </div>
     {% endif %}
     <div class="container">
-        <h3>Rev.Dr.K.C.Varadhachari Book Message !</h3>
+        <h3>Rev.Dr.K.C.Varadhachari's Book Message !</h3>
         <p>{{ kcv["message"]["sentence"] }}</p>
         <a href='{{ kcv["message"]["href"] }}'  target='_blank'>{{ kcv["message"]["reference"] }}</a>
         <p></p>
