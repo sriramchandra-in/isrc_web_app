@@ -18,7 +18,7 @@
 
         <quiz>Basics</quiz>
 
-        <babuji audio="audio/babuji/divine_light" txt="html/babuji/divine_light">Divine Light</babuji>
+        <babuji audio="audio/babuji/001_divine_light" txt="html/babuji/001_divine_light">Divine Light</babuji>
         <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%209/BP914_RealMan.mp3" txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=235">Real Man</kcn>
     </item>
 
@@ -37,7 +37,7 @@
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
         <quiz>Basics</quiz>
-        <babuji audio="audio/babuji/intercommunion" txt="html/babuji/intercommunion">Intercommunion</babuji>
+        <babuji audio="audio/babuji/002_intercommunion" txt="html/babuji/002_intercommunion">Intercommunion</babuji>
         <kcn audio="https://drive.google.com/file/d/1rKxET8nuUqlT9NDLhLeov5RHO0gB6CqX/view?usp=drive_link"  txt="https://sriramchandra.in/books/BP1/mobile/index.html#p=350" >Parallelism</kcn>
     </item>
 
@@ -58,7 +58,7 @@
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
         <quiz>Basics</quiz>
-        <babuji audio="audio/babuji/constant_remembrance"  txt="html/babuji/constant_remembrance">Constant Remembrance</babuji>
+        <babuji audio="audio/babuji/003_constant_remembrance"  txt="html/babuji/003_constant_remembrance">Constant Remembrance</babuji>
 
         <kcn audio="https://drive.google.com/file/d/1FSlUg7Z3DIV09BCkt5-bJyRpaswaWMEY/view?usp=drive_link"  txt="https://sriramchandra.in/books/LiberalExpo/mobile/index.html#p=90" >Ten Commandments</kcn>
 
@@ -79,7 +79,7 @@
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
         <quiz>Basics</quiz>
-        <babuji audio="audio/babuji/spirituality_is_free" txt="html/babuji/spirituality_is_free">Spirituality is free</babuji>
+        <babuji audio="audio/babuji/004_spirituality_is_free" txt="html/babuji/004_spirituality_is_free">Spirituality is free</babuji>
 
         <kcn audio="https://www.sriramchandra.in/audio/New%20folder/BP-1%20Sriramchandra%20Consciousness.mp3"  txt="https://sriramchandra.in/books/BP1/mobile/index.html#p=5" >Sri Ramchandra Consciousness</kcn>
 
@@ -100,7 +100,7 @@
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
         <quiz>Basics</quiz>
-        <babuji audio="audio/babuji/chaos" txt="html/babuji/chaos">Chaos</babuji>
+        <babuji audio="audio/babuji/005_chaos" txt="html/babuji/005_chaos">Chaos</babuji>
         <kcn audio="https://drive.google.com/file/d/1bnicjClKA2pEwqk3gvKxUqEXlv4SVHrI/view?usp=drive_link"  txt="https://www.sriramchandra.in/Satyapadamspdf/23_3_Silence%20Our%20Goal.pdf">Silence</kcn>
 
     </item>
@@ -120,7 +120,7 @@
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
         <quiz>Basics</quiz>
-        <babuji audio="audio/babuji/freedom" txt="html/babuji/freedom">Freedom</babuji>
+        <babuji audio="audio/babuji/006_freedom" txt="html/babuji/006_freedom">Freedom</babuji>
         <kcn audio="https://sriramchandra.in/audio/New%20folder/BP-3%20Path%20of%20Pain.mp3"  txt="https://sriramchandra.in/books/BP3/mobile/index.html#p=163">Path of Pain</kcn>
 
     </item>
@@ -140,7 +140,7 @@
 
         <quiz>Basics</quiz>
 
-        <babuji audio="audio/babuji/homeland_message" txt="html/babuji/homeland_message">Homeland Message</babuji>
+        <babuji audio="audio/babuji/007_homeland_message" txt="html/babuji/007_homeland_message">Homeland Message</babuji>
         <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%205/BP504_The%20Virtue%20of%20truth.mp3"  txt="https://www.sriramchandra.in/Satyapadamspdf/TheVirtueofTruth.pdf" >Virtue of Truth</kcn>
 
     </item>
@@ -161,7 +161,7 @@
 
         <quiz>Basics</quiz>
 
-        <babuji audio="audio/babuji/lalaji_message"  txt="html/babuji/lalaji_message">Lalaji Message</babuji>
+        <babuji audio="audio/babuji/008_lalaji_message"  txt="html/babuji/008_lalaji_message">Lalaji Message</babuji>
         <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%207/BP711_LionHeartedMen.mp3"  txt="https://sriramchandra.in/books/BP7/mobile/index.html#p=176" >Lion-hearted men alone dare approach Reality and men are made so, by Natural Path</kcn>
 
 
@@ -184,7 +184,7 @@
 
         <quiz>Basics</quiz>
 
-        <babuji audio="audio/babuji/relationship_with_master" txt="html/babuji/relationship_with_master">Relationship with Master</babuji>
+        <babuji audio="audio/babuji/009_relationship_with_master" txt="html/babuji/009_relationship_with_master">Relationship with Master</babuji>
         <kcn audio="https://drive.google.com/file/d/1FSlUg7Z3DIV09BCkt5-bJyRpaswaWMEY/view?usp=drive_link" txt="https://sriramchandra.in/books/LiberalExpo/mobile/index.html#p=90">Ten Commandments</kcn>
     </item>
 
@@ -204,7 +204,7 @@
 
         <quiz>Basics</quiz>
 
-        <babuji audio="audio/babuji/meditation" txt="html/babuji/meditation">Meditation</babuji>
+        <babuji audio="audio/babuji/010_meditation" txt="html/babuji/010_meditation">Meditation</babuji>
 
         <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%209/BP901_craving%20of%20soul1.mp3" txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=10">Craving of the soul</kcn>
     </item>
@@ -225,7 +225,7 @@
 
         <quiz>Basics</quiz>
 
-        <babuji audio="https://drive.google.com/file/d/1UWhx6dHEEBixFtR1XuhxWljWAn3TlnWp/view?usp=drive_link" txt="https://drive.google.com/file/d/1AI6NJDPlaNUKQyN5l8IjA_9DDwczpnKu/view?usp=drive_link">Nervouseness</babuji>
+        <babuji audio="audio/babuji/011_nervousness" txt="html/babuji/011_nervousness">Nervouseness</babuji>
         <kcn audio="https://drive.google.com/file/d/1Rbpm2IpNtxH-yRGiF7FYKFkqwt_FYblW/view?usp=drive_link" txt="https://sriramchandra.in/books/LiberalExpo/mobile/index.html#p=147">Diary Writing</kcn>
 
     </item>
@@ -246,7 +246,7 @@
 
         <quiz>Basics</quiz>
 
-        <babuji audio="https://drive.google.com/file/d/1q1yK0fywtFBUvfRySyKCN6ndFMroPIj_/view?usp=drive_link" txt="https://drive.google.com/file/d/11OBvPI6acFmcZr5SOiUWo4_HZUtk-vmU/view?usp=drive_link">Loss of a child</babuji>
+        <babuji audio="audio/babuji/012_loss_of_a_child" txt="html/babuji/012_loss_of_a_child">Loss of a child</babuji>
         <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%204/BP414_Moulding_Preceptors_Business.mp3" txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=217">Swami Vivekannda defense of Sankhya Involution vs Darwin's Evolution</kcn>
     </item>
 
@@ -254,7 +254,7 @@
 
         <date>13-01-25</date><displaydate>13-January</displaydate>
 
-            <message href="http://www.sriramchandra.in/books/BWS/mobile/index.html#p=156">In principle the devotee or abhyasi should present himself before the Master in the same manner as a soldier does at the time of parade.</message>
+        <message href="http://www.sriramchandra.in/books/BWS/mobile/index.html#p=156">In principle the devotee or abhyasi should present himself before the Master in the same manner as a soldier does at the time of parade.</message>
 
         <reference>BWS 128</reference>
 
@@ -266,7 +266,7 @@
 
         <quiz>Basics</quiz>
 
-        <babuji audio="https://drive.google.com/file/d/1XJJM3uYXJr6JjyzQSgc8WFYiMmwgMg7h/view?usp=drive_link" txt="https://drive.google.com/file/d/1yalmSdeYxJJRD7zBVyTEHgL1X_pH6BzY/view?usp=drive_link">Past Lives</babuji>
+        <babuji audio="audio/babuji/013_past_lives" txt="html/babuji/013_past_lives">Past Lives</babuji>
 <kcn/>
     </item>
 
