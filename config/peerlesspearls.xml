@@ -290,7 +290,7 @@
 
         <quiz>Basics</quiz>
 
-        <babuji audio="https://drive.google.com/file/d/1Z2pXZvxbQrs6qd6LIT2CjosFB_NDc0vi/view?usp=drive_link" txt="https://drive.google.com/file/d/1GJDzdmUxjwuoUi2iqNBrsVVxqAL4QJ8s/view?usp=drive_link">Revolutionary Approach</babuji>
+        <babuji audio="audio/babuji/014_revolutionary_approach" txt="html/babuji/014_revolutionary_approach">Revolutionary Approach</babuji>
 
 
     </item>
@@ -311,7 +311,7 @@
 
         <quiz>Basics</quiz>
 
-        <babuji audio="https://drive.google.com/file/d/1VeDJRkN-XqRM7FRqANx5pimtg8Z_NMZa/view?usp=drive_link" txt="https://drive.google.com/file/d/1MD8_cEZXjC17eXvPF_8LnmzNnscg795H/view?usp=drive_link">Curvature</babuji>
+        <babuji audio="audio/babuji/015_curvature" txt="html/babuji/015_curvature">Curvature</babuji>
 
     </item>
 
@@ -331,7 +331,7 @@
 
         <quiz>Basics</quiz>
 
-        <babuji audio="https://drive.google.com/file/d/1jYNnTjYZXkgd97bAL0FWVq3FRK62Nz4s/view?usp=drive_link" txt="https://drive.google.com/file/d/1Z6GXcxxPV6w2PEYcQCcvz5ruyTDcEk9d/view?usp=drive_link">Meditation</babuji>
+        <babuji audio="audio/babuji/016_meditation" txt="audio/babuji/016_meditation">Meditation</babuji>
 
 
     </item>
@@ -352,7 +352,7 @@
 
         <quiz>Basics</quiz>
 
-        <babuji audio="https://drive.google.com/file/d/1qlO3Lqy-8klQgajwF4QA9FxrXhCnPYLJ/view?usp=drive_link" txt="https://drive.google.com/file/d/1ChEZJ6OOPOqWUrlfji-ytHxYeNIqBne0/view?usp=drive_link">Peace</babuji>
+        <babuji audio="audio/babuji/017_peace" txt="html/babuji/017_peace">Peace</babuji>
 
     </item>
 
@@ -372,7 +372,7 @@
 
         <quiz>Basics</quiz>
 
-        <babuji audio="https://drive.google.com/file/d/1gjKlwSbarcRmgwz2O0gneM0RrHcBcOmw/view?usp=drive_link" txt="https://drive.google.com/file/d/1q2wm9tvbTIGGdCMouy8FIKZ_5QottRYA/view?usp=drive_link">Peace</babuji>
+        <babuji audio="audio/babuji/018_knots" txt="html/babuji/018_knots">Peace</babuji>
 
     </item>
 
@@ -392,7 +392,7 @@
 
         <quiz>Basics</quiz>
 
-        <babuji audio="https://drive.google.com/file/d/1iqO6ukQLppaPzccJ3jZ1xxshShyev_un/view?usp=drive_link" txt="https://drive.google.com/file/d/1T4XLY4ko6V01dt_AkrGtgVRErz_cRCdT/view?usp=drive_link">Master's Grace</babuji>
+        <babuji audio="audio/babuji/019_masters_grace" txt="html/babuji/019_masters_grace">Master's Grace</babuji>
 
 
     </item>
@@ -413,7 +413,7 @@
 
         <quiz>Basics</quiz>
 
-        <babuji audio="https://drive.google.com/file/d/1vbcFn5xtRaOFF9wlIsoh0DMgWa2cb61F/view?usp=drive_link" txt="https://drive.google.com/file/d/1xGgpbgF5sLDuUPRQ3JoH5u2Le-FIUD4b/view?usp=drive_link">Q and A</babuji>
+        <babuji audio="audio/babuji/020_q_and_a" txt="html/babuji/020_q_and_a">Q and A</babuji>
 
 
     </item>
@@ -434,7 +434,7 @@
 
         <quiz>Basics</quiz>
 
-        <babuji audio="https://drive.google.com/file/d/1LbKm5sKaabywZcQkDbGCFCPCQkr2WY3X/view?usp=drive_link" txt="https://drive.google.com/file/d/10dLu1wtqnSytJuzepsYZp242HsX8s3j-/view?usp=drive_link">Making Masters</babuji>
+         <babuji audio="audio/babuji/021_making_masters" txt="html/babuji/021_making_masters">Q and A</babuji>
 
 
     </item>
