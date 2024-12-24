@@ -204,7 +204,7 @@
 
         <quiz>Basics</quiz>
 
-        <babuji audio="audio/babuji/meditation" txt="audio/babuji/meditation">Meditation</babuji>
+        <babuji audio="audio/babuji/meditation" txt="html/babuji/meditation">Meditation</babuji>
 
         <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%209/BP901_craving%20of%20soul1.mp3" txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=10">Craving of the soul</kcn>
     </item>
