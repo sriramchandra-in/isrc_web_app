@@ -4,7 +4,7 @@ from datetime import datetime
 
 import uvicorn
 from fastapi import FastAPI
-from starlette.responses import Response
+from starlette.responses import Response, FileResponse
 
 from xml_utils import create_babuji_message_map,create_kcv_message_map
 from dotenv import load_dotenv
@@ -61,7 +61,7 @@ async def log_traffic(request: Request, call_next):
 # async def catch_all(request: Request, rest_of_path: str):
 #     return Response(status_code=200)
 
-@app.get("/F/{date}")
+@app.get("/data/{date}")
 async def message(date: str):
     return {babuji_message_map[date], kcv_message_map[date] }
 
@@ -75,3 +75,7 @@ async def html(request: Request, date: str):
     return templates.TemplateResponse(
         request=request, name="index.html", context=context
     )
+
+@app.get("/html/{file}", response_class=HTMLResponse)
+async def render_html(file:str):
+    return FileResponse(f'static/{file}.html')
