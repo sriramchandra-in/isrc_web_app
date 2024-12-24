@@ -19,7 +19,7 @@
         <quiz>Basics</quiz>
 
         <babuji audio="audio/babuji/divine_light" txt="html/babuji/divine_light">Divine Light</babuji>
-        <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%209/BP914_RealMan.mp3" txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=230">Real Man</kcn>
+        <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%209/BP914_RealMan.mp3" txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=235">Real Man</kcn>
     </item>
 
     <item>
@@ -37,7 +37,7 @@
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
         <quiz>Basics</quiz>
-        <babuji audio="https://drive.google.com/file/d/1q1UGWkIhlikFaWCuhXZ9EhgBWLdY5ifs/view?usp=drive_link" txt="https://drive.google.com/file/d/1JuY-2ueDGgImDlU3qDFvGZE957qWTEtt/view?usp=drive_link">Intercommunion</babuji>
+        <babuji audio="audio/babuji/intercommunion" txt="html/babuji/intercommunion">Intercommunion</babuji>
         <kcn audio="https://drive.google.com/file/d/1rKxET8nuUqlT9NDLhLeov5RHO0gB6CqX/view?usp=drive_link"  txt="https://sriramchandra.in/books/BP1/mobile/index.html#p=350" >Parallelism</kcn>
     </item>
 
