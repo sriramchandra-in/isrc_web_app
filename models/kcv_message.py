@@ -1,17 +1,13 @@
-from models.message import Message, BabujiAudio, KcnAudio
+from models.message import Message, DateObj
 
 
 class KcvMessage:
-    def __init__(self, date, message):
+    def __init__(self, date:DateObj, message: Message):
         self.date = date
         self.message = message
 
     @classmethod
     def create(cls, item):
-        date_elems = item.iter("date")
-        dates = []
-        for date_elem in date_elems:
-            dates.append(date_elem.text)
-        date = dates[0]
-        message = Message.create(item)
+        date: DateObj = DateObj.create(item)
+        message: Message = Message.create(item)
         return KcvMessage(date, message)

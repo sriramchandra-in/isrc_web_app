@@ -34,7 +34,7 @@ class BabujiAudio:
         for babuji_elem in babuji_elems:
             babuji_audios.append( cls(True, babuji_elem.text, babuji_elem.attrib))
         if len(babuji_audios) == 0 :
-            return BabujiAudio(False,  "", {})
+            return cls(False,  "", {})
         return babuji_audios[0]
 
 class KcnAudio:
@@ -51,5 +51,33 @@ class KcnAudio:
         for kcn_elem in kcn_elems:
             kcn_audios.append( cls(True, kcn_elem.text, kcn_elem.attrib))
         if len(kcn_audios) == 0 :
-            return KcnAudio(False,"", {})
+            return cls(False,"", {})
         return kcn_audios[0]
+
+class DateObj:
+    def __init__(self, text: str, attributes: dict):
+        self.text = text
+        self.has_attributes = len(attributes) > 0
+        self.title = attributes.get('title', "")
+        self.reference = attributes.get('reference', "")
+
+    @classmethod
+    def create(cls, item):
+        date_elems = item.iter("date")
+        dates = []
+        for date_elem in date_elems:
+            dates.append( cls(date_elem.text, date_elem.attrib))
+        return dates[0]
+
+
+class EraDate:
+    def __init__(self, text: str):
+        self.text = text
+
+    @classmethod
+    def create(cls, item):
+        era_dt_elems = item.iter("era_dt")
+        era_dts = []
+        for era_dt_elem in era_dt_elems:
+            era_dts.append( cls(era_dt_elem.text))
+        return era_dts[0]

@@ -4,7 +4,7 @@
 
     <item>
 
-        <date>01-01-25</date><displaydate>01-January</displaydate>
+        <date title="Happy New Year 2025 - (Gregorian Calendar)!" ref="https://en.wikipedia.org/wiki/Gregorian_calendar">01-01-25</date><displaydate>01-January</displaydate>
 
         <message href="http://www.sriramchandra.in/books/BWS/mobile/index.html#p=137">The main purpose of training is that a man should begin to imbibe within him as much of godly attributes as possible.</message>
 
@@ -232,7 +232,7 @@
 
     <item>
 
-        <date>12-01-25</date><displaydate>12-January</displaydate>
+        <date title="Happy Swami Vivekananda's Birthday!" ref="https://belurmath.org/swami-vivekananda-speeches-at-the-parliament-of-religions-chicago-1893/">12-01-25</date><displaydate>12-January</displaydate>
 
         <message href="http://www.sriramchandra.in/books/SILENCESPEAKS/mobile/index.html#p=139">SWAMI VIVEKANANDA'S BIRTHDAY  It is Raja Yoga alone that can successfully lead a man up to the highest level of approach - Swami Vivekananda</message>
 
@@ -292,7 +292,7 @@
 
         <babuji audio="audio/babuji/014_revolutionary_approach" txt="html/babuji/014_revolutionary_approach">Revolutionary Approach</babuji>
 
-
+        <kcn audio="https://drive.google.com/file/d/1rbg_Eb1KMp4hfRaCJhqGp2QI1AXEcVrq/view?usp=drive_link" txt="https://sriramchandra.in/books/Meditation/mobile/index.html#p=107">Observance of sandhya</kcn>
     </item>
 
     <item>
@@ -539,6 +539,7 @@
 
        <babuji audio="audio/babuji/026_change" txt="html/babuji/026_change">Change</babuji>
 
+        <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%204/BP405_MeditationIsNotEnough.mp3" txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=43">Meditation is not enough</kcn>
 
     </item>
 
@@ -557,7 +558,7 @@
         <quiz>Basics</quiz>
 
         <babuji audio="audio/babuji/027_mantras" txt="html/babuji/027_mantras">Mantras</babuji>
-
+        <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%204/BP412%20Love%20is%20the%20Inner%20Awakening%20to%20Reality.mp3" txt=""></kcn>
 
     </item>
 
