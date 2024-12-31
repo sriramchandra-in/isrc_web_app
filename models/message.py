@@ -43,6 +43,11 @@ class KcnAudio:
         self.title = text
         self.audio = attributes.get('audio', "")
         self.txt = attributes.get('txt', "")
+        self.partial_txt = attributes.get('partial_txt', "")
+        self.start = attributes.get('start', "")
+        self.end = attributes.get('end', "")
+        self.partial_audio_exists = self.start != ""
+        self.partial_text_exists = self.partial_txt != ""
 
     @classmethod
     def create(cls, item):
@@ -59,7 +64,7 @@ class DateObj:
         self.text = text
         self.has_attributes = len(attributes) > 0
         self.title = attributes.get('title', "")
-        self.reference = attributes.get('reference', "")
+        self.reference = attributes.get('ref', "")
 
     @classmethod
     def create(cls, item):
