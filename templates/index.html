@@ -93,8 +93,8 @@
         <p></p>
         {% if master["kcn_audio"]["partial_audio_exists"] %}
         <button onclick="playAudio('kcn_audio', {{ master['kcn_audio']['start'] | int }}, {{ master['kcn_audio']['end'] | int }})" class="btn btn-outline-primary">Pertinent</button>
-        <button onclick="playAudio('kcn_audio')" class="btn btn-outline-primary">Complete</button>
         {% endif %}
+        <button onclick="playAudio('kcn_audio')" class="btn btn-outline-primary">Complete</button>
     <p></p>
 </div>
 {% endif %}

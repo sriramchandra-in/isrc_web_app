@@ -83,3 +83,7 @@ async def render_babuji_html(file:str):
 @app.get("/audio/babuji/{file}", response_class=HTMLResponse)
 async def render_babuji_audio(file:str):
     return FileResponse(f'static/audio/babuji/{file}.mp3', media_type='audio/mpeg')
+
+@app.get("/audio/kcn/{file}", response_class=HTMLResponse)
+async def render_kcn_audio(file:str):
+    return FileResponse(f'static/audio/kcn/{file}.mp3', media_type='audio/mpeg')
