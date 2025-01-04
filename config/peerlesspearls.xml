@@ -42,7 +42,7 @@
 
         <quiz>Basics</quiz>
         <babuji audio="audio/babuji/002_intercommunion" txt="html/babuji/002_intercommunion">Intercommunion</babuji>
-        <kcn audio="audio/kcn/parallelism"  txt="https://sriramchandra.in/books/BP1/mobile/index.html#p=350" >Parallelism</kcn>
+        <kcn audio="audio/kcn/parallelism"  txt="https://sriramchandra.in/books/BP1/mobile/index.html#p=350" start="600" end="900" >Parallelism</kcn>
     </item>
 
     <item>
