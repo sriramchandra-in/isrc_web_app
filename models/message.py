@@ -41,11 +41,13 @@ class KcnAudio:
     def __init__(self, exists: bool, text: str, attributes: dict):
         self.exists = exists
         self.title = text
-        self.audio = attributes.get('audio', "")
+        self.audio = attributes.get('audio', "").split(",")
+        self.has_parts = len(self.audio) > 1
         self.txt = attributes.get('txt', "")
         self.partial_txt = attributes.get('partial_txt', "")
         self.start = attributes.get('start', "")
         self.end = attributes.get('end', "")
+        self.pertinent_audio_part = attributes.get('pertinent_audio_part', "")
         self.partial_audio_exists = self.start != ""
         self.partial_text_exists = self.partial_txt != ""
 

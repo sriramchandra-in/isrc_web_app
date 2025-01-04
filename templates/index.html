@@ -79,22 +79,34 @@
 <div class="container">
     <h3>Rev. K.C.Narayana's reference to Master's Message !</h3>
     <p></p>
-            Pertinent:&nbsp;&nbsp;&nbsp;<a href='{{ master["kcn_audio"]["txt"] }}' target='_blank'>{{ master["kcn_audio"]["title"] }}</a>
+            Pertinent Text:&nbsp;&nbsp;&nbsp;<a href='{{ master["kcn_audio"]["txt"] }}' target='_blank'>{{ master["kcn_audio"]["title"] }}</a>
             <p></p>
             {% if master["kcn_audio"]["partial_text_exists"] %}
-            Complete:&nbsp;&nbsp;<a href='{{ master["kcn_audio"]["partial_txt"] }}' target='_blank'>{{ master["kcn_audio"]["title"] }}</a>
+            Complete Text :&nbsp;&nbsp;<a href='{{ master["kcn_audio"]["partial_txt"] }}' target='_blank'>{{ master["kcn_audio"]["title"] }}</a>
             <p></p>
             {% endif %}
      <p></p>
         <audio id='kcn_audio' controls autoplay>
-            <source src='{{ master["kcn_audio"]["audio"] }}' type="audio/mpeg">
+            <source src='{{ master["kcn_audio"]["pertinent_audio_part"] }}' type="audio/mpeg">
             Your browser does not support the audio element.
         </audio>
         <p></p>
         {% if master["kcn_audio"]["partial_audio_exists"] %}
         <button onclick="playAudio('kcn_audio', {{ master['kcn_audio']['start'] | int }}, {{ master['kcn_audio']['end'] | int }})" class="btn btn-outline-primary">Pertinent</button>
         {% endif %}
+        {% if not master["kcn_audio"]["has_parts"]  %}
         <button onclick="playAudio('kcn_audio')" class="btn btn-outline-primary">Complete</button>
+        {% else %}
+            <p></p>
+            <p>Complete Audio:</p>
+            {% for audio in   master["kcn_audio"]["audio"]  %}
+                <p>Part - {{ loop.index }}: </p>
+                <audio controls autoplay>
+                    <source src='{{ audio }}' type="audio/mpeg">
+                    Your browser does not support the audio element.
+                </audio>
+            {% endfor %}
+        {% endif  %}
     <p></p>
 </div>
 {% endif %}
