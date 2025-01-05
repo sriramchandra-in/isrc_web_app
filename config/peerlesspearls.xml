@@ -287,7 +287,7 @@
              partial_txt="https://sriramchandra.in/books/Meditation/mobile/index.html#p=112"
              start="1200"
              end="1500"
-        >Commandment I</kcn>
+        >Ten Commandments</kcn>
     </item>
 
     <item>
@@ -307,13 +307,19 @@
         <quiz>Basics</quiz>
         <babuji audio="audio/babuji/002_intercommunion" txt="html/babuji/002_intercommunion">Intercommunion</babuji>
 
+          <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%204/BP418_Surrender%20is%20the%20keyword.mp3"
+             txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=307"
+             partial_txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=321"
+             start="480"
+             end="780"
+        >Surrender is the keyword for effective sadhana</kcn>
     </item>
 
     <item>
 
         <date>16-01-25</date><displaydate>16-January</displaydate>
 
-        <message href="http://www.sriramchandra.in/books/BWS/mobile/index.html#p=130">If we make our heart the target of masterly force we begin to expand inside, with the result that in the long run we find ourselves stretching throughout the Godly empire.</message>
+            <message href="http://www.sriramchandra.in/books/BWS/mobile/index.html#p=130">If we make our heart the target of masterly force we begin to expand inside, with the result that in the long run we find ourselves stretching throughout the Godly empire.</message>
 
         <reference>BWS 90</reference>
 
@@ -327,7 +333,12 @@
 
         <babuji audio="audio/babuji/003_constant_remembrance"  txt="html/babuji/003_constant_remembrance">Constant Remembrance</babuji>
 
-
+           <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%209/BP909_Oozing%20Canopy_2009PujyaBabujiBday.mp3"
+             txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=178"
+             partial_txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=180"
+             start="240"
+             end="540"
+        >Oozing canopy</kcn>
     </item>
 
     <item>
