@@ -359,6 +359,12 @@
          <babuji audio="audio/babuji/004_spirituality_is_free" txt="html/babuji/004_spirituality_is_free">Spirituality is free</babuji>
 
 
+           <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%204/BP405_MeditationIsNotEnough.mp3"
+             txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=42"
+             partial_txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=66"
+             start="3120"
+             end="3420"
+        >Meditation is not enough</kcn>
     </item>
 
     <item>
@@ -379,6 +385,13 @@
 
 
     <babuji audio="audio/babuji/005_chaos" txt="html/babuji/005_chaos">Chaos</babuji>
+
+           <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%207/BP711_LionHeartedMen.mp3"
+             txt="https://sriramchandra.in/books/BP7/mobile/index.html#p=176"
+             partial_txt="https://sriramchandra.in/books/BP7/mobile/index.html#p=180"
+             start="300"
+             end="600"
+        >Lion hearted men</kcn>
     </item>
 
     <item>
@@ -399,7 +412,12 @@
 
       <babuji audio="audio/babuji/006_freedom" txt="html/babuji/006_freedom">Freedom</babuji>
 
-
+ <kcn audio="audio/kcn/pranahuti"
+             txt="https://sriramchandra.in/books/LiberalExpo/mobile/index.html#p=49"
+             partial_txt="https://sriramchandra.in/books/LiberalExpo/mobile/index.html#p=52"
+             start="750"
+             end="1050"
+        >Pranahuti</kcn>
     </item>
 
     <item>
@@ -420,7 +438,12 @@
 
   <babuji audio="audio/babuji/007_homeland_message" txt="html/babuji/007_homeland_message">Homeland Message</babuji>
 
-
+ <kcn audio="https://sriramchandra.in/audio/New%20folder/BP-3%20Path%20of%20Pain.mp3"
+             txt="https://sriramchandra.in/books/BP3/mobile/index.html#p=162"
+             partial_txt="https://sriramchandra.in/books/BP3/mobile/index.html#p=167"
+             start="398"
+             end="504"
+        >The Path of Pain</kcn>
     </item>
 
     <item>
@@ -441,7 +464,12 @@
 
                <babuji audio="audio/babuji/008_lalaji_message"  txt="html/babuji/008_lalaji_message">Lalaji Message</babuji>
 
-
+ <kcn audio="https://sriramchandra.in/celebrations/babuji2013/2013PujyaBabujiBdayRevKCN30Apr2013.mp3"
+             txt="https://sriramchandra.in/books/BP10/mobile/index.html#p=30"
+             partial_txt="https://sriramchandra.in/books/BP10/mobile/index.html#p=30"
+             start="364"
+             end="404"
+        >Curiosity</kcn>
     </item>
 
 
@@ -462,7 +490,12 @@
 
         <quiz>Basics</quiz>
         <babuji audio="audio/babuji/009_relationship_with_master" txt="html/babuji/009_relationship_with_master">Relationship with Master</babuji>
-
+ <kcn audio="https://sriramchandra.in/celebrations/babuji2013/2013PujyaBabujiBdayRevKCN30Apr2013.mp3"
+             txt="https://sriramchandra.in/books/BP10/mobile/index.html#p=30"
+             partial_txt="https://sriramchandra.in/books/BP10/mobile/index.html#p=30"
+             start="364"
+             end="404"
+        >Curiosity</kcn>
 
     </item>
 
@@ -681,10 +714,6 @@
         <quiz>Basics</quiz>
   <babuji audio="audio/babuji/020_q_and_a" txt="html/babuji/020_q_and_a">Q and A</babuji>
     </item>
-
-
-
-
 
     <item>
 
