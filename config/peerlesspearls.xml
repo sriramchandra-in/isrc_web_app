@@ -282,7 +282,7 @@
 
         <babuji audio="audio/babuji/001_divine_light" txt="html/babuji/001_divine_light">Divine Light</babuji>
 
-        <kcn audio="audio/kcn/01_ten_commandments"
+        <kcn audio="audio/kcn/ten_commandments"
              txt="https://sriramchandra.in/books/Meditation/mobile/index.html#p=107"
              partial_txt="https://sriramchandra.in/books/Meditation/mobile/index.html#p=112"
              start="1200"
