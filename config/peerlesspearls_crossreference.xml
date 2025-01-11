@@ -41,8 +41,8 @@
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
         <quiz>Basics</quiz>
-        <babuji audio="audio/babuji/002_intercommunion" txt="html/babuji/002_intercommunion">Intercommunion</babuji>
-        <kcn audio="audio/kcn/parallelism"  txt="https://sriramchandra.in/books/BP1/mobile/index.html#p=350" >Parallelism</kcn>
+        <babuji audio="audio/babuji/002_intercommunion.mp3" txt="html/babuji/002_intercommunion.html">Intercommunion</babuji>
+        <kcn audio="audio/xref/kcn/parallelism.mp3"  txt="https://sriramchandra.in/books/BP1/mobile/index.html#p=350" >Parallelism</kcn>
     </item>
 
     <item>
@@ -280,9 +280,10 @@
 
         <quiz>Basics</quiz>
 
-        <babuji audio="audio/babuji/001_divine_light" txt="html/babuji/001_divine_light">Divine Light</babuji>
+        <babuji audio="audio/xref/babuji/001_divine_light.mp3"
+        txt="audio/xref/babuji/html/001_divine_light.html">Divine Light</babuji>
 
-        <kcn audio="audio/kcn/ten_commandments"
+        <kcn audio="audio/xref/kcn/ten_commandments.mp3"
              txt="https://sriramchandra.in/books/Meditation/mobile/index.html#p=107"
              partial_txt="https://sriramchandra.in/books/Meditation/mobile/index.html#p=112"
              start="1200"
@@ -305,7 +306,8 @@
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
         <quiz>Basics</quiz>
-        <babuji audio="audio/babuji/002_intercommunion.mp3" txt="html/babuji/002_intercommunion.html">Intercommunion</babuji>
+        <babuji audio="audio/xref/babuji/002_intercommunion.mp3"
+        txt="audio/xref/babuji/html/002_intercommunion.html">Intercommunion</babuji>
 
           <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%204/BP418_Surrender%20is%20the%20keyword.mp3"
              txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=307"
@@ -331,7 +333,8 @@
 
         <quiz>Basics</quiz>
 
-        <babuji audio="audio/babuji/003_constant_remembrance"  txt="html/babuji/003_constant_remembrance">Constant Remembrance</babuji>
+        <babuji audio="audio/xref/babuji/003_constant_remembrance.mp3"
+        txt="audio/xref/babuji/html/003_constant_remembrance.html">Constant Remembrance</babuji>
 
            <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%209/BP909_Oozing%20Canopy_2009PujyaBabujiBday.mp3"
              txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=178"
@@ -356,7 +359,8 @@
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
         <quiz>Basics</quiz>
-         <babuji audio="audio/babuji/004_spirituality_is_free" txt="html/babuji/004_spirituality_is_free">Spirituality is free</babuji>
+         <babuji audio="audio/xref/babuji/004_spirituality_is_free.mp3"
+         txt="audio/xref/babuji/html/004_spirituality_is_free.html">Spirituality is free</babuji>
 
 
            <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%204/BP405_MeditationIsNotEnough.mp3"
@@ -384,7 +388,7 @@
         <quiz>Basics</quiz>
 
 
-    <babuji audio="audio/babuji/005_chaos" txt="html/babuji/005_chaos">Chaos</babuji>
+    <babuji audio="audio/xref/babuji/005_chaos.mp3" txt="assets/xref/babuji/html/005_chaos.html">Chaos</babuji>
 
            <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%207/BP711_LionHeartedMen.mp3"
              txt="https://sriramchandra.in/books/BP7/mobile/index.html#p=176"
@@ -410,9 +414,10 @@
 
         <quiz>Basics</quiz>
 
-      <babuji audio="audio/babuji/006_freedom" txt="html/babuji/006_freedom">Freedom</babuji>
+      <babuji audio="audio/xref/babuji/006_freedom.mp3"
+      txt="audio/xref/babuji/html/006_freedom.html">Freedom</babuji>
 
- <kcn audio="audio/kcn/pranahuti"
+ <kcn audio="audio/xref/kcn/pranahuti.mp3"
              txt="https://sriramchandra.in/books/LiberalExpo/mobile/index.html#p=49"
              partial_txt="https://sriramchandra.in/books/LiberalExpo/mobile/index.html#p=52"
              start="750"
@@ -436,7 +441,8 @@
 
         <quiz>Basics</quiz>
 
-  <babuji audio="audio/babuji/007_homeland_message" txt="html/babuji/007_homeland_message">Homeland Message</babuji>
+  <babuji audio="audio/xref/babuji/007_homeland_message.mp3"
+  txt="audio/xref/babuji/html/007_homeland_message.html">Homeland Message</babuji>
 
  <kcn audio="https://sriramchandra.in/audio/New%20folder/BP-3%20Path%20of%20Pain.mp3"
              txt="https://sriramchandra.in/books/BP3/mobile/index.html#p=162"
@@ -462,7 +468,8 @@
 
         <quiz>Basics</quiz>
 
-               <babuji audio="audio/babuji/008_lalaji_message"  txt="html/babuji/008_lalaji_message">Lalaji Message</babuji>
+        <babuji audio="audio/xref/babuji/008_lalaji_message.mp3"
+        txt="audio/xref/babuji/html/008_lalaji_message.html">Lalaji Message</babuji>
 
  <kcn audio="https://sriramchandra.in/celebrations/babuji2013/2013PujyaBabujiBdayRevKCN30Apr2013.mp3"
              txt="https://sriramchandra.in/books/BP10/mobile/index.html#p=30"
@@ -489,7 +496,8 @@
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
         <quiz>Basics</quiz>
-        <babuji audio="audio/babuji/009_relationship_with_master" txt="html/babuji/009_relationship_with_master">Relationship with Master</babuji>
+        <babuji audio="audio/xref/babuji/009_relationship_with_master.mp3"
+        txt="audio/xref/babuji/html/009_relationship_with_master.html">Relationship with Master</babuji>
  <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%205/BP511_Demolition%20of%20the%20past.mp3"
              txt="https://sriramchandra.in/books/BP5/mobile/index.html#p=144"
              partial_txt="https://sriramchandra.in/books/BP5/mobile/index.html#p=156"
@@ -514,13 +522,14 @@
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
         <quiz>Basics</quiz>
-          <babuji audio="audio/babuji/010_meditation" txt="html/babuji/010_meditation">Meditation</babuji>
+          <babuji audio="audio/xref/babuji/010_meditation.mp3"
+          txt="audio/xref/babuji/html/010_meditation.html">Meditation</babuji>
          <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%204/BP405_MeditationIsNotEnough.mp3"
              txt="https://sriramchandra.in/books/BP5/mobile/index.html#p=144"
              partial_txt="https://sriramchandra.in/books/BP5/mobile/index.html#p=156"
              start="1264"
              end="1308"
-        >Demolition of the past)</kcn>
+        >Demolition of the past</kcn>
 
     </item>
 
@@ -540,7 +549,8 @@
 
         <quiz>Basics</quiz>
 
-        <babuji audio="audio/babuji/011_nervousness" txt="html/babuji/011_nervousness">Nervouseness</babuji>
+        <babuji audio="audio/xref/babuji/011_nervousness.mp3"
+        txt="audio/xref/babuji/html/011_nervousness.html">Nervouseness</babuji>
 
     </item>
 
@@ -559,7 +569,7 @@
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
         <quiz>Basics</quiz>
-    <babuji audio="audio/babuji/012_loss_of_a_child" txt="html/babuji/012_loss_of_a_child">Loss of a child</babuji>
+    <babuji audio="audio/xref/babuji/012_loss_of_a_child.mp3" txt="audio/xref//babuji/html/012_loss_of_a_child.html">Loss of a child</babuji>
 
     </item>
 
@@ -579,7 +589,7 @@
 
         <quiz>Basics</quiz>
 
-        <babuji audio="audio/babuji/013_past_lives" txt="html/babuji/013_past_lives">Past Lives</babuji>
+        <babuji audio="audio/xref/babuji/013_past_lives.mp3" txt="audio/xref/babuji/html/013_past_lives.html">Past Lives</babuji>
 
         <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%204/BP405_MeditationIsNotEnough.mp3" txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=43">Meditation is not enough</kcn>
 
@@ -598,7 +608,8 @@
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
         <quiz>Basics</quiz>
-         <babuji audio="audio/babuji/014_revolutionary_approach" txt="html/babuji/014_revolutionary_approach">Revolutionary Approach</babuji>
+         <babuji audio="audio/xref/babuji/014_revolutionary_approach.mp3"
+         txt="audio/xref/babuji/html/014_revolutionary_approach.html">Revolutionary Approach</babuji>
 
 
          <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%204/BP412%20Love%20is%20the%20Inner%20Awakening%20to%20Reality.mp3" txt=""></kcn>
@@ -621,7 +632,8 @@
 
         <quiz>Basics</quiz>
 
-<babuji audio="audio/babuji/015_curvature" txt="html/babuji/015_curvature">Curvature</babuji>
+<babuji audio="audio/xref/babuji/015_curvature.mp3"
+txt="audio/xref/babuji/html/015_curvature.html">Curvature</babuji>
 
     </item>
 
@@ -641,7 +653,8 @@
 
         <quiz>Basics</quiz>
 
- <babuji audio="audio/babuji/016_meditation" txt="audio/babuji/016_meditation">Meditation</babuji>
+ <babuji audio="audio/xref/babuji/016_meditation.mp3"
+ txt="audio/xref/babuji/html/016_meditation.html">Meditation</babuji>
 
     </item>
 
@@ -661,7 +674,8 @@
 
         <quiz>Basics</quiz>
 
- <babuji audio="audio/babuji/017_peace" txt="html/babuji/017_peace">Peace</babuji>
+ <babuji audio="audio/xref/babuji/017_peace.mp3"
+ txt="audio/xref/babuji/html/017_peace.html">Peace</babuji>
 
     </item>
 
@@ -681,7 +695,8 @@
 
         <quiz>Basics</quiz>
 
-<babuji audio="audio/babuji/018_knots" txt="html/babuji/018_knots">Peace</babuji>
+<babuji audio="audio/xref/babuji/018_knots.mp3"
+txt="audio/xref/babuji/html/018_knots.html">Peace</babuji>
 
     </item>
 
@@ -700,7 +715,7 @@
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
         <quiz>Basics</quiz>
-<babuji audio="audio/babuji/019_masters_grace" txt="html/babuji/019_masters_grace">Master's Grace</babuji>
+<babuji audio="audio/xref/babuji/019_masters_grace.mp3" txt="audio/xref/babuji/html/019_masters_grace.html">Master's Grace</babuji>
     </item>
 
     <item>
@@ -718,7 +733,8 @@
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
         <quiz>Basics</quiz>
-  <babuji audio="audio/babuji/020_q_and_a" txt="html/babuji/020_q_and_a">Q and A</babuji>
+  <babuji audio="audio/xref/audio/babuji/020_q_and_a.mp3"
+  txt="audio/xref/babuji/html/020_q_and_a.html">Q and A</babuji>
     </item>
 
     <item>
@@ -734,7 +750,8 @@
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
         <quiz>Basics</quiz>
- <babuji audio="audio/babuji/021_making_masters" txt="html/babuji/021_making_masters">Making Masters</babuji>
+ <babuji audio="audio/xref/babuji/021_making_masters.mp3"
+ txt="audio/xref/babuji/html/021_making_masters.html">Making Masters</babuji>
     </item>
 
     <item>
@@ -753,7 +770,8 @@
 
         <quiz>Basics</quiz>
 
-        <babuji audio="audio/babuji/022_q_and_a" txt="html/babuji/022_q_and_a">Q and A</babuji>
+        <babuji audio="audio/xref/babuji/022_q_and_a.mp3"
+        txt="audio/xref/babuji/html/022_q_and_a.html">Q and A</babuji>
     </item>
 
     <item>
@@ -769,7 +787,7 @@
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
         <quiz>Basics</quiz>
-<babuji audio="audio/babuji/023_curvature" txt="html/babuji/023_curvature">Curvature</babuji>
+<babuji audio="audio/xref/babuji/023_curvature.mp3" txt="audio/xref/babuji/html/023_curvature.html">Curvature</babuji>
     </item>
 
 
@@ -788,7 +806,7 @@
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
         <quiz>Basics</quiz>
-    <babuji audio="audio/babuji/024_sufferings" txt="html/babuji/024_sufferings">Sufferings</babuji>
+    <babuji audio="audio/xref/babuji/024_sufferings.mp3" txt="audio/xref/babuji/html/024_sufferings.html">Sufferings</babuji>
     </item>
 
     <item>
@@ -804,7 +822,7 @@
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
         <quiz>Basics</quiz>
- <babuji audio="audio/babuji/025_god_is_attributeless" txt="html/babuji/025_god_is_attributeless">Q and A</babuji>
+ <babuji audio="audio/xref/babuji/025_god_is_attributeless.mp3" txt="audio/xref/babuji/html/025_god_is_attributeless.html">Q and A</babuji>
     </item>
 
     <item>
@@ -823,7 +841,7 @@
 
         <quiz>Basics</quiz>
 
-  <babuji audio="audio/babuji/026_change" txt="html/babuji/026_change">Change</babuji>
+  <babuji audio="audio/xref/babuji/026_change.mp3" txt="audio/xref/babuji/html/026_change.html">Change</babuji>
     </item>
 
     <item>
@@ -840,7 +858,7 @@
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
         <quiz>Basics</quiz>
-<babuji audio="audio/babuji/027_mantras" txt="html/babuji/027_mantras">Mantras</babuji>
+<babuji audio="audio/xref/babuji/027_mantras.mp3" txt="audio/xref/babuji/html/027_mantras.html">Mantras</babuji>
     </item>
 
 
@@ -859,7 +877,7 @@
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
         <quiz>Basics</quiz>
-  <babuji audio="audio/babuji/028_the_effects" txt="html/babuji/028_the_effects">The effects</babuji>
+  <babuji audio="audio/xref/babuji/028_the_effects" txt="audio/xref/babuji/html/028_the_effects">The effects</babuji>
     </item>
 
     <item>
@@ -876,7 +894,7 @@
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
         <quiz>Basics</quiz>
- <babuji audio="audio/babuji/029_powers_of_nature" txt="html/babuji/029_powers_of_nature">Powers of Nature</babuji>
+ <babuji audio="audio/xref/babuji/029_powers_of_nature" txt="audio/xref/babuji/html/029_powers_of_nature">Powers of Nature</babuji>
     </item>
 
     <item>
@@ -893,7 +911,7 @@
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
         <quiz>Basics</quiz>
-<babuji audio="audio/babuji/030_krishna" txt="html/babuji/030_krishna">Powers of Nature</babuji>
+<babuji audio="audio/xref/babuji/030_krishna" txt="audio/xref/babuji/html/030_krishna">Powers of Nature</babuji>
     </item>
 
     <item>
@@ -910,7 +928,7 @@
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
         <quiz>Basics</quiz>
-<babuji audio="audio/babuji/031_q_and_a" txt="html/babuji/031_q_and_a">Q and A</babuji>
+<babuji audio="audio/xref/babuji/031_q_and_a" txt="audio/xref/babuji/html/031_q_and_a">Q and A</babuji>
     </item>
 
 
