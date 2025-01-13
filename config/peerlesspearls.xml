@@ -516,11 +516,11 @@
         <quiz>Basics</quiz>
           <babuji audio="audio/babuji/010_meditation" txt="html/babuji/010_meditation">Meditation</babuji>
          <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%204/BP405_MeditationIsNotEnough.mp3"
-             txt="https://sriramchandra.in/books/BP5/mobile/index.html#p=144"
-             partial_txt="https://sriramchandra.in/books/BP5/mobile/index.html#p=156"
+             txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=43"
+             partial_txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=52"
              start="1264"
              end="1308"
-        >Demolition of the past</kcn>
+        >Meditation is not enough</kcn>
 
     </item>
 
@@ -541,6 +541,12 @@
         <quiz>Basics</quiz>
 
         <babuji audio="audio/babuji/011_nervousness" txt="html/babuji/011_nervousness">Nervousness</babuji>
+        <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%207/BP711_LionHeartedMen.mp3"
+             txt="https://sriramchandra.in/books/BP7/mobile/index.html#p=176"
+             partial_txt="https://sriramchandra.in/books/BP7/mobile/index.html#p=189"
+             start="893"
+             end="956"
+        >Lion hearted men</kcn>
 
     </item>
 
