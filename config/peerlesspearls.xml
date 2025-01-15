@@ -264,9 +264,9 @@
 
 
 
-    <item>
+     <item>
 
-        <date title="Happy New Year 153 - (Lalaji Era Calendar)!" ref="https://www.sriramchandra.in/Satyapadamspdf/18_1_3_LalajiEra.pdf">14-01-25</date><displaydate>14-January</displaydate>
+        <date title="Happy New Year of Lalaji Era 153 !" ref="https://www.sriramchandra.in/Satyapadamspdf/18_1_3_LalajiEra.pdf">14-01-25</date><displaydate>14-January</displaydate>
 
         <message href="http://www.sriramchandra.in/books/BWS/mobile/index.html#p=158">Our first and the foremost commandment relates to the proper observance of Sandhya and Upasana. By following it we begin to draw in power which we have finally to attain due course.</message>
 
@@ -280,11 +280,13 @@
 
         <quiz>Basics</quiz>
 
-        <babuji audio="audio/babuji/001_divine_light" txt="html/babuji/001_divine_light">Divine Light</babuji>
+        <babuji audio="audio/xref/babuji/001_divine_light.mp3"
+        txt="audio/xref/babuji/html/001_divine_light.html">Divine Light</babuji>
 
-        <kcn audio="audio/kcn/ten_commandments"
+        <kcn audio="audio/xref/kcn/ten_commandments.mp3"
              txt="https://sriramchandra.in/books/Meditation/mobile/index.html#p=107"
              partial_txt="https://sriramchandra.in/books/Meditation/mobile/index.html#p=112"
+             ref="Meditation - 112"
              start="1200"
              end="1500"
         >Ten Commandments</kcn>
@@ -305,13 +307,15 @@
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
         <quiz>Basics</quiz>
-        <babuji audio="audio/babuji/002_intercommunion.mp3" txt="html/babuji/002_intercommunion.html">Intercommunion</babuji>
+        <babuji audio="audio/xref/babuji/002_intercommunion.mp3"
+        txt="audio/xref/babuji/html/002_intercommunion.html">Intercommunion</babuji>
 
           <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%204/BP418_Surrender%20is%20the%20keyword.mp3"
-             txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=307"
+             txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=312"
              partial_txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=321"
+             ref="BP4 - 313"
              start="480"
-             end="780"
+             end="796"
         >Surrender is the keyword for effective sadhana</kcn>
     </item>
 
@@ -331,14 +335,16 @@
 
         <quiz>Basics</quiz>
 
-        <babuji audio="audio/babuji/003_constant_remembrance"  txt="html/babuji/003_constant_remembrance">Constant Remembrance</babuji>
+        <babuji audio="audio/xref/babuji/003_constant_remembrance.mp3"
+        txt="audio/xref/babuji/html/003_constant_remembrance.html">Constant Remembrance</babuji>
 
            <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%209/BP909_Oozing%20Canopy_2009PujyaBabujiBday.mp3"
              txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=178"
              partial_txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=180"
+             ref="BP9 - 168"
              start="240"
              end="540"
-        >Oozing canopy</kcn>
+        >If only we continue to live in the atmosphere of Master we would be feeling the rarefied air around us and be relaxed and blissful.</kcn>
     </item>
 
     <item>
@@ -356,12 +362,14 @@
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
         <quiz>Basics</quiz>
-         <babuji audio="audio/babuji/004_spirituality_is_free" txt="html/babuji/004_spirituality_is_free">Spirituality is free</babuji>
+         <babuji audio="audio/xref/babuji/004_spirituality_is_free.mp3"
+         txt="audio/xref/babuji/html/004_spirituality_is_free.html">Spirituality is free</babuji>
 
 
            <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%204/BP405_MeditationIsNotEnough.mp3"
              txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=42"
              partial_txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=66"
+             ref="BP4 - 58"
              start="3120"
              end="3420"
         >Meditation is not enough</kcn>
@@ -384,11 +392,12 @@
         <quiz>Basics</quiz>
 
 
-    <babuji audio="audio/babuji/005_chaos" txt="html/babuji/005_chaos">Chaos</babuji>
+    <babuji audio="audio/xref/babuji/005_chaos.mp3" txt="assets/xref/babuji/html/005_chaos.html">Chaos</babuji>
 
            <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%207/BP711_LionHeartedMen.mp3"
              txt="https://sriramchandra.in/books/BP7/mobile/index.html#p=176"
              partial_txt="https://sriramchandra.in/books/BP7/mobile/index.html#p=180"
+             ref="BP7 - 171"
              start="300"
              end="600"
         >Lion hearted men</kcn>
@@ -410,16 +419,17 @@
 
         <quiz>Basics</quiz>
 
-      <babuji audio="audio/babuji/006_freedom" txt="html/babuji/006_freedom">Freedom</babuji>
+      <babuji audio="audio/xref/babuji/006_freedom.mp3"
+      txt="audio/xref/babuji/html/006_freedom.html">Freedom</babuji>
 
- <kcn audio="audio/kcn/pranahuti"
+ <kcn audio="audio/xref/kcn/pranahuti.mp3"
              txt="https://sriramchandra.in/books/LiberalExpo/mobile/index.html#p=49"
              partial_txt="https://sriramchandra.in/books/LiberalExpo/mobile/index.html#p=52"
+             ref="LEPAM - 52"
              start="750"
              end="1050"
         >Pranahuti</kcn>
     </item>
-
     <item>
 
         <date>20-01-25</date><displaydate>20-January</displaydate>

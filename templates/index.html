@@ -9,6 +9,7 @@
             crossorigin="anonymous"></script>
     <script>
 
+
         function playAudio(audioEleId, startTime = 0, endTime = Number.POSITIVE_INFINITY) {
             // audioEleId: audio element's id. start time to end time in seconds
             // playAudio("babuji" , 10, 20);
@@ -87,15 +88,11 @@
             {% endif %}
      <p></p>
         <audio id='kcn_audio' controls autoplay>
-            <source src='{{ master["kcn_audio"]["audio"] }}' type="audio/mpeg">
+            <source src='{{ master["kcn_audio"]["audio"] }}#t={{ master["kcn_audio"]["start"]}},{{ master["kcn_audio"]["end"]}}' type="audio/mpeg">
             Your browser does not support the audio element.
         </audio>
         <p></p>
-        {% if master["kcn_audio"]["partial_audio_exists"] %}
-        <button onclick="playAudio('kcn_audio', {{ master['kcn_audio']['start'] | int }}, {{ master['kcn_audio']['end'] | int }})" class="btn btn-outline-primary">Pertinent</button>
-        {% endif %}
-        <button onclick="playAudio('kcn_audio')" class="btn btn-outline-primary">Complete</button>
-    <p></p>
+        <p></p>
 </div>
 {% endif %}
 </body>

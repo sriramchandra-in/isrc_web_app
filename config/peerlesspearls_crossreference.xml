@@ -286,6 +286,7 @@
         <kcn audio="audio/xref/kcn/ten_commandments.mp3"
              txt="https://sriramchandra.in/books/Meditation/mobile/index.html#p=107"
              partial_txt="https://sriramchandra.in/books/Meditation/mobile/index.html#p=112"
+             ref="Meditation - 112"
              start="1200"
              end="1500"
         >Ten Commandments</kcn>
@@ -312,8 +313,9 @@
           <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%204/BP418_Surrender%20is%20the%20keyword.mp3"
              txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=312"
              partial_txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=321"
+             ref="BP4 - 313"
              start="480"
-             end="780"
+             end="796"
         >Surrender is the keyword for effective sadhana</kcn>
     </item>
 
@@ -339,9 +341,10 @@
            <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%209/BP909_Oozing%20Canopy_2009PujyaBabujiBday.mp3"
              txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=178"
              partial_txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=180"
+             ref="BP9 - 168"
              start="240"
              end="540"
-        >Oozing canopy</kcn>
+        >If only we continue to live in the atmosphere of Master we would be feeling the rarefied air around us and be relaxed and blissful.</kcn>
     </item>
 
     <item>
@@ -366,6 +369,7 @@
            <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%204/BP405_MeditationIsNotEnough.mp3"
              txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=42"
              partial_txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=66"
+             ref="BP4 - 58"
              start="3120"
              end="3420"
         >Meditation is not enough</kcn>
@@ -393,6 +397,7 @@
            <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%207/BP711_LionHeartedMen.mp3"
              txt="https://sriramchandra.in/books/BP7/mobile/index.html#p=176"
              partial_txt="https://sriramchandra.in/books/BP7/mobile/index.html#p=180"
+             ref="BP7 - 171"
              start="300"
              end="600"
         >Lion hearted men</kcn>
@@ -420,6 +425,7 @@
  <kcn audio="audio/xref/kcn/pranahuti.mp3"
              txt="https://sriramchandra.in/books/LiberalExpo/mobile/index.html#p=49"
              partial_txt="https://sriramchandra.in/books/LiberalExpo/mobile/index.html#p=52"
+             ref="LEPAM - 52"
              start="750"
              end="1050"
         >Pranahuti</kcn>
