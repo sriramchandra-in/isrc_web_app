@@ -939,7 +939,8 @@
 
     <item>
 
-        <date>01-02-25</date>
+        <date title="Commencement of Lalaji Mahanraj's Birthday Celebrations!"
+              ref="https://sriramchandra.in/lalajimaharajstory.php">01-02-25</date>
         <displaydate>01-February</displaydate>
 
         <message href="http://www.sriramchandra.in/books/SDG/mobile/index.html#p=75">Our Great Master has boldly
@@ -959,11 +960,20 @@
         <babuji audio="audio/xref/babuji/019_masters_grace.mp3" txt="audio/xref/babuji/html/019_masters_grace.html">
             Master's Grace
         </babuji>
+        <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%204/BP411_Freedom-Liberation.mp3"
+             txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=149"
+             partial_txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=165"
+             ref="BP4 - 157"
+             start="1378"
+             end="1536"
+        >Master dismisses the notion that liberation in too tough for grihastha.
+        </kcn>
     </item>
 
     <item>
 
-        <date>02-02-25</date>
+        <date title="Happy Birthday of the Advent - Lalji Maharaj!"
+              ref="https://sriramchandra.in/lalajimaharajstory.php">02-02-25</date>
         <displaydate>02-February</displaydate>
 
         <message href="http://www.sriramchandra.in/books/SDG/SDG.html#p=33">We should utilize this occasion in getting
@@ -982,12 +992,21 @@
         <babuji audio="audio/xref/audio/babuji/020_q_and_a.mp3"
                 txt="audio/xref/babuji/html/020_q_and_a.html">Q and A
         </babuji>
+         <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%204/BP411_Freedom-Liberation.mp3"
+             txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=149"
+             partial_txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=165"
+             ref="BP4 - 157"
+             start="1378"
+             end="1536"
+        >Master dismisses the notion that liberation in too tough for grihastha.
+        </kcn>
     </item>
 
     <item>
 
 
-        <date>03-02-25</date>
+        <date title="Conclusion of Lalaji Mahanraj's Birthday Celebrations!"
+              ref="https://sriramchandra.in/lalajimaharajstory.php">03-02-25</date>
         <displaydate>03-February</displaydate>
         <message href="http://www.sriramchandra.in/books/SDG/SDG.html#p=88">Now since times are changing, as I have
             hinted at in 'Efficacy of Raj Yoga', only such means as introduced by our Revered Master Mahatma Ram
