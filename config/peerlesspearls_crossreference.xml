@@ -939,8 +939,9 @@
 
     <item>
 
-        <date title="Commencement of Lalaji Mahanraj's Birthday Celebrations!"
-              ref="https://sriramchandra.in/lalajimaharajstory.php">01-02-25</date>
+        <date title="Commencement of the Birthday Celebrations of the Advent - Lalaji Maharaj!"
+              ref="https://sriramchandra.in/lalajimaharajstory.php">01-02-25
+        </date>
         <displaydate>01-February</displaydate>
 
         <message href="http://www.sriramchandra.in/books/SDG/mobile/index.html#p=75">Our Great Master has boldly
@@ -966,14 +967,17 @@
              ref="BP4 - 157"
              start="1378"
              end="1536"
-        >Master dismisses the notion that liberation in too tough for grihastha.
+        >Master dismisses the notion that liberation in too tough for grihastha and asserts that "The popular belief
+            that the attainment of liberation is only difficult but also impossible within the span of one life is a
+            mistaken notion."
         </kcn>
     </item>
 
     <item>
 
-        <date title="Happy Birthday of the Advent - Lalji Maharaj!"
-              ref="https://sriramchandra.in/lalajimaharajstory.php">02-02-25</date>
+        <date title="Happy Birthday of the Advent - Lalaji Maharaj!"
+              ref="https://sriramchandra.in/centenary.php">02-02-25
+        </date>
         <displaydate>02-February</displaydate>
 
         <message href="http://www.sriramchandra.in/books/SDG/SDG.html#p=33">We should utilize this occasion in getting
@@ -992,21 +996,24 @@
         <babuji audio="audio/xref/audio/babuji/020_q_and_a.mp3"
                 txt="audio/xref/babuji/html/020_q_and_a.html">Q and A
         </babuji>
-         <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%204/BP411_Freedom-Liberation.mp3"
-             txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=149"
-             partial_txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=165"
-             ref="BP4 - 157"
-             start="1378"
-             end="1536"
-        >Master dismisses the notion that liberation in too tough for grihastha.
+        <kcn audio="audio/xref/kcn/centenary_message.mp3"
+             txt="audio/xref/kcn/pdf/centenary_message.pdf"
+             partial_txt="audio/xref/kcn/pdf/centenary_message.pdf"
+             ref="Commentary on Centenary Message by Pujya K.C.Narayana"
+             start="1"
+             end="300"
+        >Every one of us, when we
+            see something else, we should see only the Master in it. This is perhaps one of the profoundest
+            messages that have been found in most traditions, most religions and spiritual systems.
         </kcn>
     </item>
 
     <item>
 
 
-        <date title="Conclusion of Lalaji Mahanraj's Birthday Celebrations!"
-              ref="https://sriramchandra.in/lalajimaharajstory.php">03-02-25</date>
+        <date title="Conclusion of Birthday Celebrations of the Advent - Lalaji Maharaj!"
+              ref="https://sriramchandra.in/marafat.php">03-02-25
+        </date>
         <displaydate>03-February</displaydate>
         <message href="http://www.sriramchandra.in/books/SDG/SDG.html#p=88">Now since times are changing, as I have
             hinted at in 'Efficacy of Raj Yoga', only such means as introduced by our Revered Master Mahatma Ram
@@ -1023,6 +1030,15 @@
         <babuji audio="audio/xref/babuji/021_making_masters.mp3"
                 txt="audio/xref/babuji/html/021_making_masters.html">Making Masters
         </babuji>
+        <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%205/BP501_New%20Era%20of%20Spirituality.mp3"
+             txt="audio/xref/kcn/pdf/centenary_message.pdf"
+             partial_txt="audio/xref/kcn/pdf/centenary_message.pdf"
+             ref="BP5 - 2"
+             start="118"
+             end="327"
+        >These are the signs of a future that is developing since the Advent that can free us from the paradigm of
+            duality and separation that has caused so much conflict and division in human history.
+        </kcn>
     </item>
 
     <item>
@@ -1078,6 +1094,16 @@
         <quiz>Basics</quiz>
         <babuji audio="audio/xref/babuji/023_curvature.mp3" txt="audio/xref/babuji/html/023_curvature.html">Curvature
         </babuji>
+        <kcn audio="https://www.sriramchandra.in/audio/Bodhayanti%20Vol%2010/BP1010_Pitfalls%20in%20the%20Path.mp3"
+             txt="https://sriramchandra.in/books/BP2/mobile/index.html#p=197"
+             partial_txt="https://sriramchandra.in/books/BP2/mobile/index.html#p=198"
+             ref="BP2 - 198"
+             start="428"
+             end="440"
+        >
+            During meditation we should maintain an attitude of waiting and be grateful for whatever condition that is
+            gained.
+        </kcn>
     </item>
 
 
@@ -1098,6 +1124,16 @@
         <babuji audio="audio/xref/babuji/024_sufferings.mp3" txt="audio/xref/babuji/html/024_sufferings.html">
             Sufferings
         </babuji>
+         <kcn audio="https://www.sriramchandra.in/audio/Bodhayanti%20Vol%207/BP701_Mind%20Can%20Know%20Mind.mp3"
+             txt="https://sriramchandra.in/books/BP7/mobile/index.html#p=10"
+             partial_txt="https://sriramchandra.in/books/BP7/mobile/index.html#p=35"
+             ref="BP7 - 35"
+             start="1986"
+             end="2067"
+        >so much beyond and above the reach and grasp of heart and mind (intellect), but proper comprehension and
+            experience of that too is possible only through the heart and mind, which is oriented to soul and God. Just
+            due to this, then, there is special emphasis on cleaning and training of heart and mind in this science.
+        </kcn>
     </item>
 
     <item>
@@ -1119,6 +1155,13 @@
         <babuji audio="audio/xref/babuji/025_god_is_attributeless.mp3"
                 txt="audio/xref/babuji/html/025_god_is_attributeless.html">Q and A
         </babuji>
+
+         <kcn audio="https://www.sriramchandra.in/audio/Bodhayanti%20Vol%207/BP701_Mind%20Can%20Know%20Mind.mp3"
+             txt="https://www.sriramchandra.in/Satyapadamspdf/LightOnMeditation.pdf"
+             partial_txt="https://www.sriramchandra.in/Satyapadamspdf/LightOnMeditation.pdf#p=5"
+             start="995"
+             end="1107"
+        >Attempt to examine whether the thought of "I ness" is present during the moments when we feel totallymerged in the Void. It is my experience that the Ego or "I ness" is totally absent and there is only simple awarenessduring that period.</kcn>
     </item>
 
     <item>
@@ -1141,6 +1184,14 @@
         <quiz>Basics</quiz>
 
         <babuji audio="audio/xref/babuji/026_change.mp3" txt="audio/xref/babuji/html/026_change.html">Change</babuji>
+        <kcn audio="https://www.sriramchandra.in/audio/Bodhayanti%20Vol%207/BP712_Vagaries%20of%20Mind.mp3"
+             txt="https://www.sriramchandra.in/books/BP7/mobile/index.html#p=197"
+             partial_txt="https://sriramchandra.in/books/BP7/mobile/index.html#p=218"
+             ref="BP7 - 218"
+             start="1530"
+             end="1625"
+        >The only chance we have in life is to ‘wake up’ to this knowledge and be ‘born again’ to a new life of our own designed on the lines of the Natural Path.  It is wise to wake up and respond to the call of the Master “Awake, O sleepers, it is the hour of the dawn.” while we are in the body, because then we are giving ourselves every chance of fulfilling it. Life then gains a meaning.</kcn>
+
     </item>
 
     <item>

@@ -102,18 +102,20 @@ include_once('includes/header.php');
 
 <div class ="top-left" width="400" height="300">
 
-    <h3><b>Pujya Babuji Reading Centenary Message !</b></h3>
+    <h3><b>Conclusion of the Birthday Celebrations of the Advent - Lalaji Maharaj !</b></h3>
     <p style="font-size:22px; color:#C00; ">
-
+        <a hred='celebrations/Basant_marfat/Marfat_translation.pdf' target='_blank'>Translation of Marafat Song</a>
     </p>
-        <video  width="320" height="240" controls>
-            <source src="videos/lalaji_centenary.mp4#t=363" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
+    <p style="font-size:22px; color:#C00; ">
+        <a hred='celebrations/Basant_marfat/Marfat_translation.pdf' target='_blank'>Transliteration of Marafat Song</a>
+    </p>
+        <audio id='kcn_audio' controls>
+            <source src='celebrations/Basant_marfat/2008Basanth_Marfat.mp3' type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
 </div>
 
 
 <?php
 include_once('includes/footer.php');
-
 ?>
