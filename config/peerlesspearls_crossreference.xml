@@ -1241,7 +1241,14 @@
 
         <quiz>Basics</quiz>
         <babuji audio="audio/xref/babuji/028_the_effects" txt="audio/xref/babuji/html/028_the_effects">The effects
-        </babuji>
+</babuji>
+ <kcn audio="audio/xref/kcn/methods_of_pam.mp3"
+             txt="https://sriramchandra.in/books/LiberalExpo/mobile/index.html#p=134"
+             partial_txt="https://sriramchandra.in/books/LiberalExpo/mobile/index.html#p=134"
+             ref="LEPAM - 134"
+             start="100"
+             end="600"
+        >Suchi (purity) and Subratha (cleanliness) are two different words. They are not the same. One is purity and another is cleanliness. Body cleanliness is a must. Our attitude should be proper, proper attitude to think about the divine.</kcn>
     </item>
 
     <item>
@@ -1350,11 +1357,11 @@
 
         <quiz>Basics</quiz>
       <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%2010/BP1008_Love%20Universal.mp3"
-             txt="https://www.sriramchandra.in/books/BP5/mobile/index.html#p=76"
-             partial_txt="https://www.sriramchandra.in/books/BP5/mobile/index.tml#p=80"
+             txt="https://www.sriramchandra.in/books/BP10/mobile/index.html#p=52"
+             partial_txt="https://www.sriramchandra.in/books/BP10/mobile/index.tml#p=52"
              ref="BP10 - 46"
-             start="448"
-             end="518"
+             start="0"
+             end="55"
         >It is our privilege to meet on this most auspicious day of Basanth Panchami in the year 143 of Lalaji Era. We have all assembled here to place our hearts with love and devotion to the lord.</kcn>
 
     </item>
