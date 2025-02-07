@@ -1154,7 +1154,7 @@
                 txt="audio/xref/babuji/html/025_god_is_attributeless.html">Q and A
         </babuji>
 
-         <kcn audio="audio/xref/kcn/creaving_of_the_soul.mp3"
+         <kcn audio="audio/xref/kcn/craving_of_the_soul.mp3"
              txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=11"
              partial_txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=54"
               ref="BP9 - 42"
@@ -1211,7 +1211,14 @@
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
         <quiz>Basics</quiz>
-        <babuji audio="audio/xref/babuji/027_mantras.mp3" txt="audio/xref/babuji/html/027_mantras.html">Mantras</babuji>
+	<babuji audio="audio/xref/babuji/027_mantras.mp3" txt="audio/xref/babuji/html/027_mantras.html">Mantras</babuji>
+	<kcn audio="audio/xref/kcn/craving_of_the_soul.mp3"
+             txt="https://www.sriramchandra.in/books/BP9/mobile/index.html#p=11"
+             partial_txt="https://www.sriramchandra.in/books/BP9/mobile/index.html#p=46"
+             ref="BP9 - 34"
+             start="4074"
+             end="4400"
+        > While meditating, if you secure even a temporary lull, that means you have gone a step further on the path. You will find the conflicting ideas disappearing, when you are on your way to the path. When you acquire a state of permanency in your meditation, touching the innermost plane, the idea of the Ultimate or God becomes quite near you.</kcn>
     </item>
 
 
@@ -1312,11 +1319,17 @@
 
         <era>Prana</era>
 
-        <era_dt>01-Prana-153</era_dt>
 
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
-        <quiz>Basics</quiz>
+	<quiz>Basics</quiz>
+	 <kcn audio="https://www.sriramchandra.in/audio/Bodhayanti%20Vol%205/BP506_SriKrishna%20Thru%20SriRamchandra.mp3"
+             txt="https://www.sriramchandra.in/books/BP5/mobile/index.html#p=76"
+             partial_txt="https://www.sriramchandra.in/books/BP5/mobile/index.tml#p=80"
+             ref="BP5 - 69"
+             start="448"
+             end="518"
+        >The Worthy trainer with the powe rof yogic transmission weakens the lower tendencies of the mind of the trainee, and sows the seed of divine light in the inner most core of the Abhyasi's heart.</kcn>
 
     </item>
 
@@ -1336,6 +1349,13 @@
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
         <quiz>Basics</quiz>
+      <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%2010/BP1008_Love%20Universal.mp3"
+             txt="https://www.sriramchandra.in/books/BP5/mobile/index.html#p=76"
+             partial_txt="https://www.sriramchandra.in/books/BP5/mobile/index.tml#p=80"
+             ref="BP10 - 46"
+             start="448"
+             end="518"
+        >It is our privilege to meet on this most auspicious day of Basanth Panchami in the year 143 of Lalaji Era. We have all assembled here to place our hearts with love and devotion to the lord.</kcn>
 
     </item>
 
