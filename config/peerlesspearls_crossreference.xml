@@ -1712,12 +1712,12 @@
         <quiz>Basics</quiz>
 <babuji audio="audio/xref/babuji/044_saints.mp3" txt="audio/xref/babuji/html/044_saints.html">Saints</babuji>
 
-        <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%2010/BP1001_Spiritual%20Awakening.mp3"
+<kcn audio="audio/xref/kcn/vairagya.mp3"
              txt="https://sriramchandra.in/books/BP3/mobile/index.html#p=26"
              partial_txt="https://sriramchandra.in/books/BP3/mobile/index.html#p=28"
              ref="BP3 - 20"
-             start="61"
-             end="360"
+             start="0"
+             end="346"
                 >Nobody develops due attachment. There can be only one attachment and that is the attachment with the Divine and that ensures limiting other attachments to the level that can be called 'due'.</kcn>
     </item>
 
@@ -1739,7 +1739,17 @@
 
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
-        <quiz>Basics</quiz>
+	<quiz>Basics</quiz>
+
+	<babuji audio="audio/xref/babuji/045_intuition.mp3" txt="audio/xref/babuji/html/045_intuition.html">Intuition</babuji>
+
+<kcn audio="audio/xref/kcn/vairagya.mp3"
+             txt="https://sriramchandra.in/books/BP3/mobile/index.html#p=26"
+             partial_txt="https://sriramchandra.in/books/BP3/mobile/index.html#p=52"
+             ref="BP3 - 45"
+             start="2298"
+             end="2738"
+                >If a man behaves as a trustee he will not squander, he will discharge his responsibilities fully, so Vairagya in that sense is what we should develop. Vairagya is not inactivity, Vairagya is not activity it is a balance between these two.</kcn>
 
     </item>
 
@@ -1760,7 +1770,17 @@
 
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
-        <quiz>Basics</quiz>
+	<quiz>Basics</quiz>
+
+	<babuji audio="audio/xref/babuji/046_reading_conditions.mp3" txt="audio/xref/babuji/html/046_reading_conditions.html">Reading Conditions</babuji>
+
+<kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%209/BP912_Purity_2009PujyaBabujiBday.mp3"
+             txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=210"
+             partial_txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=213"
+             ref="BP9 - 201"
+             start="329"
+             end="582"
+                >Cleaning or purifying ourselves of negative energies through daily meditation and purificatory sessions can provide direct link to the ultimate reality i.e., the pure consciousness residing within each of us.</kcn>
 
     </item>
 
@@ -1782,7 +1802,17 @@
 
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
-        <quiz>Basics</quiz>
+	<quiz>Basics</quiz>
+
+	   <babuji audio="audio/xref/babuji/047_power_arcs.mp3" txt="audio/xref/babuji/html/047_power_arcs.html">Power Arcs</babuji>
+
+<kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%209/BP912_Purity_2009PujyaBabujiBday.mp3"
+             txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=210"
+             partial_txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=213"
+             ref="BP9 - 201"
+             start="329"
+             end="582"
+                >Cleaning or purifying ourselves of negative energies through daily meditation and purificatory sessions can provide direct link to the ultimate reality i.e., the pure consciousness residing within each of us.</kcn>
 
     </item>
 
@@ -1803,7 +1833,10 @@
 
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
-        <quiz>Basics</quiz>
+	<quiz>Basics</quiz>
+
+	<babuji audio="audio/xref/babuji/048_q_and_a.mp3" txt="audio/xref/babuji/html/048_q_and_a.html">Q & A</babuji>
+
 
     </item>
 
@@ -1825,7 +1858,9 @@
 
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
-        <quiz>Basics</quiz>
+	<quiz>Basics</quiz>
+	  <babuji audio="audio/xref/babuji/049_influence_of_the_stars.mp3" txt="audio/xref/babuji/html/049_influence_of_the_stars.html">Influence of the stars</babuji>
+
 
     </item>
 
@@ -1846,7 +1881,10 @@
 
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
-        <quiz>Basics</quiz>
+	<quiz>Basics</quiz>
+
+	<babuji audio="audio/xref/babuji/050_restlessness.mp3" txt="audio/xref/babuji/html/050_restlessness.html">Restlessness</babuji>
+
 
     </item>
 
@@ -1868,7 +1906,10 @@
 
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
-        <quiz>Basics</quiz>
+	<quiz>Basics</quiz>
+
+	<babuji audio="audio/xref/babuji/051_preparation.mp3" txt="audio/xref/babuji/html/051_preparation.html">Preparation</babuji>
+
 
     </item>
 
