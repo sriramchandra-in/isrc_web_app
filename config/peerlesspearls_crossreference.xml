@@ -1866,6 +1866,13 @@
 
 	<quiz>Basics</quiz>
 	  <babuji audio="audio/xref/babuji/049_influence_of_the_stars.mp3" txt="audio/xref/babuji/html/049_influence_of_the_stars.html">Influence of the stars</babuji>
+<kcn audio="audio/xref/kcn/viveka.mp3"
+             txt="audio/xref/kcn/pdf/viveka.pdf"
+	partial_txt="audio/xref/kcn/pdf/viveka.pdf"
+             ref="Viveka Workshop"
+             start="2079"
+             end="2744"
+                >Brooding invariably means self-interest. A man does not brood unless his self his very very important for him. When god is there and we think about him, we do not call it brooding.</kcn>
 
 
     </item>
@@ -1890,7 +1897,13 @@
 	<quiz>Basics</quiz>
 
 	<babuji audio="audio/xref/babuji/050_restlessness.mp3" txt="audio/xref/babuji/html/050_restlessness.html">Restlessness</babuji>
-
+	<kcn audio="audio/xref/kcn/vairagya.mp3"
+             txt="https://sriramchandra.in/books/BP3/mobile/index.html#p=26"
+             partial_txt="https://sriramchandra.in/books/BP3/mobile/index.html#p=41"
+             ref="BP3 - 33"
+             start="1147"
+             end="1539"
+                >When we grant permanency the problem of developing Vairagya becomes very difficult to solve; when we know that everything is transient and all relationships are transient this problem is not there.</kcn>
 
     </item>
 
@@ -1915,8 +1928,13 @@
 	<quiz>Basics</quiz>
 
 	<babuji audio="audio/xref/babuji/051_preparation.mp3" txt="audio/xref/babuji/html/051_preparation.html">Preparation</babuji>
-
-
+<kcn audio="audio/xref/kcn/vairagya.mp3"
+             txt="https://sriramchandra.in/books/BP3/mobile/index.html#p=26"
+             partial_txt="https://sriramchandra.in/books/BP3/mobile/index.html#p=41"
+             ref="BP3 - 42"
+             start="1593"
+             end="2498"
+                >Delegation is possible only in Grhastha atmosphere, a Sanyasi has nothing to delegate, we can delegate our responsibilities, duties, even when the ends do not meet we can ask somebody else to do something, we can take help and thereby our ego is controlled. The feeling that we are the sustainer of the family also is lost when we know that someone else in the family is going to help us, which is possible only for a Grhastha.</kcn>
     </item>
 
     <item>
@@ -1936,7 +1954,16 @@
 
         <quiz_link>http://www.imperience.org/quizzes/Commandment%222/Commandment%222.html</quiz_link>
 
-        <quiz>Dedication</quiz>
+	<quiz>Dedication</quiz>
+
+<babuji audio="audio/xref/babuji/052_abstinency.mp3" txt="audio/xref/babuji/html/052_abstinency.html">Abstinency</babuji>
+        <kcn audio="audio/xref/kcn/ten_commandments.mp3"
+             txt="https://sriramchandra.in/books/LiberalExpo/mobile/index.html#p=91"
+             partial_txt="https://sriramchandra.in/books/LiberalExpo/mobile/index.html#p=100"
+             ref="LEPAM - 100"
+             start="2088"
+             end="2256"
+        >We should aspire for spiritual upliftment. Begin your puja with a prayer for spiritual upliftment and rest not till that is achieved</kcn>
 
     </item>
 
@@ -1959,7 +1986,14 @@
         <quiz_link>http://www.imperience.org/quizzes/Commandment%202/Commandment%202.html</quiz_link>
 
         <quiz>Dedication</quiz>
-
+<babuji audio="audio/xref/babuji/053_visions.mp3" txt="audio/xref/babuji/html/053_visions.html">Visions</babuji>
+    <kcn audio="audio/xref/kcn/ten_commandments.mp3"
+             txt="https://sriramchandra.in/books/LiberalExpo/mobile/index.html#p=91"
+             partial_txt="https://sriramchandra.in/books/LiberalExpo/mobile/index.html#p=100"
+             ref="LEPAM - 100"
+             start="2088"
+             end="2256"
+        >We should aspire for spiritual upliftment. Begin your puja with a prayer for spiritual upliftment and rest not till that is achieved</kcn> 
     </item>
 
     <item>
