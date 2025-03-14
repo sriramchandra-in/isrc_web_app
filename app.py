@@ -26,7 +26,7 @@ def main():
     # print(kcv_abs_xml)
     #babuji_message_map = create_babuji_message_map(babuji_abs_xml)
     #kcv_message_map = create_kcv_message_map(kcv_abs_xml)
-    convert_text_to_html("config/txt/070_nearness_of_god")
+    convert_text_to_html("config/txt/100_taking_from_the_heart")
 
 if __name__ == '__main__':
   main()
