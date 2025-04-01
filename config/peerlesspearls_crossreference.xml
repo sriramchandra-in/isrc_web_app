@@ -19,7 +19,7 @@
         <quiz>Basics</quiz>
 
         <babuji audio="audio/babuji/001_divine_light" txt="html/babuji/001_divine_light">Divine Light</babuji>
-        <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%209/BP914_RealMan.mp3"
+        <kcn audio="audio/Bodhayanti%20Vol%209/BP914_RealMan.mp3"
              txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=230"
              partial_txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=235"
              start="440" end="600"
@@ -83,7 +83,7 @@
 
         <quiz>Basics</quiz>
 
-        <kcn audio="https://www.sriramchandra.in/audio/New%20folder/BP-1%20Sriramchandra%20Consciousness.mp3"  txt="https://sriramchandra.in/books/BP1/mobile/index.html#p=5" >Sri Ramchandra Consciousness</kcn>
+        <kcn audio="audio/New%20folder/BP-1%20Sriramchandra%20Consciousness.mp3"  txt="https://sriramchandra.in/books/BP1/mobile/index.html#p=5" >Sri Ramchandra Consciousness</kcn>
 
     </item>
 
@@ -121,7 +121,7 @@
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
         <quiz>Basics</quiz>
-         <kcn audio="https://sriramchandra.in/audio/New%20folder/BP-3%20Path%20of%20Pain.mp3"  txt="https://sriramchandra.in/books/BP3/mobile/index.html#p=163">Path of Pain</kcn>
+         <kcn audio="audio/New%20folder/BP-3%20Path%20of%20Pain.mp3"  txt="https://sriramchandra.in/books/BP3/mobile/index.html#p=163">Path of Pain</kcn>
 
     </item>
 
@@ -140,7 +140,7 @@
 
         <quiz>Basics</quiz>
 
-         <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%205/BP504_The%20Virtue%20of%20truth.mp3"  txt="https://www.sriramchandra.in/Satyapadamspdf/TheVirtueofTruth.pdf" >Virtue of Truth</kcn>
+         <kcn audio="audio/Bodhayanti%20Vol%205/BP504_The%20Virtue%20of%20truth.mp3"  txt="https://www.sriramchandra.in/Satyapadamspdf/TheVirtueofTruth.pdf" >Virtue of Truth</kcn>
 
     </item>
 
@@ -160,7 +160,7 @@
 
         <quiz>Basics</quiz>
 
-         <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%207/BP711_LionHeartedMen.mp3"  txt="https://sriramchandra.in/books/BP7/mobile/index.html#p=176" >Lion-hearted men alone dare approach Reality and men are made so, by Natural Path</kcn>
+         <kcn audio="audio/Bodhayanti%20Vol%207/BP711_LionHeartedMen.mp3"  txt="https://sriramchandra.in/books/BP7/mobile/index.html#p=176" >Lion-hearted men alone dare approach Reality and men are made so, by Natural Path</kcn>
 
 
     </item>
@@ -202,7 +202,7 @@
         <quiz>Basics</quiz>
 
 
-        <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%209/BP901_craving%20of%20soul1.mp3" txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=10">Craving of the soul</kcn>
+        <kcn audio="audio/Bodhayanti%20Vol%209/BP901_craving%20of%20soul1.mp3" txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=10">Craving of the soul</kcn>
     </item>
 
     <item>
@@ -240,7 +240,7 @@
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
         <quiz>Basics</quiz>
-    <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%204/BP414_Moulding_Preceptors_Business.mp3" txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=217">Swami Vivekannda defense of Sankhya Involution vs Darwin's Evolution</kcn>
+    <kcn audio="audio/Bodhayanti%20Vol%204/BP414_Moulding_Preceptors_Business.mp3" txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=217">Swami Vivekannda defense of Sankhya Involution vs Darwin's Evolution</kcn>
     </item>
 
     <item>
@@ -310,7 +310,7 @@
         <babuji audio="audio/xref/babuji/002_intercommunion.mp3"
         txt="audio/xref/babuji/html/002_intercommunion.html">Intercommunion</babuji>
 
-          <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%204/BP418_Surrender%20is%20the%20keyword.mp3"
+          <kcn audio="audio/Bodhayanti%20Vol%204/BP418_Surrender%20is%20the%20keyword.mp3"
              txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=315"
 	     partial_txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=321"
 	     ref="BP4 - 313"
@@ -338,7 +338,7 @@
         <babuji audio="audio/xref/babuji/003_constant_remembrance.mp3"
         txt="audio/xref/babuji/html/003_constant_remembrance.html">Constant Remembrance</babuji>
 
-           <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%209/BP909_Oozing%20Canopy_2009PujyaBabujiBday.mp3"
+           <kcn audio="audio/Bodhayanti%20Vol%209/BP909_Oozing%20Canopy_2009PujyaBabujiBday.mp3"
              txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=178"
 	     partial_txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=180"
 	     ref="BP9 - 168"
@@ -365,7 +365,7 @@
          <babuji audio="audio/xref/babuji/004_spirituality_is_free.mp3"
          txt="audio/xref/babuji/html/004_spirituality_is_free.html">Spirituality is free</babuji>
 
-       <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%205/BP507_On%20IMP-EventHorizon.mp3"
+       <kcn audio="audio/Bodhayanti%20Vol%205/BP507_On%20IMP-EventHorizon.mp3"
              txt="https://sriramchandra.in/books/BP5/mobile/index.html#p=93"
              partial_txt="https://sriramchandra.in/books/BP5/mobile/index.html#p=96"
              ref="BP7 - 86"
@@ -403,7 +403,7 @@
 
     <babuji audio="audio/xref/babuji/005_chaos.mp3" txt="audio/xref/babuji/html/005_chaos.html">Chaos</babuji>
 
-           <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%207/BP711_LionHeartedMen.mp3"
+           <kcn audio="audio/Bodhayanti%20Vol%207/BP711_LionHeartedMen.mp3"
              txt="https://sriramchandra.in/books/BP7/mobile/index.html#p=176"
 	     partial_txt="https://sriramchandra.in/books/BP7/mobile/index.html#p=180"
 	     ref="BP7 - 171"
@@ -459,7 +459,7 @@
   <babuji audio="audio/xref/babuji/007_homeland_message.mp3"
   txt="audio/xref/babuji/html/007_homeland_message.html">Homeland Message</babuji>
 
- <kcn audio="https://sriramchandra.in/audio/New%20folder/BP-3%20Path%20of%20Pain.mp3"
+ <kcn audio="audio/New%20folder/BP-3%20Path%20of%20Pain.mp3"
              txt="https://sriramchandra.in/books/BP3/mobile/index.html#p=162"
 	     partial_txt="https://sriramchandra.in/books/BP3/mobile/index.html#p=167"
 	     ref="BP3 - 12"
@@ -515,7 +515,7 @@
         <quiz>Basics</quiz>
         <babuji audio="audio/xref/babuji/009_relationship_with_master.mp3"
         txt="audio/xref/babuji/html/009_relationship_with_master.html">Relationship with Master</babuji>
- <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%205/BP511_Demolition%20of%20the%20past.mp3"
+ <kcn audio="audio/Bodhayanti%20Vol%205/BP511_Demolition%20of%20the%20past.mp3"
              txt="https://sriramchandra.in/books/BP5/mobile/index.html#p=144"
 	     partial_txt="https://sriramchandra.in/books/BP5/mobile/index.html#p=156"
 	     ref="BP5 - 145"
@@ -542,7 +542,7 @@
         <quiz>Basics</quiz>
           <babuji audio="audio/xref/babuji/010_meditation.mp3"
           txt="audio/xref/babuji/html/010_meditation.html">Meditation</babuji>
-       <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%204/BP405_MeditationIsNotEnough.mp3"
+       <kcn audio="audio/Bodhayanti%20Vol%204/BP405_MeditationIsNotEnough.mp3"
              txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=43"
 	     partial_txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=52"
 	     ref="BP4 - 44"
@@ -570,7 +570,7 @@
 
         <babuji audio="audio/xref/babuji/011_nervousness.mp3"
         txt="audio/xref/babuji/html/011_nervousness.html">Nervousness</babuji>
-     <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%207/BP711_LionHeartedMen.mp3"
+     <kcn audio="audio/Bodhayanti%20Vol%207/BP711_LionHeartedMen.mp3"
              txt="https://sriramchandra.in/books/BP7/mobile/index.html#p=176"
 	     partial_txt="https://sriramchandra.in/books/BP7/mobile/index.html#p=189"
 	     ref="BP7 - 180"
@@ -623,7 +623,7 @@
 
         <babuji audio="audio/xref/babuji/013_past_lives.mp3" txt="audio/xref/babuji/html/013_past_lives.html">Past Lives</babuji>
 
-<kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%204/BP405_MeditationIsNotEnough.mp3"
+<kcn audio="audio/Bodhayanti%20Vol%204/BP405_MeditationIsNotEnough.mp3"
          txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=43"
 	        partial_txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=43"
 	     ref="BP4 - 43"
@@ -647,7 +647,7 @@
         <quiz>Basics</quiz>
          <babuji audio="audio/xref/babuji/014_revolutionary_approach.mp3"
          txt="audio/xref/babuji/html/014_revolutionary_approach.html">Revolutionary Approach</babuji>
-   <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%209/BP911_Purification_2011Basanth.mp3"
+   <kcn audio="audio/Bodhayanti%20Vol%209/BP911_Purification_2011Basanth.mp3"
              txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=198"
              partial_txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=201"
              ref="BP9 - 189"
@@ -676,7 +676,7 @@
 
 <babuji audio="audio/xref/babuji/015_curvature.mp3"
 txt="audio/xref/babuji/html/015_curvature.html">Curvature</babuji>
-<kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%209/BP912_Purity_2009PujyaBabujiBday.mp3"
+<kcn audio="audio/Bodhayanti%20Vol%209/BP912_Purity_2009PujyaBabujiBday.mp3"
              txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=210"
              partial_txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=213"
              ref="BP9 - 201"
@@ -704,7 +704,7 @@ txt="audio/xref/babuji/html/015_curvature.html">Curvature</babuji>
 
  <babuji audio="audio/xref/babuji/016_meditation.mp3"
  txt="audio/xref/babuji/html/016_meditation.html">Meditation</babuji>
- <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%208/BP807_TheUnknown.mp3"            
+ <kcn audio="audio/Bodhayanti%20Vol%208/BP807_TheUnknown.mp3"            
              txt="https://sriramchandra.in/books/BP8/mobile/index.html#p=92"
 	     partial_txt="https://sriramchandra.in/books/BP8/mobile/index.html#p=94"
 	     ref="BP8 - 88"
@@ -731,7 +731,7 @@ txt="audio/xref/babuji/html/015_curvature.html">Curvature</babuji>
 
  <babuji audio="audio/xref/babuji/017_peace.mp3"
  txt="audio/xref/babuji/html/017_peace.html">Peace</babuji>
-<kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%209/BP901_craving%20of%20soul2.mp3"
+<kcn audio="audio/Bodhayanti%20Vol%209/BP901_craving%20of%20soul2.mp3"
              txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=11"
              partial_txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=49"
              ref="BP9 - 37"
@@ -759,7 +759,7 @@ txt="audio/xref/babuji/html/015_curvature.html">Curvature</babuji>
 
 <babuji audio="audio/xref/babuji/018_knots.mp3"
 txt="audio/xref/babuji/html/018_knots.html">Peace</babuji>
-<kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%207/BP703_Spiritual%20Experience.mp3"
+<kcn audio="audio/Bodhayanti%20Vol%207/BP703_Spiritual%20Experience.mp3"
              txt="https://sriramchandra.in/books/BP7/mobile/index.html#p=49"
              partial_txt="https://sriramchandra.in/books/BP7/mobile/index.html#p=68"
              ref="BP7 - 59"
@@ -785,7 +785,7 @@ txt="audio/xref/babuji/html/018_knots.html">Peace</babuji>
 
         <quiz>Basics</quiz>
 	<babuji audio="audio/xref/babuji/019_masters_grace.mp3" txt="audio/xref/babuji/html/019_masters_grace.html">Master's Grace</babuji>
-	<kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%204/BP411_Freedom-Liberation.mp3"
+	<kcn audio="audio/Bodhayanti%20Vol%204/BP411_Freedom-Liberation.mp3"
              txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=149"
              partial_txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=165"
              ref="BP4 - 157"
@@ -841,7 +841,7 @@ messages that have been found in most traditions, most religions and spiritual s
         <quiz>Basics</quiz>
  <babuji audio="audio/xref/babuji/021_making_masters.mp3"
 	 txt="audio/xref/babuji/html/021_making_masters.html">Making Masters</babuji>
- <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%205/BP501_New%20Era%20of%20Spirituality.mp3"
+ <kcn audio="audio/Bodhayanti%20Vol%205/BP501_New%20Era%20of%20Spirituality.mp3"
              txt="https://sriramchandra.in/books/BP5/mobile/index.html#p=11"
              partial_txt="https://sriramchandra.in/books/BP5/mobile/index.html#p=12"
              ref="BP5 - 2"
@@ -869,7 +869,7 @@ messages that have been found in most traditions, most religions and spiritual s
 
         <babuji audio="audio/xref/babuji/022_q_and_a.mp3"
 		txt="audio/xref/babuji/html/022_q_and_a.html">Q and A</babuji>
-	 <kcn audio="https://www.sriramchandra.in/audio/Bodhayanti%20Vol%204/BP421Path%20to%20Liberation.mp3"
+	 <kcn audio="audio/Bodhayanti%20Vol%204/BP421Path%20to%20Liberation.mp3"
              txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=363"
              partial_txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=365"
              ref="BP4 - 365"
@@ -923,7 +923,7 @@ messages that have been found in most traditions, most religions and spiritual s
 
         <quiz>Basics</quiz>
 	<babuji audio="audio/xref/babuji/024_sufferings.mp3" txt="audio/xref/babuji/html/024_sufferings.html">Sufferings</babuji>
-	<kcn audio="https://www.sriramchandra.in/audio/Bodhayanti%20Vol%207/BP701_Mind%20Can%20Know%20Mind.mp3"
+	<kcn audio="audio/Bodhayanti%20Vol%207/BP701_Mind%20Can%20Know%20Mind.mp3"
              txt="https://sriramchandra.in/books/BP7/mobile/index.html#p=10"
              partial_txt="https://sriramchandra.in/books/BP7/mobile/index.html#p=35"
              ref="BP7 - 35"
@@ -975,7 +975,7 @@ messages that have been found in most traditions, most religions and spiritual s
         <quiz>Basics</quiz>
 
 	<babuji audio="audio/xref/babuji/026_change.mp3" txt="audio/xref/babuji/html/026_change.html">Change</babuji>
-	 <kcn audio="https://www.sriramchandra.in/audio/Bodhayanti%20Vol%207/BP712_Vagaries%20of%20Mind.mp3"
+	 <kcn audio="audio/Bodhayanti%20Vol%207/BP712_Vagaries%20of%20Mind.mp3"
              txt="https://www.sriramchandra.in/books/BP7/mobile/index.html#p=197"
              partial_txt="https://sriramchandra.in/books/BP7/mobile/index.html#p=218"
              ref="BP7 - 218"
@@ -1052,7 +1052,7 @@ messages that have been found in most traditions, most religions and spiritual s
 	<quiz>Basics</quiz>
 	 <babuji audio="audio/xref/babuji/029_powers_of_nature.mp3" txt="audio/xref/babuji/html/029_powers_of_nature.html">Powers of Nature
 </babuji>
- <kcn audio="https://www.sriramchandra.in/audio/Bodhayanti%20Vol%207/BP701_Mind%20Can%20Know%20Mind.mp3"
+ <kcn audio="audio/Bodhayanti%20Vol%207/BP701_Mind%20Can%20Know%20Mind.mp3"
              txt="https://www.sriramchandra.in/books/BP7/mobile/index.html#p=10"
              partial_txt="https://www.sriramchandra.in/books/BP7/mobile/index.html#p=11"
              ref="BP7 - 2"
@@ -1076,7 +1076,7 @@ messages that have been found in most traditions, most religions and spiritual s
 
         <quiz>Basics</quiz>
 	<babuji audio="audio/xref/babuji/030_krishna.mp3" txt="audio/xref/babuji/html/030_krishna.mp3">Lord Krishna</babuji>
-	 <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%207/BP712_Vagaries%20of%20Mind.mp3"
+	 <kcn audio="audio/Bodhayanti%20Vol%207/BP712_Vagaries%20of%20Mind.mp3"
              txt="https://sriramchandra.in/books/BP7/mobile/index.html#p=197"
              partial_txt="https://sriramchandra.in/books/BP7/mobile/index.html#p=206"
              ref="BP7 - 198"
@@ -1101,7 +1101,7 @@ messages that have been found in most traditions, most religions and spiritual s
 
         <quiz>Basics</quiz>
 	<babuji audio="audio/xref/babuji/031_q_and_a.mp3" txt="audio/xref/babuji/html/031_q_and_a.html">Q and A</babuji>
-	<kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%209/BP914_RealMan.mp3"
+	<kcn audio="audio/Bodhayanti%20Vol%209/BP914_RealMan.mp3"
              txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=230"
              partial_txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=238"
              ref="BP9 - 226"
@@ -1130,7 +1130,7 @@ messages that have been found in most traditions, most religions and spiritual s
 
 	<quiz>Basics</quiz>
 	<babuji audio="audio/xref/babuji/032_the_way.mp3" txt="audio/xref/babuji/html/032_the_way.html">The way</babuji>
-	<kcn audio="https://www.sriramchandra.in/audio/Bodhayanti%20Vol%205/BP506_SriKrishna%20Thru%20SriRamchandra.mp3"
+	<kcn audio="audio/Bodhayanti%20Vol%205/BP506_SriKrishna%20Thru%20SriRamchandra.mp3"
              txt="https://www.sriramchandra.in/books/BP5/mobile/index.html#p=76"
              partial_txt="https://www.sriramchandra.in/books/BP5/mobile/index.html#p=80"
              ref="BP5 - 69"
@@ -1155,7 +1155,7 @@ messages that have been found in most traditions, most religions and spiritual s
 	<quiz>Basics</quiz>
 
 	<babuji audio="audio/xref/babuji/033_a_prophet.mp3" txt="audio/xref/babuji/html/033_a_prophet.html">A Prophet</babuji>
-<kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%2010/BP1008_Love%20Universal.mp3"
+<kcn audio="audio/Bodhayanti%20Vol%2010/BP1008_Love%20Universal.mp3"
              txt="https://www.sriramchandra.in/books/BP10/mobile/index.html#p=52"
              partial_txt="https://www.sriramchandra.in/books/BP10/mobile/index.tml#p=52"
              ref="BP10 - 46"
@@ -1183,7 +1183,7 @@ messages that have been found in most traditions, most religions and spiritual s
 
         <quiz>Basics</quiz>
     <babuji audio="audio/xref/babuji/034_the_trinity.mp3" txt="audio/xref/babuji/html/034_the_trinity.html">The Trinity</babuji>
- <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%204/BP421Path%20to%20Liberation.mp3"
+ <kcn audio="audio/Bodhayanti%20Vol%204/BP421Path%20to%20Liberation.mp3"
              txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=363"
              partial_txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=363"
              ref="BP4 - 355"
@@ -1213,7 +1213,7 @@ messages that have been found in most traditions, most religions and spiritual s
         <quiz>Basics</quiz>
 <babuji audio="audio/xref/babuji/035_nature.mp3" txt="audio/xref/babuji/html/035_nature.html">Nature</babuji>
 
-        <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%2010/BP1003_Duty.mp3"
+        <kcn audio="audio/Bodhayanti%20Vol%2010/BP1003_Duty.mp3"
              txt="https://sriramchandra.in/books/BP10/mobile/index.html#p=24"
              partial_txt="https://sriramchandra.in/books/BP10/mobile/index.html#p=28"
              ref="BP10 - 22"
@@ -1240,7 +1240,7 @@ messages that have been found in most traditions, most religions and spiritual s
 
 	 <babuji audio="audio/xref/babuji/036_speaking_to_god.mp3" txt="audio/xref/babuji/html/036_speaking_to_god.html">Speaking to God</babuji>
 
-        <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%205/BP514_They%20take%20milk%20and%20also%20pickle.mp3"
+        <kcn audio="audio/Bodhayanti%20Vol%205/BP514_They%20take%20milk%20and%20also%20pickle.mp3"
              txt="https://sriramchandra.in/books/BP5/mobile/index.html#p=198"
              partial_txt="https://sriramchandra.in/books/BP5/mobile/index.html#p=216"
              ref="BP5 - 205"
@@ -1293,7 +1293,7 @@ messages that have been found in most traditions, most religions and spiritual s
   <babuji audio="audio/xref/babuji/038_light.mp3" txt="audio/xref/babuji/html/038_light.html">Light</babuji>
 
 
-         <kcn audio="https://www.sriramchandra.in/audio/Bodhayanti%20Vol%209/BP912_Purity_2009PujyaBabujiBday.mp3"
+         <kcn audio="audio/Bodhayanti%20Vol%209/BP912_Purity_2009PujyaBabujiBday.mp3"
              txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=210"
              partial_txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=218"
              ref="BP9 - 206"
@@ -1346,7 +1346,7 @@ messages that have been found in most traditions, most religions and spiritual s
 
 	<babuji audio="audio/xref/babuji/040_powers.mp3" txt="audio/xref/babuji/html/040_powers.html">Powers</babuji>
 
-        <kcn audio="https://www.sriramchandra.in/audio/Bodhayanti%20Vol%205/BP507_On%20IMP-EventHorizon.mp3"
+        <kcn audio="audio/Bodhayanti%20Vol%205/BP507_On%20IMP-EventHorizon.mp3"
              txt="https://www.sriramchandra.in/books/BP5/mobile/index.html#p=92"
              partial_txt="https://www.sriramchandra.in/books/BP5/mobile/index.html#p=98"
              ref="BP5 - 88"
@@ -1372,7 +1372,7 @@ messages that have been found in most traditions, most religions and spiritual s
 	<quiz>Basics</quiz>
 	<babuji audio="audio/xref/babuji/041_power_arc.mp3" txt="audio/xref/babuji/html/041_power_arc.html">Power Arc</babuji>
 
-        <kcn audio="https://www.sriramchandra.in/audio/Bodhayanti%20Vol%207/BP708_The%20Understanding%20Comes.mp3"
+        <kcn audio="audio/Bodhayanti%20Vol%207/BP708_The%20Understanding%20Comes.mp3"
              txt="https://www.sriramchandra.in/books/BP7/mobile/index.html#p=130"
              partial_txt="https://www.sriramchandra.in/books/BP7/mobile/index.html#p=144"
              ref="BP7 - 136"
@@ -1399,7 +1399,7 @@ messages that have been found in most traditions, most religions and spiritual s
 	<quiz>Basics</quiz>
 	        <babuji audio="audio/xref/babuji/042_astrology.mp3" txt="audio/xref/babuji/html/042_astrology.html">Astrology</babuji>
 
-        <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%208/BP811_Faith%20in%20true%20sense.mp3"
+        <kcn audio="audio/Bodhayanti%20Vol%208/BP811_Faith%20in%20true%20sense.mp3"
              txt="https://sriramchandra.in/books/BP8/mobile/index.html#p=151"
              partial_txt="https://sriramchandra.in/books/BP8/mobile/index.html#p=159"
              ref="BP8 - 153"
@@ -1426,7 +1426,7 @@ messages that have been found in most traditions, most religions and spiritual s
 	<quiz>Basics</quiz>
 	<babuji audio="audio/xref/babuji/043_chaos.mp3" txt="audio/xref/babuji/html/043_chaos.html">Chaos</babuji>
 
-        <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%2010/BP1001_Spiritual%20Awakening.mp3"
+        <kcn audio="audio/Bodhayanti%20Vol%2010/BP1001_Spiritual%20Awakening.mp3"
              txt="https://sriramchandra.in/books/BP10/mobile/index.html#p=6"
              partial_txt="https://sriramchandra.in/books/BP10/mobile/index.html#p=8"
              ref="BP10 - 3"
@@ -1507,7 +1507,7 @@ messages that have been found in most traditions, most religions and spiritual s
 	<quiz>Basics</quiz>
 	<babuji audio="audio/xref/babuji/046_reading_conditions.mp3" txt="audio/xref/babuji/html/046_reading_conditions.html">Reading Conditions</babuji>
 
-<kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%209/BP912_Purity_2009PujyaBabujiBday.mp3"
+<kcn audio="audio/Bodhayanti%20Vol%209/BP912_Purity_2009PujyaBabujiBday.mp3"
              txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=210"
              partial_txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=213"
              ref="BP9 - 201"
@@ -1535,7 +1535,7 @@ messages that have been found in most traditions, most religions and spiritual s
         <quiz>Basics</quiz>
 <babuji audio="audio/xref/babuji/047_power_arcs.mp3" txt="audio/xref/babuji/html/047_power_arcs.html">Power Arcs</babuji>
 
-<kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%205/BP517_%20Dogmatic%20and%20Godmatic.mp3"
+<kcn audio="audio/Bodhayanti%20Vol%205/BP517_%20Dogmatic%20and%20Godmatic.mp3"
              txt="https://sriramchandra.in/books/BP5/mobile/index.html#p=289"
              partial_txt="https://sriramchandra.in/books/BP5/mobile/index.html#p=301"
              ref="BP5 - 290"
@@ -1718,7 +1718,7 @@ messages that have been found in most traditions, most religions and spiritual s
 	<quiz>Dedication</quiz>
 
 	<babuji audio="audio/xref/babuji/054_expressions.mp3" txt="audio/xref/babuji/html/054_expressions.html">Expressions</babuji>
-    <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%207/BP714_prayer.mp3"
+    <kcn audio="audio/Bodhayanti%20Vol%207/BP714_prayer.mp3"
              txt="https://sriramchandra.in/books/BP7/mobile/index.html#p=231"
              partial_txt="https://sriramchandra.in/books/BP7/mobile/index.html#p=245"
              ref="BP7 - 236"
@@ -1745,7 +1745,7 @@ messages that have been found in most traditions, most religions and spiritual s
 
 	<quiz>Dedication</quiz>
 	<babuji audio="audio/xref/babuji/055_realization.mp3" txt="audio/xref/babuji/html/055_realization.html">Realization</babuji>
-    <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%205/BP502_On%20Repentance_Pardon.mp3"
+    <kcn audio="audio/Bodhayanti%20Vol%205/BP502_On%20Repentance_Pardon.mp3"
              txt="https://sriramchandra.in/books/BP5/mobile/index.html#p=25"
              partial_txt="https://sriramchandra.in/books/BP5/mobile/index.html#p=38"
              ref="BP5- 27"
@@ -1773,7 +1773,7 @@ messages that have been found in most traditions, most religions and spiritual s
 
         <quiz>Dedication</quiz>
 <babuji audio="audio/xref/babuji/056_enfoldment.mp3" txt="audio/xref/babuji/html/056_enfoldment.html">Enfoldment</babuji>
-    <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%205/BP502_On%20Repentance_Pardon.mp3"
+    <kcn audio="audio/Bodhayanti%20Vol%205/BP502_On%20Repentance_Pardon.mp3"
              txt="https://sriramchandra.in/books/BP5/mobile/index.html#p=25"
              partial_txt="https://sriramchandra.in/books/BP5/mobile/index.html#p=38"
              ref="BP5 - 27"
@@ -1800,7 +1800,7 @@ messages that have been found in most traditions, most religions and spiritual s
 
         <quiz>Dedication</quiz>
 <babuji audio="audio/xref/babuji/057_tasteless_taste.mp3" txt="audio/xref/babuji/html/057_tasteless_taste.html">Tasteless Taste</babuji>
-    <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%204/BP416_service-serf.mp3"
+    <kcn audio="audio/Bodhayanti%20Vol%204/BP416_service-serf.mp3"
              txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=281"
              partial_txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=287"
              ref="BP4 - 279"
@@ -1854,7 +1854,7 @@ messages that have been found in most traditions, most religions and spiritual s
 
         <quiz>Dedication</quiz>
 <babuji audio="audio/xref/babuji/059_blind_belief.mp3" txt="audio/xref/babuji/html/059_blind_belief.html">Blind Belief</babuji>
-        <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%207/BP710_happiest%20man%20who%20is%20happy....mp3"
+        <kcn audio="audio/Bodhayanti%20Vol%207/BP710_happiest%20man%20who%20is%20happy....mp3"
              txt="https://sriramchandra.in/books/BP7/mobile/index.html#p=156"
              partial_txt="https://sriramchandra.in/books/BP7/mobile/index.html#p=171"
              ref="BP7 - 162"
@@ -1881,7 +1881,7 @@ messages that have been found in most traditions, most religions and spiritual s
 
 	<quiz>Dedication</quiz>
 <babuji audio="audio/xref/babuji/060_individuality.mp3" txt="audio/xref/babuji/html/060_individuality.html">Individuality</babuji>
-        <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%208/BP807_TheUnknown.mp3"
+        <kcn audio="audio/Bodhayanti%20Vol%208/BP807_TheUnknown.mp3"
              txt="https://sriramchandra.in/books/BP8/mobile/index.html#p=92"
              partial_txt="https://sriramchandra.in/books/BP8/mobile/index.html#p=102"
              ref="BP9 - 96"
@@ -1909,7 +1909,7 @@ s during meditation and also during prayers. Master states that "Sometimes these
 
 	<quiz>Dedication</quiz>
 	<babuji audio="audio/xref/babuji/061_illusion.mp3" txt="audio/xref/babuji/html/061_illusion.html">Illusion</babuji>
-        <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%205/BP506_SriKrishna%20Thru%20SriRamchandra.mp3"
+        <kcn audio="audio/Bodhayanti%20Vol%205/BP506_SriKrishna%20Thru%20SriRamchandra.mp3"
              txt="https://sriramchandra.in/books/BP5/mobile/index.html#p=65"
              partial_txt="https://sriramchandra.in/books/BP5/mobile/index.html#p=89"
              ref="BP5 - 78"
@@ -1969,7 +1969,7 @@ particular ocean..that comes after all our stages of progress. He says for that 
 	ref="BP2 - 278"
 		>Constant remembrance by itself will not stop formation of samskaras. The remembrance should be such that a feeling that all actions are done by Him, that He is the knower of the action and also the enjoyer of all actions.
 	</main_kcn>
-        <kcn audio="https://www.sriramchandra.in/audio/Bodhayanti%20Vol%204/BP405_MeditationIsNotEnough.mp3"
+        <kcn audio="audio/Bodhayanti%20Vol%204/BP405_MeditationIsNotEnough.mp3"
              txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=42"
              partial_txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=89"
              ref="BP4 - 44"
@@ -1999,7 +1999,7 @@ particular ocean..that comes after all our stages of progress. He says for that 
 
         <seminar>http://www.imperience.org/SeminarArchives/SeminarsLoveIsTheInnerAwakeningToReality.htm</seminar>
 <babuji audio="audio/xref/babuji/064_beyond_matter.mp3" txt="audio/xref/babuji/html/064_beyond_matter.html">Beyond Matter</babuji>
-        <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%204/BP412%20Love%20is%20the%20Inner%20Awakening%20to%20Reality.mp3"
+        <kcn audio="audio/Bodhayanti%20Vol%204/BP412%20Love%20is%20the%20Inner%20Awakening%20to%20Reality.mp3"
              txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=171"
              partial_txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=205"
              ref="BP4 - 197"
@@ -2026,7 +2026,7 @@ particular ocean..that comes after all our stages of progress. He says for that 
 
         <quiz>Dedication</quiz>
 <babuji audio="audio/xref/babuji/065_spirituality.mp3" txt="audio/xref/babuji/html/065_spirituality.html">Spirituality</babuji>
-        <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%208/BP805_Company%20of%20Divine.mp3"
+        <kcn audio="audio/Bodhayanti%20Vol%208/BP805_Company%20of%20Divine.mp3"
              txt="https://sriramchandra.in/books/BP8/mobile/index.html#p=63"
              partial_txt="https://sriramchandra.in/books/BP8/mobile/index.html#p=66"
              ref="BP8 - 60"
@@ -2053,14 +2053,14 @@ particular ocean..that comes after all our stages of progress. He says for that 
 
         <quiz>Dedication</quiz>
         <babuji audio="audio/xref/babuji/066_his_sensitivity.mp3" txt="audio/xref/babuji/html/066_his_sensitivity.html">His Sensitivity</babuji>
-	 <main_kcn audio="https://www.sriramchandra.in/audio/Bodhayanti%20Vol%204/BP412%20Love%20is%20the%20Inner%20Awakening%20to%20Reality.mp3" txt="https://sriramchandra.in/books/BP2/mobile/index.html#p=170"
+	 <main_kcn audio="audio/Bodhayanti%20Vol%204/BP412%20Love%20is%20the%20Inner%20Awakening%20to%20Reality.mp3" txt="https://sriramchandra.in/books/BP2/mobile/index.html#p=170"
 		 partial_txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=185"
 		 start="1377"
 		 end="1412"
         ref="BP4 - 177"
                 >This linking with the Master, ensures that the Divine current readily running through every fibre of our being kindling the feeling of true love and devotion in the heart.
         </main_kcn>
-	<kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%204/BP415_Divinity_play_.mp3"
+	<kcn audio="audio/Bodhayanti%20Vol%204/BP415_Divinity_play_.mp3"
                     txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=241"
                     partial_txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=273"
                     ref="BP4 - 265"
@@ -2087,14 +2087,14 @@ particular ocean..that comes after all our stages of progress. He says for that 
 
         <quiz>Dedication</quiz>
 	<babuji audio="audio/xref/babuji/067_the_effects_of_medicine.mp3" txt="audio/xref/babuji/html/067_the_effects_of_medicine.html">Effects of Medicine</babuji>
-	<main_kcn audio="https://www.sriramchandra.in/audio/Bodhayanti%20Vol%204/BP412%20Love%20is%20the%20Inner%20Awakening%20to%20Reality.mp3" txt="https://sriramchandra.in/books/BP2/mobile/index.html#p=171"
+	<main_kcn audio="audio/Bodhayanti%20Vol%204/BP412%20Love%20is%20the%20Inner%20Awakening%20to%20Reality.mp3" txt="https://sriramchandra.in/books/BP2/mobile/index.html#p=171"
                  partial_txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=185"
                  start="1388"
                  end="1416"
         ref="BP4 - 177"
                 >According to our Master by connecting ourselves with such a person with love and devotion and by practicing meditation in the right manner, we get transcended accordingly.
         </main_kcn>
-        <kcn audio="https://www.sriramchandra.in/audio/Bodhayanti%20Vol%2010/BP1011_Bhakti%20in%20Sri%20Ramchandra%20Raja%20Yoga.mp3"
+        <kcn audio="audio/Bodhayanti%20Vol%2010/BP1011_Bhakti%20in%20Sri%20Ramchandra%20Raja%20Yoga.mp3"
                     txt="https://sriramchandra.in/books/BP10/mobile/index.html#p=70"
                     partial_txt="https://sriramchandra.in/books/BP10/mobile/index.html#p=73"
                     ref="BP10 - 67"
@@ -2121,7 +2121,7 @@ particular ocean..that comes after all our stages of progress. He says for that 
 
         <quiz>Dedication</quiz>
         <babuji audio="audio/xref/babuji/068_devotion.mp3" txt="audio/xref/babuji/html/068_devotion.html">Devotion</babuji>
-        <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%204/BP412%20Love%20is%20the%20Inner%20Awakening%20to%20Reality.mp3"
+        <kcn audio="audio/Bodhayanti%20Vol%204/BP412%20Love%20is%20the%20Inner%20Awakening%20to%20Reality.mp3"
              txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=171"
              partial_txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=187"
              ref="BP4 - 177"
@@ -2151,7 +2151,7 @@ particular ocean..that comes after all our stages of progress. He says for that 
         <seminar>http://www.imperience.org/SeminarArchives/SeminarsRemembrance.htm</seminar>
 
         <babuji audio="audio/xref/babuji/069_explanation.mp3" txt="audio/xref/babuji/html/069_explanation.html">Explanation</babuji>
-        <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%205/BP512_Remembrance%20of%20everything.mp3"
+        <kcn audio="audio/Bodhayanti%20Vol%205/BP512_Remembrance%20of%20everything.mp3"
              txt="https://sriramchandra.in/books/BP5/mobile/index.html#p=172"
              partial_txt="https://sriramchandra.in/books/BP5/mobile/index.html#p=172"
              ref="BP5 - 162"
@@ -2189,7 +2189,7 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
 3. The self of the aspirant has to be turned to Divinity. This has to be done so that harmony is developed by him and his Self (Ego) is reduced.
 4. The trainer has the knowledge of centers and the energy they contain, and he exercises his will to direct the Divine power coming to him towards the aspirant.
         </main_kcn>
-        <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%204/BP414_Moulding_Preceptors_Business.mp3"
+        <kcn audio="audio/Bodhayanti%20Vol%204/BP414_Moulding_Preceptors_Business.mp3"
              txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=217"
              partial_txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=232"
              ref="BP4 - 224"
@@ -2221,7 +2221,7 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
                 ref="BP1 - 168"
                 >When we are talking about these things, the question arises as to how to liberate ourselves and move towards higher stages. First of all, we have to seek from the Master, Pranahuti. That enables us to move from the bestial self to human self. The second help that we get after we stabilise ourselves in the U portion of the heart, and practice the method of meditation and cleaning prescribed in the system, we are able to feel the Divine inside the heart. Then through the continuous influx of Pranahuti, the flow of consciousness which has been restricted to its down ward movement is now diverted towards, Atma chakra. What happens to us is, there is a support of the Divine that comes to us, which takes care of modifications required at this level.
         </main_kcn>
-        <kcn audio="https://sriramchandra.in/audio/xref/kcn/ten_commandments.mp3"
+        <kcn audio="audio/xref/kcn/ten_commandments.mp3"
              txt="https://sriramchandra.in/books/Meditation/mobile/index.html#p=107"
              partial_txt="https://sriramchandra.in/books/Meditation/mobile/index.html#p=112"
              ref="Meditation - 121"
@@ -2252,7 +2252,7 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         ref="BP1 - 207"
                 >The Master asserts that 'we start our practice from Sham, the first of six sampattis of third sadhana of the Vedantists and devote all our attention to the proper moulding and regulation of mind which is easily accomplished by the help of the transmitted power of worthy master. Control of senses and indiryas (or Dam) follows automatically when we fix our mind on one thing alone which is the Reality ignoring all others (Knots1&amp;2)
         </main_kcn>
-        <kcn audio="https://www.sriramchandra.in/audio/Bodhayanti%20Vol%2010/BP1003_Duty.mp3"
+        <kcn audio="audio/Bodhayanti%20Vol%2010/BP1003_Duty.mp3"
              txt="https://www.sriramchandra.in/books/BP10/mobile/index.html#p=24"
              partial_txt="https://www.sriramchandra.in/books/BP10/mobile/index.html#p=28"
              ref="BP10 - 22"
@@ -2278,7 +2278,7 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
 
         <quiz>Dedication</quiz>
         <babuji audio="audio/xref/babuji/073_positive_thinking.mp3" txt="audio/xref/babuji/html/073_positive_thinking.html">Positive Thinking</babuji>
-        <kcn audio="https://www.sriramchandra.in/audio/Bodhayanti%20Vol%204/BP414_Moulding_Preceptors_Business.mp3"
+        <kcn audio="audio/Bodhayanti%20Vol%204/BP414_Moulding_Preceptors_Business.mp3"
              txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=217"
              partial_txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=246"
              ref="BP4 - 238" 
@@ -2342,7 +2342,7 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
 
         <quiz>Dedication</quiz>
         <babuji audio="audio/xref/babuji/075_honest_means.mp3" txt="audio/xref/babuji/html/075_honest_means.html">Honest Means</babuji>
-        <kcn audio="https://www.sriramchandra.in/audio/Bodhayanti%20Vol%204/BP412%20Love%20is%20the%20Inner%20Awakening%20to%20Reality.mp3"
+        <kcn audio="audio/Bodhayanti%20Vol%204/BP412%20Love%20is%20the%20Inner%20Awakening%20to%20Reality.mp3"
              txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=171"
              partial_txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=175"
              ref="BP4 - 167"
@@ -2371,7 +2371,7 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
 
         <seminar>http://www.imperience.org/SeminarArchives/SeminarsWeAre.htm</seminar>
         <babuji audio="audio/xref/babuji/076_philosophical_talk.mp3" txt="audio/xref/babuji/html/076_philosophical_talk.html">Philosophical Talk</babuji>
-        <kcn audio="https://www.sriramchandra.in/audio/Bodhayanti%20Vol%205/BP515_We%20are%20and%20we%20are%20not.mp3"
+        <kcn audio="audio/Bodhayanti%20Vol%205/BP515_We%20are%20and%20we%20are%20not.mp3"
              txt="https://www.sriramchandra.in/books/BP5/mobile/index.html#p=222"
              partial_txt="https://www.sriramchandra.in/books/BP5/mobile/index.html#p=222"
              ref="BP5 - 211"
@@ -2398,7 +2398,7 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
 
         <quiz>Dedication</quiz>
         <babuji audio="audio/xref/babuji/077_q_and_a.mp3" txt="audio/xref/babuji/html/077_q_and_a.html">Q and A</babuji>
-        <kcn audio="https://www.sriramchandra.in/audio/New%20folder/BP-108%20Pranahuti%20and%20its%20Role.mp3"
+        <kcn audio="audio/New%20folder/BP-108%20Pranahuti%20and%20its%20Role.mp3"
              txt="https://www.sriramchandra.in/books/BP3/mobile/index.html#p=65"
              partial_txt="https://www.sriramchandra.in/books/BP3/mobile/index.html#p=74"
              ref="BP3 - 66"
@@ -2424,7 +2424,7 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
 
         <quiz>Dedication</quiz>
         <babuji audio="audio/xref/babuji/078_philosophy.mp3" txt="audio/xref/babuji/html/078_philosophy.html">Philosophy</babuji>
-        <kcn audio="https://www.sriramchandra.in/audio/Bodhayanti%20Vol%204/BP414_Moulding_Preceptors_Business.mp3"
+        <kcn audio="audio/Bodhayanti%20Vol%204/BP414_Moulding_Preceptors_Business.mp3"
              txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=217"
              partial_txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=232"
              ref="BP4 - 225"
@@ -2451,7 +2451,7 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
 
         <quiz>Dedication</quiz>
         <babuji audio="audio/xref/babuji/079_vedas_I.mp3" txt="audio/xref/babuji/html/079_vedas_I.html">Vedas I</babuji>
-        <kcn audio="https://www.sriramchandra.in/audio/New%20folder/BP-108%20Pranahuti%20and%20its%20Role.mp3"
+        <kcn audio="audio/New%20folder/BP-108%20Pranahuti%20and%20its%20Role.mp3"
              txt="https://www.sriramchandra.in/books/BP3/mobile/index.html#p=65"
              partial_txt="https://www.sriramchandra.in/books/BP3/mobile/index.html#p=74"
              ref="BP3 - 66"
@@ -2478,7 +2478,7 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
 
         <quiz>Dedication</quiz>
         <babuji audio="audio/xref/babuji/080_vedas_II.mp3" txt="audio/xref/babuji/html/080_vedas_II.html">Vedas II</babuji>
-        <kcn audio="https://www.sriramchandra.in/audio/Bodhayanti%20Vol%207/BP706_Living%20Master.mp3"
+        <kcn audio="audio/Bodhayanti%20Vol%207/BP706_Living%20Master.mp3"
              txt="https://www.sriramchandra.in/books/BP7/mobile/index.html#p=98"
              partial_txt="https://www.sriramchandra.in/books/BP7/mobile/index.html#p=109"
              ref="BP7 - 100"
@@ -2499,7 +2499,7 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <quiz_link>http://www.imperience.org/quizzes/Commandment%202/Commandment%202.html</quiz_link>
         <quiz>Dedication</quiz>
         <babuji audio="audio/xref/babuji/081_egoism.mp3" txt="audio/xref/babuji/html/081_egoism.html">Egoism</babuji>
-        <kcn audio="https://www.sriramchandra.in/audio/Bodhayanti%20Vol%205/BP506_SriKrishna%20Thru%20SriRamchandra.mp3"
+        <kcn audio="audio/Bodhayanti%20Vol%205/BP506_SriKrishna%20Thru%20SriRamchandra.mp3"
              txt="https://www.sriramchandra.in/books/BP5/mobile/index.html#p=65"
              partial_txt="https://www.sriramchandra.in/books/BP5/mobile/index.html#p=80"
              ref="BP5 - 69"
@@ -2519,7 +2519,7 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <quiz_link>http://www.imperience.org/quizzes/Commandment%202/Commandment%202.html</quiz_link>
         <quiz>Dedication</quiz>
         <babuji audio="audio/xref/babuji/082_my_master.mp3" txt="audio/xref/babuji/html/082_my_master.html">My Master</babuji>
-        <kcn audio="https://www.sriramchandra.in/audio/Bodhayanti%20Vol%205/BP501_New%20Era%20of%20Spirituality.mp3"
+        <kcn audio="audio/Bodhayanti%20Vol%205/BP501_New%20Era%20of%20Spirituality.mp3"
              txt="https://www.sriramchandra.in/books/BP5/mobile/index.html#p=12"
              partial_txt="https://www.sriramchandra.in/books/BP5/mobile/index.html#p=22"
              ref="BP5 - 11"
@@ -2546,13 +2546,13 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
 
         <quiz>Dedication</quiz>
         <babuji audio="audio/xref/babuji/083_anger.mp3" txt="audio/xref/babuji/html/083_anger.html">Anger</babuji>
-        <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%209/BP904_Grace%20Divine.mp3"
+        <kcn audio="audio/Bodhayanti%20Vol%209/BP904_Grace%20Divine.mp3"
              txt="https://www.sriramchandra.in/books/BP9/mobile/index.html#p=121"
              partial_txt="https://www.sriramchandra.in/books/BP9/mobile/index.html#p=121"
              ref="BP9 - 109"
              start="64"
              end="108"
-             >In our sanstha, the reality is infused in to the Abhyasi at the first stroke. It serves as a seed for further growth which, under the watchful eye of the Master, goes on developing, unaffected bythe scorching heat of adverse circumstances.
+             >In our sanstha, the reality is infused in to the Abhyasi at the first stroke. It serves as a seed for further growth which, under the watchful eye of the Master, goes on developing, unaffected by the scorching heat of adverse circumstances.
         </kcn>
 
     </item>
@@ -2573,13 +2573,13 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
 
         <quiz>Dedication</quiz>
         <babuji audio="audio/xref/babuji/084_naturalness.mp3" txt="audio/xref/babuji/html/084_naturalness.html">Naturalness</babuji>
-        <kcn audio=""
+        <kcn audio="audio/xref/kcn/introductory_sittings.mp3"
              txt="https://www.sriramchandra.in/books/LiberalExpo/mobile/index.html#p=161"
              partial_txt="https://www.sriramchandra.in/books/LiberalExpo/mobile/index.html#p=169"
              ref="LEPAM - 169"
              start="1980"
              end="2090"
-             >Ajapa is that condition.After laborious efforts of reciting a particular japa, a person comes to that state of vibrations in the traditional path,where as in PAM that is introduced in the first sitting itself.
+             >Ajapa is that condition. After laborious efforts of reciting a particular japa, a person comes to that state of vibrations in the traditional path,where as in PAM that is introduced in the first sitting itself.
         </kcn>
     </item>
     <item>
@@ -2591,7 +2591,7 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <quiz_link>http://www.imperience.org/quizzes/Commandment%202/Commandment%202.html</quiz_link>
         <quiz>Dedication</quiz>
         <babuji audio="audio/xref/babuji/085_message.mp3" txt="audio/xref/babuji/html/085_message.html">Message</babuji>
-        <kcn audio="https://sriramchandra.in/audio/New%20folder/BP-203%20Exposition%20on%20Gita.mp3"
+        <kcn audio="audio/New%20folder/BP-203%20Exposition%20on%20Gita.mp3"
              txt="https://sriramchandra.in/books/BP2/mobile/index.html#p=113"
              partial_txt="https://sriramchandra.in/books/BP2/mobile/index.html#p=119"
              ref="BP2 - 117"
@@ -2609,7 +2609,7 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <quiz_link>http://www.imperience.org/quizzes/Commandment%202/Commandment%202.html</quiz_link>
         <quiz>Dedication</quiz>
         <babuji audio="audio/xref/babuji/086_worship.mp3" txt="audio/xref/babuji/html/086_worship_II.html">Worship</babuji>
-        <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%204/BP412%20Love%20is%20the%20Inner%20Awakening%20to%20Reality.mp3"
+        <kcn audio="audio/Bodhayanti%20Vol%204/BP412%20Love%20is%20the%20Inner%20Awakening%20to%20Reality.mp3"
              txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=171"
              partial_txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=185"
              ref="BP4 - 177"
@@ -2635,7 +2635,7 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
 
         <quiz>Dedication</quiz>
         <babuji audio="audio/xref/babuji/087_meditation.mp3" txt="audio/xref/babuji/html/087_meditation.html">Meditation</babuji>
-        <kcn audio="https://www.sriramchandra.in/audio/Bodhayanti%20Vol%207/BP712_Vagaries%20of%20Mind.mp3"
+        <kcn audio="audio/Bodhayanti%20Vol%207/BP712_Vagaries%20of%20Mind.mp3"
              txt="https://sriramchandra.in/books/BP7/mobile/index.html#p=197"
              partial_txt="https://sriramchandra.in/books/BP7/mobile/index.html#p=207"
              ref="BP7 - 198"
@@ -2653,7 +2653,7 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <quiz_link>http://www.imperience.org/quizzes/Commandment%202/Commandment%202.html</quiz_link>
         <quiz>Dedication</quiz>
         <babuji audio="audio/xref/babuji/088_creation_of_world.mp3" txt="audio/xref/babuji/html/088_creation_of_world.html">Creation Of World</babuji>
-        <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%209/BP901_craving%20of%20soul1.mp3"
+        <kcn audio="audio/xref/kcn/craving_of_the_soul.mp3"
              txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=11"
              partial_txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=87"
              ref="BP9 - 75"
@@ -2676,7 +2676,7 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
             ref="BP3 - 122"
             >Aspiration is a vital key to success. Desire invariably involves expectation and if it is not fulfilled there is despair, frustration and anger. In Aspiration there is persistent effort and the effort itself becomes a source of joy and happiness. Sadhana is its own reward. In genuine aspiration there is no frustration. By killing the desires, aspiration builds true happiness. Master, in his book 'Ten Commandments' asks us in the third commandment to "Fix your goal which should be complete oneness with God. Rest not till the ideal is achieved." He is clear in directing us to fix our goal as oneness with God.
         </main_kcn>
-        <kcn audio="https://www.sriramchandra.in/audio/New%20folder/BP-106%20Lord%20krishna.mp3"
+        <kcn audio="audio/New%20folder/BP-106%20Lord%20krishna.mp3"
              txt="https://sriramchandra.in/books/BP2/mobile/index.html#p=57"
              partial_txt="https://sriramchandra.in/books/BP2/mobile/index.html#p=105"
              ref="BP2 - 103"
@@ -2694,19 +2694,19 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <quiz_link>http://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
         <babuji audio="audio/xref/babuji/090_man_and_the_world.mp3" txt="audio/xref/babuji/html/090_man_and_the_world.html">Man And The World</babuji>
-        <main_kcn txt="https://sriramchandra.in/books/BP3/mobile/index.html#p=155"
+        <kcn txt="https://sriramchandra.in/books/BP3/mobile/index.html#p=155"
             partial_txt="https://sriramchandra.in/books/BP3/mobile/index.html#p=158"
             ref="BP3 - 150"
             >The first belief or faith that he listed relates to faith in one self that he can achieve the goal. If we have faith that we will get a proper and competent guide we will surely get one. This is what he said when he stated the guru will come to the doors of a sincere seeker. This faith is a must to succeed in sadhana. It would be erroneous to doubt ones deservancy for realisation not withstanding what the Sanyasins have said. The main point for focus now is how to keep our belief system in alignment with the goals we want to accomplish. As Master has stressed we should be clear about the goal from the beginning. Master has emphasised the need fix up the goal first. “It is very essential for every one to fix his thought at the very outset, upon the goal which he has to attain so that his thought and will may pave his way into it.” Having fixed the goal of attainment of the highest good, we should really believe that we can accomplish the task and reach the goal.
-        </main_kcn>
-        <kcn audio="https://www.sriramchandra.in/audio/Bodhayanti%20Vol%204/BP411_Freedom-Liberation.mp3"
+        </kcn>
+        <main_kcn audio="audio/Bodhayanti%20Vol%204/BP411_Freedom-Liberation.mp3"
              txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=149"
              partial_txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=163"
              ref="BP4 - 155"
              start="1280"
-             end="1320"
+             end="1350"
              >Master said ― If we go with the full force at our command towards our main goal, the world would itself become a second thought. Go on doing the process of meditation till it is matured. This is the last stage of meditation. When we become one with the real thing, the things following it grow so dark that we do not perceive them. In other words, we become blind in this respect and our vision for the real things improves and we bring it to such a standard that we are lost altogether. When this condition comes we feel that we are in the state of liberation. If this condition is matured then there is the end of all miseries — no pain, no sorrow, no enjoyment and no pleasure. The machinery of body now works without producing impressions upon us. In other words, the body becomes an automatic.
-        </kcn>
+        </main_kcn>
     </item>
     <item>
         <date>14-04-25</date><displaydate>14-April</displaydate>
@@ -2717,7 +2717,7 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <quiz_link>http://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
         <babuji audio="audio/xref/babuji/091_moderate_living.mp3" txt="audio/xref/babuji/html/091_moderate_living.html">Moderate Living</babuji>
-        <kcn audio="https://www.sriramchandra.in/audio/Bodhayanti%20Vol%208/BP807_TheUnknown.mp3"
+        <kcn audio="audio/Bodhayanti%20Vol%208/BP807_TheUnknown.mp3"
              txt="https://sriramchandra.in/books/BP8/mobile/index.html#p=92"
              partial_txt="https://sriramchandra.in/books/BP8/mobile/index.html#p=102"
              ref="BP8 - 96"
@@ -2741,9 +2741,15 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
              ref="BP1 - 98"
              >We should be sincere in the method. There is no point in trying to ride two horses at a time. Sincerity means single pointed approach, Ekagravritti - Sincerity of approach. When we are trying to do a mathematics problem, let our mind be on the mathematics problem. Let it not go to physics. That is sincerity. If we attend sincerely to our work, we will definitely achieve it, because sincerity means only this much. Don't deviate from the task and the method that you have chosen, follow it. See the result. Sincerity is a must. It is necessary to note that Divinity is the goal and the way to that also is Divine. We cannot reach Divine directly by our effort. We require Divinity to help us to reach Divinity.
         </main_kcn>
-
+        <kcn audio="audio/Bodhayanti%20Vol%204/BP420_Proper%20Motivation.mp3"
+             txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=341"
+             partial_txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=349"
+             ref="BP4 - 349"
+             start="810"
+             end="848"
+             >This motivation is the pivot for understanding the Natural Path of our Master in the real sense of term. For a proper appreciation of this nature of mind the practice of the Commandments of the Master is of paramount importance. Thus the goal fixed for us, to gain Oneness with God essentially requires pure motivation and the attitude that we are doing the practice and study of the Natural path essentially for the development of the Universal consciousness. The Commandment 9 of the Master in its essence is only this. That is the doorway to Brahmand and further stations in the Path.
+        </kcn>
     </item>
-
     <item>
 
         <date>16-04-25</date><displaydate>16-April</displaydate>
