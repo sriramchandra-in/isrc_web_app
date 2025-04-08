@@ -2039,13 +2039,13 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
         <babuji audio="audio/xref/babuji/103_smoking.mp3" txt="audio/xref/babuji/html/103_smoking.html">Smoking</babuji>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
+        <kcn audio="audio/Bodhayanti%20Vol%204/BP405_MeditationIsNotEnough.mp3"
+             txt="books/BP4/mobile/index.html#p=43"
+             partial_txt="books/BP4/mobile/index.html#p=43"
+             ref="BP4 - 35"
+             start="1"
+             end="284"
+             >Master himself has stated that it is not enough if we just do meditation and follow the methods as advised and we need to develop love and devotion to Master.
         </kcn>
     </item>
     <item>
@@ -2057,13 +2057,13 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
         <babuji audio="audio/xref/babuji/104_lalaji_singing.mp3" txt="audio/xref/babuji/html/104_lalaji_singing.html">Lalaji singing</babuji>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
+        <kcn audio="celebrations/babuji2016/2016BabujiBday_KCN_26Apr2016.mp3"
+             txt="Satyapadamspdf/23_3_Silence%20Our%20Goal.pdf"
+             partial_txt="Satyapadamspdf/23_3_Silence%20Our%20Goal.pdf"
+             ref="Satyapadam 27Apr2016"
+             start="1"
+             end="761"
+             >Unless we develop that restlessness to be with the Master or in silence, unless you are prepared to shut up yourselves you will not have that restlessness.
         </kcn>
     </item>
     <item>
@@ -2075,13 +2075,13 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
         <babuji audio="audio/xref/babuji/105_peace_giver.mp3" txt="audio/xref/babuji/html/105_peace_giver.html">Peace giver</babuji>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
+        <kcn audio="Audio/Celebrations/2009PujBabujiBday_PujyaKCN_13May2009.mp3"
+             txt="celebrations/babuji2009/2009PujyaBabujiBdayPujyaKCN13May09.pdf"
+             partial_txt="celebrations/babuji2009/2009PujyaBabujiBdayPujyaKCN13May09.pdf"
+             ref="Celebrations - 13May2009"
+             start="320"
+             end="530"
+             >One has to not only be with the Master during meditation but live with him always. Then the very presence of Master would enfold us. It would be all divine light around us.
         </kcn>
     </item>
     <item>
@@ -2093,13 +2093,18 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
         <babuji audio="audio/xref/babuji/106_thoughts.mp3" txt="audio/xref/babuji/html/106_thoughts.html">Thoughts</babuji>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
+        <main_kcn audio="audio/Bodhayanti%20Vol%205/BP512_Remembrance%20of%20everything.mp3"
+             txt="books/BP5/mobile/index.html#p=173"
+             partial_txt="books/BP5/mobile/index.html#p=186"
+             ref="BP5 - 175"
+             start="1064"
+             end="1153"
+             >when the love for the Master develops and grows in us and we start living for Him and His cause we see the benefits of remembering God and we tend to do everything that would please the Divine.
+        </main_kcn>
+        <kcn txt="books/BP3/mobile/index.html#p=127"
+             partial_txt="books/BP3/mobile/index.html#p=131"
+             ref="BP3 - 123"
+             >When we desire to know the Divine (our true nature) we understand that there are many things that stand in the way of such an attempt and since the desire to realize is very intense we are prepared for the necessary effort to be put in to achieve the goal we have set for ourselves.
         </kcn>
     </item>
     <item>
@@ -2111,7 +2116,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
         <babuji audio="audio/xref/babuji/107_balance.mp3" txt="audio/xref/babuji/html/107_balance.html">Balance</babuji>
-        <kcn audio="https://drive.google.com/file/d/1KQNSj9O0Ldoe_qCWyEcfsXDxirxecWL2/view?usp=drive_link" txt="https://www.sriramchandra.in/Satyapadamspdf/23_3_Message_15PrabhuLE144.pdf">Special Personality</kcn>
+        <kcn audio="celebrations/babuji2012/2012PujyaBabujiBdayRevKCN10May2012.mp3"
+             txt="celebrations/babuji2012/2012PujyaBabujiBdayRevKCN10May2012.pdf"
+             partial_txt="celebrations/babuji2012/2012PujyaBabujiBdayRevKCN10May2012.pdf"
+             ref="Celebrations - 10May2012"
+             start="1"
+             end="365"
+             >The Master is one who lives in all of us. Therefore it becomes our duty to keep ourselves all the time oriented to that central essence rather than wasting our time with activities of sorts.
+        </kcn>
     </item>
     <item>
         <date>01-05-25</date><displaydate>01-May</displaydate>
