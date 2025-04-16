@@ -88,18 +88,16 @@ include_once('includes/header.php');
 <!-- Page Content -->
 <div  align="center" width="400" height="300">
 
-    <h3 style="color:#0000ff "><b>Conclusion of the Birthday Celebrations of the Advent - Lalaji Maharaj !</b></h3>
+    <h3 style="color:#0000ff "><b>Living Master !</b></h3>
     </br>
 <div  align="center">    
 <div  style="font-size:16px; color:#C00; ">
-	<a href='celebrations/Basant_marfat/Marfat_translation.pdf' target='_blank'>Translation of Marfat Song</a>
+	<a href='books/BP7/mobile/index.html#p=99' target='_blank'>BP7-90</a>
 	</br>
-        </br>
-        <a href='celebrations/Basant_marfat/Marfat_Eng_Translit.pdf' target='_blank'>Transliteration of Marfat Song</a>
     </div>
         </br>
         <audio id='kcn_audio' controls>
-            <source src='celebrations/Basant_marfat/2008Basanth_Marfat.mp3' type="audio/mpeg">
+            <source src='audio/Bodhayanti%20Vol%207/BP706_Living%20Master.mp3#t=121,190' type="audio/mpeg">
             Your browser does not support the audio element.
 	</audio>
 </div>

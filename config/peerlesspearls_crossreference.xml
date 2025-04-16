@@ -1906,7 +1906,8 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
        </kcn>
     </item>
     <item>
-        <date>19-04-25</date><displaydate>20-April</displaydate>
+        <date title="Living Master"
+              ref="living_master.php">19-04-25</date><displaydate>19-April</displaydate>
         <message href="books/BWS/mobile/index.html#p=173">It is very essential for everyone to fix his thought, at the very outset, upon the goal which he has to attain so that his thought and will may pave his way upto it.</message>
         <reference>SDG 117</reference>
         <era>Prabhu</era>
@@ -2492,6 +2493,7 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>06-Bhanwar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
+        <babuji audio="audio/babuji/001_divine_light" txt="html/babuji/001_divine_light">Divine Light</babuji>
     </item>
     <item>
         <date>22-05-25</date><displaydate>22-May</displaydate>
