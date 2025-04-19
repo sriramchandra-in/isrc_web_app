@@ -137,6 +137,14 @@
         <era_dt>30-Viveka-152</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date title="Happy New Year of Lalaji Era 153 !" ref="https://www.sriramchandra.in/Satyapadamspdf/18_1_3_LalajiEra.pdf">14-01-25</date><displaydate>14-January</displaydate>
@@ -182,8 +190,7 @@
         <era_dt>03-Samavarti-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
-        <babuji audio="audio/xref/babuji/003_constant_remembrance.mp3"
-        txt="audio/xref/babuji/html/003_constant_remembrance.html">Constant Remembrance</babuji>
+        <babuji audio="audio/xref/babuji/003_constant_remembrance.mp3" txt="audio/xref/babuji/html/003_constant_remembrance.html">Constant Remembrance</babuji>
            <kcn audio="audio/Bodhayanti%20Vol%209/BP909_Oozing%20Canopy_2009PujyaBabujiBday.mp3"
              txt="books/BP9/mobile/index.html#p=178"
 	     partial_txt="books/BP9/mobile/index.html#p=180"
@@ -200,8 +207,7 @@
         <era_dt>04-Samavarti-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
-         <babuji audio="audio/xref/babuji/004_spirituality_is_free.mp3"
-         txt="audio/xref/babuji/html/004_spirituality_is_free.html">Spirituality is free</babuji>
+        <babuji audio="audio/xref/babuji/004_spirituality_is_free.mp3" txt="audio/xref/babuji/html/004_spirituality_is_free.html">Spirituality is free</babuji>
        <kcn audio="audio/Bodhayanti%20Vol%205/BP507_On%20IMP-EventHorizon.mp3"
              txt="books/BP5/mobile/index.html#p=93"
              partial_txt="books/BP5/mobile/index.html#p=96"
@@ -227,7 +233,7 @@
         <era_dt>05-Samavarti-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
-    <babuji audio="audio/xref/babuji/005_chaos.mp3" txt="audio/xref/babuji/html/005_chaos.html">Chaos</babuji>
+        <babuji audio="audio/xref/babuji/005_chaos.mp3" txt="audio/xref/babuji/html/005_chaos.html">Chaos</babuji>
            <kcn audio="audio/Bodhayanti%20Vol%207/BP711_LionHeartedMen.mp3"
              txt="books/BP7/mobile/index.html#p=176"
 	     partial_txt="books/BP7/mobile/index.html#p=180"
@@ -244,8 +250,7 @@
         <era_dt>06-Samavarti-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
-      <babuji audio="audio/xref/babuji/006_freedom.mp3"
-      txt="audio/xref/babuji/html/006_freedom.html">Freedom</babuji>
+        <babuji audio="audio/xref/babuji/006_freedom.mp3" txt="audio/xref/babuji/html/006_freedom.html">Freedom</babuji>
  <kcn audio="audio/xref/kcn/pranahuti.mp3"
              txt="books/LiberalExpo/mobile/index.html#p=49"
 	     partial_txt="books/LiberalExpo/mobile/index.html#p=52"
@@ -262,8 +267,7 @@
         <era_dt>07-Samavarti-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
-  <babuji audio="audio/xref/babuji/007_homeland_message.mp3"
-  txt="audio/xref/babuji/html/007_homeland_message.html">Homeland Message</babuji>
+        <babuji audio="audio/xref/babuji/007_homeland_message.mp3" txt="audio/xref/babuji/html/007_homeland_message.html">Homeland Message</babuji>
  <kcn audio="audio/New%20folder/BP-3%20Path%20of%20Pain.mp3"
              txt="books/BP3/mobile/index.html#p=162"
 	     partial_txt="books/BP3/mobile/index.html#p=167"
@@ -280,8 +284,7 @@
         <era_dt>08-Samavarti-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
-        <babuji audio="audio/xref/babuji/008_lalaji_message.mp3"
-        txt="audio/xref/babuji/html/008_lalaji_message.html">Lalaji Message</babuji>
+        <babuji audio="audio/xref/babuji/008_lalaji_message.mp3" txt="audio/xref/babuji/html/008_lalaji_message.html">Lalaji Message</babuji>
  <kcn audio="https://sriramchandra.in/celebrations/babuji2013/2013PujyaBabujiBdayRevKCN30Apr2013.mp3"
              txt="books/BP10/mobile/index.html#p=30"
 	     partial_txt="books/BP10/mobile/index.html#p=32"
@@ -298,8 +301,7 @@
         <era_dt>09-Samavarti-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
-        <babuji audio="audio/xref/babuji/009_relationship_with_master.mp3"
-        txt="audio/xref/babuji/html/009_relationship_with_master.html">Relationship with Master</babuji>
+        <babuji audio="audio/xref/babuji/009_relationship_with_master.mp3" txt="audio/xref/babuji/html/009_relationship_with_master.html">Relationship with Master</babuji>
  <kcn audio="audio/Bodhayanti%20Vol%205/BP511_Demolition%20of%20the%20past.mp3"
              txt="books/BP5/mobile/index.html#p=144"
 	     partial_txt="books/BP5/mobile/index.html#p=156"
@@ -316,8 +318,7 @@
         <era_dt>10-Samavarti-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
-          <babuji audio="audio/xref/babuji/010_meditation.mp3"
-          txt="audio/xref/babuji/html/010_meditation.html">Meditation</babuji>
+        <babuji audio="audio/xref/babuji/010_meditation.mp3" txt="audio/xref/babuji/html/010_meditation.html">Meditation</babuji>
        <kcn audio="audio/Bodhayanti%20Vol%204/BP405_MeditationIsNotEnough.mp3"
              txt="books/BP4/mobile/index.html#p=43"
 	     partial_txt="books/BP4/mobile/index.html#p=52"
@@ -334,9 +335,8 @@
         <era_dt>11-Samavarti-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
-        <babuji audio="audio/xref/babuji/011_nervousness.mp3"
-        txt="audio/xref/babuji/html/011_nervousness.html">Nervousness</babuji>
-     <kcn audio="audio/Bodhayanti%20Vol%207/BP711_LionHeartedMen.mp3"
+        <babuji audio="audio/xref/babuji/011_nervousness.mp3" txt="audio/xref/babuji/html/011_nervousness.html">Nervousness</babuji>
+        <kcn audio="audio/Bodhayanti%20Vol%207/BP711_LionHeartedMen.mp3"
              txt="books/BP7/mobile/index.html#p=176"
 	     partial_txt="books/BP7/mobile/index.html#p=189"
 	     ref="BP7 - 180"
@@ -352,14 +352,14 @@
         <era_dt>12-Samavarti-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
-	<babuji audio="audio/xref/babuji/012_loss_of_a_child.mp3" txt="audio/xref//babuji/html/012_loss_of_a_child.html">Loss of a child</babuji>
-	 <kcn audio="https://sriramchandra.in/celebrations/janmastami2006/Rev%20KCN%20Message%20-%20Krishnashtami%202006.mp3"
-             txt="https://sriramchandra.in/celebrations/janmastami2006/Janmastami06RevKCN.pdf#page=4"
-             partial_txt="https://sriramchandra.in/celebrations/janmastami2006/Janmastami06RevKCN.pdf#page=4"
-             ref="Sri Krishna Janmastami Address 2006"
-             start="470"
-             end="538"
-        >Yogic transmission weakens the lower tendencies of the mind.</kcn>
+        <babuji audio="audio/xref/babuji/012_loss_of_a_child.mp3" txt="audio/xref//babuji/html/012_loss_of_a_child.html">Loss of a child</babuji>
+        <kcn audio="https://sriramchandra.in/celebrations/janmastami2006/Rev%20KCN%20Message%20-%20Krishnashtami%202006.mp3"
+                txt="https://sriramchandra.in/celebrations/janmastami2006/Janmastami06RevKCN.pdf#page=4"
+                partial_txt="https://sriramchandra.in/celebrations/janmastami2006/Janmastami06RevKCN.pdf#page=4"
+                ref="Sri Krishna Janmastami Address 2006"
+                start="470"
+                end="538"
+            >Yogic transmission weakens the lower tendencies of the mind.</kcn>
     </item>
     <item>
         <date>26-01-25</date><displaydate>26-January</displaydate>
@@ -370,13 +370,14 @@
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
         <babuji audio="audio/xref/babuji/013_past_lives.mp3" txt="audio/xref/babuji/html/013_past_lives.html">Past Lives</babuji>
-<kcn audio="audio/Bodhayanti%20Vol%204/BP405_MeditationIsNotEnough.mp3"
-         txt="books/BP4/mobile/index.html#p=43"
+        <kcn audio="audio/Bodhayanti%20Vol%204/BP405_MeditationIsNotEnough.mp3"
+            txt="books/BP4/mobile/index.html#p=43"
 	        partial_txt="books/BP4/mobile/index.html#p=43"
-	     ref="BP4 - 43"
-	     start="0"
+	         ref="BP4 - 43"
+	        start="0"
              end="347"
-             >Other than meditation time, be in constant remembrance. Develop love and devotion towards Master.</kcn>
+             >Other than meditation time, be in constant remembrance. Develop love and devotion towards Master.
+        </kcn>
     </item>
     <item>
         <date>27-01-25</date><displaydate>27-January</displaydate>
@@ -386,9 +387,8 @@
         <era_dt>14-Samavarti-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
-         <babuji audio="audio/xref/babuji/014_revolutionary_approach.mp3"
-         txt="audio/xref/babuji/html/014_revolutionary_approach.html">Revolutionary Approach</babuji>
-   <kcn audio="audio/Bodhayanti%20Vol%209/BP911_Purification_2011Basanth.mp3"
+        <babuji audio="audio/xref/babuji/014_revolutionary_approach.mp3" txt="audio/xref/babuji/html/014_revolutionary_approach.html">Revolutionary Approach</babuji>
+        <kcn audio="audio/Bodhayanti%20Vol%209/BP911_Purification_2011Basanth.mp3"
              txt="books/BP9/mobile/index.html#p=198"
              partial_txt="books/BP9/mobile/index.html#p=201"
              ref="BP9 - 189"
@@ -404,9 +404,8 @@
         <era_dt>15-Samavarti-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
-^		<babuji audio="audio/xref/babuji/015_curvature.mp3"
-txt="audio/xref/babuji/html/015_curvature.html">Curvature</babuji>
-<kcn audio="audio/Bodhayanti%20Vol%209/BP912_Purity_2009PujyaBabujiBday.mp3"
+		<babuji audio="audio/xref/babuji/015_curvature.mp3" txt="audio/xref/babuji/html/015_curvature.html">Curvature</babuji>
+        <kcn audio="audio/Bodhayanti%20Vol%209/BP912_Purity_2009PujyaBabujiBday.mp3"
              txt="books/BP9/mobile/index.html#p=210"
              partial_txt="books/BP9/mobile/index.html#p=213"
              ref="BP9 - 201"
@@ -422,9 +421,8 @@ txt="audio/xref/babuji/html/015_curvature.html">Curvature</babuji>
         <era_dt>16-Samavarti-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
- <babuji audio="audio/xref/babuji/016_meditation.mp3"
- txt="audio/xref/babuji/html/016_meditation.html">Meditation</babuji>
- <kcn audio="audio/Bodhayanti%20Vol%208/BP807_TheUnknown.mp3"            
+        <babuji audio="audio/xref/babuji/016_meditation.mp3" txt="audio/xref/babuji/html/016_meditation.html">Meditation</babuji>
+        <kcn audio="audio/Bodhayanti%20Vol%208/BP807_TheUnknown.mp3"            
              txt="books/BP8/mobile/index.html#p=92"
 	     partial_txt="books/BP8/mobile/index.html#p=94"
 	     ref="BP8 - 88"
@@ -440,9 +438,8 @@ txt="audio/xref/babuji/html/015_curvature.html">Curvature</babuji>
         <era_dt>17-Samavarti-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
- <babuji audio="audio/xref/babuji/017_peace.mp3"
- txt="audio/xref/babuji/html/017_peace.html">Peace</babuji>
-<kcn audio="audio/Bodhayanti%20Vol%209/BP901_craving%20of%20soul2.mp3"
+        <babuji audio="audio/xref/babuji/017_peace.mp3" txt="audio/xref/babuji/html/017_peace.html">Peace</babuji>
+        <kcn audio="audio/Bodhayanti%20Vol%209/BP901_craving%20of%20soul2.mp3"
              txt="books/BP9/mobile/index.html#p=11"
              partial_txt="books/BP9/mobile/index.html#p=49"
              ref="BP9 - 37"
@@ -458,9 +455,8 @@ txt="audio/xref/babuji/html/015_curvature.html">Curvature</babuji>
         <era_dt>18-Samavarti-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
-^		<babuji audio="audio/xref/babuji/018_knots.mp3"
-txt="audio/xref/babuji/html/018_knots.html">Peace</babuji>
-<kcn audio="audio/Bodhayanti%20Vol%207/BP703_Spiritual%20Experience.mp3"
+		<babuji audio="audio/xref/babuji/018_knots.mp3" txt="audio/xref/babuji/html/018_knots.html">Peace</babuji>
+        <kcn audio="audio/Bodhayanti%20Vol%207/BP703_Spiritual%20Experience.mp3"
              txt="books/BP7/mobile/index.html#p=49"
              partial_txt="books/BP7/mobile/index.html#p=68"
              ref="BP7 - 59"
@@ -477,8 +473,8 @@ txt="audio/xref/babuji/html/018_knots.html">Peace</babuji>
         <era_dt>19-Samavarti-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
-	<babuji audio="audio/xref/babuji/019_masters_grace.mp3" txt="audio/xref/babuji/html/019_masters_grace.html">Master's Grace</babuji>
-	<kcn audio="audio/Bodhayanti%20Vol%204/BP411_Freedom-Liberation.mp3"
+	    <babuji audio="audio/xref/babuji/019_masters_grace.mp3" txt="audio/xref/babuji/html/019_masters_grace.html">Master's Grace</babuji>
+	    <kcn audio="audio/Bodhayanti%20Vol%204/BP411_Freedom-Liberation.mp3"
              txt="books/BP4/mobile/index.html#p=149"
              partial_txt="books/BP4/mobile/index.html#p=165"
              ref="BP4 - 157"
@@ -496,9 +492,8 @@ txt="audio/xref/babuji/html/018_knots.html">Peace</babuji>
         <era_dt>20-Samavarti-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
-  <babuji audio="audio/xref/babuji/020_q_and_a.mp3"
-	  txt="audio/xref/babuji/html/020_q_and_a.html">Q and A</babuji>
-  <kcn audio="audio/xref/kcn/centenary_message.mp3"
+        <babuji audio="audio/xref/babuji/020_q_and_a.mp3" txt="audio/xref/babuji/html/020_q_and_a.html">Q and A</babuji>
+        <kcn audio="audio/xref/kcn/centenary_message.mp3"
              txt="audio/xref/kcn/pdf/centenary_message.pdf"
              partial_txt="audio/xref/kcn/pdf/centenary_message.pdf"
              ref="Commentary on Centenary Message by Pujya K.C.Narayana"
@@ -517,9 +512,8 @@ messages that have been found in most traditions, most religions and spiritual s
         <era_dt>21-Samavarti-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
- <babuji audio="audio/xref/babuji/021_making_masters.mp3"
-	 txt="audio/xref/babuji/html/021_making_masters.html">Making Masters</babuji>
- <kcn audio="audio/Bodhayanti%20Vol%205/BP501_New%20Era%20of%20Spirituality.mp3"
+        <babuji audio="audio/xref/babuji/021_making_masters.mp3" txt="audio/xref/babuji/html/021_making_masters.html">Making Masters</babuji>
+        <kcn audio="audio/Bodhayanti%20Vol%205/BP501_New%20Era%20of%20Spirituality.mp3"
              txt="books/BP5/mobile/index.html#p=11"
              partial_txt="books/BP5/mobile/index.html#p=12"
              ref="BP5 - 2"
@@ -2040,13 +2034,13 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
         <babuji audio="audio/xref/babuji/103_smoking.mp3" txt="audio/xref/babuji/html/103_smoking.html">Smoking</babuji>
-        <kcn audio="audio/Bodhayanti%20Vol%204/BP405_MeditationIsNotEnough.mp3"
+        <kcn audio="audio/Bodhayanti%20Vol%207/BP712_Vagaries%20of%20Mind.mp3"
              txt="books/BP4/mobile/index.html#p=43"
              partial_txt="books/BP4/mobile/index.html#p=43"
              ref="BP4 - 35"
-             start="1"
-             end="284"
-             >Master himself has stated that it is not enough if we just do meditation and follow the methods as advised and we need to develop love and devotion to Master.
+             start="314"
+             end="598"
+             >Having a goal is tantamount to making a promise to ourself. However, many aspirants make a wise decision of the goal they want to achieve but forget a main ingredient for effective action namely passion which Master calls restlessness.
         </kcn>
     </item>
     <item>
@@ -2314,13 +2308,13 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
         <babuji audio="audio/xref/babuji/118_health_and_the_sahaj_marg.mp3" txt="audio/xref/babuji/html/118_health_and_the_sahaj_marg.html">Health and the Sahaj Marg</babuji>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
+        <kcn audio="audio/Bodhayanti%20Vol%209/BP910_Path%20of%20Love_2011Basanth.mp3"
+             txt="books/BP9/mobile/index.html#p=185"
+             partial_txt="books/BP9/mobile/index.html#p=197"
+             ref="BP9 - 185"
+             start="1626"
+             end="1666"
+             >The path of love is not narrow as some poet put it but is as vast as the universe. Obviously this is because our Master, an expression of unlimited and unbound love is the connecting link for all of us. By loving Him who loves all we embrace the universe in its entirety. That leads to the state where there is neither suffering nor joy. We go beyond Satchitananda. The path of the Master is the path of love.
         </kcn>
     </item>
     <item>
@@ -2332,13 +2326,13 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
         <babuji audio="audio/xref/babuji/119_work.mp3" txt="audio/xref/babuji/html/119_work.html">Work</babuji>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
+        <kcn audio="audio/Bodhayanti%20Vol%205/BP506_SriKrishna%20Thru%20SriRamchandra.mp3"
+             txt="books/BP5/mobile/index.html#p=76"
+             partial_txt="books/BP5/mobile/index.html#p=90"
+             ref="BP5 - 79"
+             start="1320"
+             end="1364"
+             >Master has stated clearly that it is our primary duty to realise our oneness with God. And this duty is some thing universal which does not distinguish between castes and races. When God is taken in the third person perspective, this can only mean that we should partake in the divinization of man which is the real duty waiting to be done by all of us. The third commandment is categorical in stating that our duty or dharma is to achieve oneness with God. A deeper understanding of this commandment would enable us to understand that we cannot have other goals like artha, dharma and jnana.
         </kcn>
     </item>
     <item>
@@ -2350,13 +2344,10 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
         <babuji audio="audio/xref/babuji/120_super_consciousness.mp3" txt="audio/xref/babuji/html/120_super_consciousness.html">Super consciousness</babuji>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
+        <kcn txt="books/BP4/mobile/index.html#p=71"
+             partial_txt="books/BP4/mobile/index.html#p=74"
+             ref="BP4 - 66"
+             >If an individual is seeking spirituality proper, it doesn't matter which path he takes, as the Divine being Just always shows him the true path when the time is ripe.
         </kcn>
     </item>
     <item>
@@ -2386,13 +2377,13 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
         <babuji audio="audio/xref/babuji/122_first_sitting.mp3" txt="audio/xref/babuji/html/122_first_sitting.html">First Sitting</babuji>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
+        <kcn audio="audio/Bodhayanti%20Vol%209/BP914_RealMan.mp3"
+             txt="books/BP9/mobile/index.html#p=230"
+             partial_txt="books/BP9/mobile/index.html#p=236"
+             ref="BP9 - 224"
+             start="690"
+             end="744"
+             >The real man obviously is a perfect man. In practical terms the perfect human is one who is in full control of senses, his feet and hands and his tongue and loins. More than anything else he is one who serves the interests of others selflessly. This concept it may be noted is something that does not accept the concept of original sin. Man is pure by birth and this is stressed in many places by the Master and His call has been to get back to the original condition of purity; purity of consciousness also called as the Home Land. Such a perfect man is what we have in our Rev. Babuji Maharaj which is a perfect copy of the original Creator or God.
         </kcn>
     </item>
     <item>
@@ -2491,6 +2482,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
         <babuji audio="audio/babuji/001_divine_light" txt="html/babuji/001_divine_light">Divine Light</babuji>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>22-05-25</date><displaydate>22-May</displaydate>
@@ -2500,6 +2499,15 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>07-Bhanwar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
+        <babuji audio="audio/babuji/002_intercommunion.mp3" txt="html/babuji/002_intercommunion.html">Intercommunion</babuji>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>23-05-25</date><displaydate>23-May</displaydate>
@@ -2509,6 +2517,15 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>08-Bhanwar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
+        <babuji audio="audio/xref/babuji/003_constant_remembrance.mp3" txt="audio/xref/babuji/html/003_constant_remembrance.html">Constant Remembrance</babuji>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>24-05-25</date><displaydate>24-May</displaydate>
@@ -2518,6 +2535,15 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>09-Bhanwar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
+        <babuji audio="audio/xref/babuji/004_spirituality_is_free.mp3" txt="audio/xref/babuji/html/004_spirituality_is_free.html">Spirituality is free</babuji>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>25-05-25</date><displaydate>25-May</displaydate>
@@ -2527,6 +2553,15 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>10-Bhanwar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
+        <babuji audio="audio/xref/babuji/005_chaos.mp3" txt="audio/xref/babuji/html/005_chaos.html">Chaos</babuji>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>26-05-25</date><displaydate>26-May</displaydate>
@@ -2536,6 +2571,15 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>11-Bhanwar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
+        <babuji audio="audio/xref/babuji/006_freedom.mp3" txt="audio/xref/babuji/html/006_freedom.html">Freedom</babuji>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>27-05-25</date><displaydate>27-May</displaydate>
@@ -2545,6 +2589,15 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>12-Bhanwar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
+        <babuji audio="audio/xref/babuji/007_homeland_message.mp3" txt="audio/xref/babuji/html/007_homeland_message.html">Homeland Message</babuji>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>28-05-25</date><displaydate>28-May</displaydate>
@@ -2554,6 +2607,15 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>13-Bhanwar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
+        <babuji audio="audio/xref/babuji/008_lalaji_message.mp3" txt="audio/xref/babuji/html/008_lalaji_message.html">Lalaji Message</babuji>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>29-05-25</date><displaydate>29-May</displaydate>
@@ -2563,6 +2625,15 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>14-Bhanwar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
+        <babuji audio="audio/xref/babuji/009_relationship_with_master.mp3" txt="audio/xref/babuji/html/009_relationship_with_master.html">Relationship with Master</babuji>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>30-05-25</date><displaydate>30-May</displaydate>
@@ -2572,6 +2643,15 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>15-Bhanwar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
+        <babuji audio="audio/xref/babuji/010_meditation.mp3" txt="audio/xref/babuji/html/010_meditation.html">Meditation</babuji>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>31-05-25</date><displaydate>31-May</displaydate>
@@ -2581,6 +2661,15 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>16-Bhanwar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
+        <babuji audio="audio/xref/babuji/011_nervousness.mp3" txt="audio/xref/babuji/html/011_nervousness.html">Nervousness</babuji>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>01-06-25</date><displaydate>01-Jun</displaydate>
@@ -2590,6 +2679,15 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>17-Bhanwar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
+        <babuji audio="audio/xref/babuji/012_loss_of_a_child.mp3" txt="audio/xref//babuji/html/012_loss_of_a_child.html">Loss of a child</babuji>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>02-06-25</date><displaydate>02-Jun</displaydate>
@@ -2599,6 +2697,15 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>18-Bhanwar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
+        <babuji audio="audio/xref/babuji/013_past_lives.mp3" txt="audio/xref/babuji/html/013_past_lives.html">Past Lives</babuji>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>03-06-25</date><displaydate>03-Jun</displaydate>
@@ -2608,6 +2715,15 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>19-Bhanwar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
+        <babuji audio="audio/xref/babuji/014_revolutionary_approach.mp3" txt="audio/xref/babuji/html/014_revolutionary_approach.html">Revolutionary Approach</babuji>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>04-06-25</date><displaydate>04-Jun</displaydate>
@@ -2617,6 +2733,15 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>20-Bhanwar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
+		<babuji audio="audio/xref/babuji/015_curvature.mp3" txt="audio/xref/babuji/html/015_curvature.html">Curvature</babuji>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>05-06-25</date><displaydate>05-Jun</displaydate>
@@ -2626,6 +2751,15 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>21-Bhanwar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
+        <babuji audio="audio/xref/babuji/016_meditation.mp3" txt="audio/xref/babuji/html/016_meditation.html">Meditation</babuji>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>06-06-25</date><displaydate>06-Jun</displaydate>
@@ -2635,6 +2769,15 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>22-Bhanwar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
+        <babuji audio="audio/xref/babuji/017_peace.mp3" txt="audio/xref/babuji/html/017_peace.html">Peace</babuji>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>07-06-25</date><displaydate>07-Jun</displaydate>
@@ -2644,6 +2787,15 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>23-Bhanwar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
+		<babuji audio="audio/xref/babuji/018_knots.mp3" txt="audio/xref/babuji/html/018_knots.html">Peace</babuji>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>08-06-25</date><displaydate>08-Jun</displaydate>
@@ -2653,6 +2805,15 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>24-Bhanwar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
+	    <babuji audio="audio/xref/babuji/019_masters_grace.mp3" txt="audio/xref/babuji/html/019_masters_grace.html">Master's Grace</babuji>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>09-06-25</date><displaydate>09-Jun</displaydate>
@@ -2662,6 +2823,15 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>25-Bhanwar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
+        <babuji audio="audio/xref/babuji/020_q_and_a.mp3" txt="audio/xref/babuji/html/020_q_and_a.html">Q and A</babuji>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>10-06-25</date><displaydate>10-June</displaydate>
@@ -2671,6 +2841,15 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>26-Bhanwar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
+        <babuji audio="audio/xref/babuji/021_making_masters.mp3" txt="audio/xref/babuji/html/021_making_masters.html">Making Masters</babuji>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>11-06-25</date><displaydate>11-June</displaydate>
@@ -2680,6 +2859,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>27-Bhanwar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>12-06-25</date><displaydate>12-June</displaydate>
@@ -2689,6 +2876,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>28-Bhanwar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>13-06-25</date><displaydate>13-June</displaydate>
@@ -2698,6 +2893,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>29-Bhanwar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>14-06-25</date><displaydate>14-June</displaydate>
@@ -2707,6 +2910,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>29-Bhanwar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>15-06-25</date><displaydate>15-June</displaydate>
@@ -2716,6 +2927,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>01-Iswar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>16-06-25</date><displaydate>16-June</displaydate>
@@ -2725,6 +2944,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>02-Iswar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>17-06-25</date><displaydate>17-June</displaydate>
@@ -2734,6 +2961,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>03-Iswar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>18-06-25</date><displaydate>18-June</displaydate>
@@ -2743,6 +2978,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>04-Iswar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>19-06-25</date><displaydate>19-June</displaydate>
@@ -2752,6 +2995,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>05-Iswar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>20-06-25</date><displaydate>20-June</displaydate>
@@ -2761,6 +3012,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>06-Iswar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>21-06-25</date><displaydate>21-June</displaydate>
@@ -2770,6 +3029,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>07-Iswar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%204/Commandment%204.html</quiz_link>
         <quiz>Identicality</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>22-06-25</date><displaydate>22-June</displaydate>
@@ -2779,6 +3046,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>08-Iswar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%204/Commandment%204.html</quiz_link>
         <quiz>Identicality</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>23-06-25</date><displaydate>23-June</displaydate>
@@ -2788,6 +3063,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>09-Iswar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%204/Commandment%204.html</quiz_link>
         <quiz>Identicality</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>24-06-25</date><displaydate>24-June</displaydate>
@@ -2797,6 +3080,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>10-Iswar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%204/Commandment%204.html</quiz_link>
         <quiz>Identicality</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>25-06-25</date><displaydate>25-June</displaydate>
@@ -2806,6 +3097,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>11-Iswar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%204/Commandment%204.html</quiz_link>
         <quiz>Identicality</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>26-06-25</date><displaydate>26-June</displaydate>
@@ -2815,6 +3114,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>12-Iswar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%204/Commandment%204.html</quiz_link>
         <quiz>Identicality</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>27-06-25</date><displaydate>27-June</displaydate>
@@ -2824,6 +3131,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>13-Iswar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%204/Commandment%204.html</quiz_link>
         <quiz>Identicality</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>28-06-25</date><displaydate>28-June</displaydate>
@@ -2833,6 +3148,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>14-Iswar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%204/Commandment%204.html</quiz_link>
         <quiz>Identicality</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>29-06-25</date><displaydate>29-June</displaydate>
@@ -2842,6 +3165,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>15-Iswar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%204/Commandment%204.html</quiz_link>
         <quiz>Identicality</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>30-06-25</date><displaydate>30-June</displaydate>
@@ -2851,6 +3182,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>16-Iswar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%204/Commandment%204.html</quiz_link>
         <quiz>Identicality</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>01-07-25</date><displaydate>01-July</displaydate>
@@ -2860,6 +3199,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>17-Iswar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%204/Commandment%204.html</quiz_link>
         <quiz>Identicality</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>02-07-25</date><displaydate>02-July</displaydate>
@@ -2869,6 +3216,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>18-Iswar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%204/Commandment%204.html</quiz_link>
         <quiz>Identicality</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>03-07-25</date><displaydate>03-July</displaydate>
@@ -2888,6 +3243,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>20-Iswar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%204/Commandment%204.html</quiz_link>
         <quiz>Identicality</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>05-07-25</date><displaydate>05-July</displaydate>
@@ -2897,6 +3260,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>21-Iswar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%204/Commandment%204.html</quiz_link>
         <quiz>Identicality</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>06-07-25</date><displaydate>06-July</displaydate>
@@ -2906,6 +3277,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>22-Iswar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%204/Commandment%204.html</quiz_link>
         <quiz>Identicality</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>07-07-25</date><displaydate>07-July</displaydate>
@@ -2915,6 +3294,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>23-Iswar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%204/Commandment%204.html</quiz_link>
         <quiz>Identicality</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>08-07-25</date><displaydate>08-July</displaydate>
@@ -2924,6 +3311,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>24-Iswar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%204/Commandment%204.html</quiz_link>
         <quiz>Identicality</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>09-07-25</date><displaydate>09-July</displaydate>
@@ -2933,6 +3328,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>25-Iswar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%204/Commandment%204.html</quiz_link>
         <quiz>Identicality</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>10-07-25</date><displaydate>10-July</displaydate>
@@ -2942,6 +3345,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>26-Iswar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%204/Commandment%204.html</quiz_link>
         <quiz>Identicality</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>11-07-25</date><displaydate>11-July</displaydate>
@@ -2951,6 +3362,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>27-Iswar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%205/Commandment%205.html</quiz_link>
         <quiz>Truthfulness</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>12-07-25</date><displaydate>12-July</displaydate>
@@ -2960,6 +3379,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>28-Iswar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%205/Commandment%205.html</quiz_link>
         <quiz>Truthfulness</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>13-07-25</date><displaydate>13-July</displaydate>
@@ -2969,6 +3396,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>29-Iswar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%205/Commandment%205.html</quiz_link>
         <quiz>Truthfulness</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>14-07-25</date><displaydate>14-July</displaydate>
@@ -2978,6 +3413,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>30-Iswar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%205/Commandment%205.html</quiz_link>
         <quiz>Truthfulness</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>15-07-25</date><displaydate>15-July</displaydate>
@@ -2987,6 +3430,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>31-Iswar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%205/Commandment%205.html</quiz_link>
         <quiz>Truthfulness</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>16-07-25</date><displaydate>16-July</displaydate>
@@ -2996,6 +3447,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>01-Varada-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%205/Commandment%205.html</quiz_link>
         <quiz>Truthfulness</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>17-07-25</date><displaydate>17-July</displaydate>
@@ -3005,6 +3464,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>02-Varada-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%205/Commandment%205.html</quiz_link>
         <quiz>Truthfulness</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>18-07-25</date><displaydate>18-July</displaydate>
@@ -3014,6 +3481,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>03-Varada-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%205/Commandment%205.html</quiz_link>
         <quiz>Truthfulness</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>19-07-25</date><displaydate>19-July</displaydate>
@@ -3023,6 +3498,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>04-Varada-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%205/Commandment%205.html</quiz_link>
         <quiz>Truthfulness</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>20-07-25</date><displaydate>20-July</displaydate>
@@ -3032,6 +3515,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>05-Varada-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%205/Commandment%205.html</quiz_link>
         <quiz>Truthfulness</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>21-07-25</date><displaydate>21-July</displaydate>
@@ -3041,6 +3532,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>06-Varada-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%205/Commandment%205.html</quiz_link>
         <quiz>Truthfulness</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>22-07-25</date><displaydate>22-July</displaydate>
@@ -3050,6 +3549,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>07-Varada-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%205/Commandment%205.html</quiz_link>
         <quiz>Truthfulness</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>23-07-25</date><displaydate>23-July</displaydate>
@@ -3059,6 +3566,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>08-Varada-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%205/Commandment%205.html</quiz_link>
         <quiz>Truthfulness</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>24-07-25</date><displaydate>24-July</displaydate>
@@ -3068,6 +3583,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>09-Varada-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%205/Commandment%205.html</quiz_link>
         <quiz>Truthfulness</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>25-07-25</date><displaydate>25-July</displaydate>
@@ -3077,6 +3600,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>10-Varada-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%205/Commandment%205.html</quiz_link>
         <quiz>Truthfulness</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>26-07-25</date><displaydate>26-July</displaydate>
@@ -3086,6 +3617,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>11-Varada-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%205/Commandment%205.html</quiz_link>
         <quiz>Truthfulness</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>27-07-25</date><displaydate>27-July</displaydate>
@@ -3095,6 +3634,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>12-Varada-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%205/Commandment%205.html</quiz_link>
         <quiz>Truthfulness</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>28-07-25</date><displaydate>28-July</displaydate>
@@ -3114,6 +3661,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>14-Varada-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%205/Commandment%205.html</quiz_link>
         <quiz>Truthfulness</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>30-07-25</date><displaydate>30-July</displaydate>
@@ -3123,6 +3678,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>15-Varada-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%205/Commandment%205.html</quiz_link>
         <quiz>Truthfulness</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>31-07-25</date><displaydate>31-July</displaydate>
@@ -3142,6 +3705,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>17-Varada-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%206/Commandment%206.html</quiz_link>
         <quiz>Fraternity</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>02-08-25</date><displaydate>02-August</displaydate>
@@ -3151,6 +3722,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>18-Varada-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%206/Commandment%206.html</quiz_link>
         <quiz>Fraternity</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>03-08-25</date><displaydate>03-August</displaydate>
@@ -3160,6 +3739,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>19-Varada-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%206/Commandment%206.html</quiz_link>
         <quiz>Fraternity</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>04-08-25</date><displaydate>04-August</displaydate>
@@ -3169,6 +3756,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>20-Varada-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%206/Commandment%206.html</quiz_link>
         <quiz>Fraternity</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>05-08-25</date><displaydate>05-August</displaydate>
@@ -3178,6 +3773,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>21-Varada-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%206/Commandment%206.html</quiz_link>
         <quiz>Fraternity</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>06-08-25</date><displaydate>06-August</displaydate>
@@ -3187,6 +3790,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>22-Varada-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%206/Commandment%206.html</quiz_link>
         <quiz>Fraternity</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>07-08-25</date><displaydate>07-August</displaydate>
@@ -3196,6 +3807,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>23-Varada-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%206/Commandment%206.html</quiz_link>
         <quiz>Fraternity</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>08-08-25</date><displaydate>08-August</displaydate>
@@ -3205,6 +3824,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>24-Varada-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%206/Commandment%206.html</quiz_link>
         <quiz>Fraternity</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>09-08-25</date><displaydate>09-August</displaydate>
@@ -3214,6 +3841,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>25-Varada-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%206/Commandment%206.html</quiz_link>
         <quiz>Fraternity</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>10-08-25</date><displaydate>10-August</displaydate>
@@ -3223,6 +3858,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>26-Varada-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%206/Commandment%206.html</quiz_link>
         <quiz>Fraternity</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>11-08-25</date><displaydate>11-August</displaydate>
@@ -3232,6 +3875,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>27-Varada-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%206/Commandment%206.html</quiz_link>
         <quiz>Fraternity</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>12-08-25</date><displaydate>12-August</displaydate>
@@ -3241,6 +3892,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>28-Varada-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%206/Commandment%206.html</quiz_link>
         <quiz>Fraternity</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>13-08-25</date><displaydate>13-August</displaydate>
@@ -3250,6 +3909,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>29-Varada-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%206/Commandment%206.html</quiz_link>
         <quiz>Fraternity</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>14-08-25</date><displaydate>14-August</displaydate>
@@ -3259,6 +3926,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>30-Varada-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%206/Commandment%206.html</quiz_link>
         <quiz>Fraternity</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>15-08-25</date><displaydate>15-August</displaydate>
@@ -3268,6 +3943,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>31-Varada-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%206/Commandment%206.html</quiz_link>
         <quiz>Fraternity</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>16-08-25</date><displaydate>16-August</displaydate>
@@ -3277,6 +3960,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>01-Krishna-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%206/Commandment%206.html</quiz_link>
         <quiz>Fraternity</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>17-08-25</date><displaydate>17-August</displaydate>
@@ -3286,6 +3977,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>02-Krishna-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%206/Commandment%206.html</quiz_link>
         <quiz>Fraternity</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>18-08-25</date><displaydate>18-August</displaydate>
@@ -3295,6 +3994,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>03-Krishna-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%206/Commandment%206.html</quiz_link>
         <quiz>Fraternity</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>19-08-25</date><displaydate>19-August</displaydate>
@@ -3304,6 +4011,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>04-Krishna-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%206/Commandment%206.html</quiz_link>
         <quiz>Fraternity</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>20-08-25</date><displaydate>20-August</displaydate>
@@ -3313,6 +4028,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>05-Krishna-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%206/Commandment%206.html</quiz_link>
         <quiz>Fraternity</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>21-08-25</date><displaydate>21-August</displaydate>
@@ -3322,6 +4045,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>06-Krishna-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%206/Commandment%206.html</quiz_link>
         <quiz>Fraternity</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>22-08-25</date><displaydate>22-August</displaydate>
@@ -3331,6 +4062,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>07-Krishna-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%206/Commandment%206.html</quiz_link>
         <quiz>Fraternity</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>23-08-25</date><displaydate>23-August</displaydate>
@@ -3340,6 +4079,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>08-Krishna-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%206/Commandment%206.html</quiz_link>
         <quiz>Fraternity</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>24-08-25</date><displaydate>24-August</displaydate>
@@ -3349,6 +4096,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>09-Krishna-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%206/Commandment%206.html</quiz_link>
         <quiz>Fraternity</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>25-08-25</date><displaydate>25-August</displaydate>
@@ -3358,6 +4113,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>10-Krishna-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>26-08-25</date><displaydate>26-August</displaydate>
@@ -3367,6 +4130,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>11-Krishna-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>27-08-25</date><displaydate>27-August</displaydate>
@@ -3376,6 +4147,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>12-Krishna-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>28-08-25</date><displaydate>28-August</displaydate>
@@ -3385,6 +4164,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>13-Krishna-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>29-08-25</date><displaydate>29-August</displaydate>
@@ -3394,6 +4181,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>14-Krishna-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>30-08-25</date><displaydate>30-August</displaydate>
@@ -3403,6 +4198,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>08-Krishna-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%206/Commandment%206.html</quiz_link>
         <quiz>Fraternity</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>31-08-25</date><displaydate>31-August</displaydate>
@@ -3412,6 +4215,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>16-Krishna-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>01-09-25</date>
@@ -3422,6 +4233,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>17-Krishna-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%206/Commandment%206.html</quiz_link>
         <quiz>Fraternity</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>02-09-25</date>
@@ -3432,6 +4251,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>18-Krishna-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>03-09-25</date>
@@ -3442,6 +4269,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>19-Krishna-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>04-09-25</date>
@@ -3452,6 +4287,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>20-Krishna-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>05-09-25</date>
@@ -3462,6 +4305,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>21-Krishna-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>06-09-25</date>
@@ -3472,6 +4323,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>22-Krishna-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>07-09-25</date>
@@ -3482,6 +4341,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>23-Krishna-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>08-09-25</date>
@@ -3492,6 +4359,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>24-Krishna-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>09-09-25</date>
@@ -3502,6 +4377,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>25-Krishna-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>10-09-25</date>
@@ -3512,6 +4395,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>26-Krishna-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>11-09-25</date>
@@ -3522,6 +4413,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>27-Krishna-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>12-09-25</date>
@@ -3532,6 +4431,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>28-Krishna-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>13-09-25</date>
@@ -3541,6 +4448,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>29-Krishna-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>14-09-25</date><displaydate>14-September</displaydate>
@@ -3550,6 +4465,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>30-Krishna-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>15-09-25</date><displaydate>15-September</displaydate>
@@ -3559,6 +4482,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>31-Krishna-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>16-09-25</date><displaydate>16-September</displaydate>
@@ -3568,6 +4499,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>01-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>17-09-25</date><displaydate>17-September</displaydate>
@@ -3577,6 +4516,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>02-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>18-09-25</date><displaydate>18-September</displaydate>
@@ -3586,6 +4533,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>03-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>19-09-25</date><displaydate>19-September</displaydate>
@@ -3595,6 +4550,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>04-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>20-09-25</date><displaydate>20-September</displaydate>
@@ -3604,6 +4567,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>05-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>21-09-25</date><displaydate>21-September</displaydate>
@@ -3613,6 +4584,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>06-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>22-09-25</date><displaydate>22-September</displaydate>
@@ -3622,6 +4601,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>07-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>23-09-25</date><displaydate>23-September</displaydate>
@@ -3631,6 +4618,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>08-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>24-09-25</date><displaydate>24-September</displaydate>
@@ -3640,6 +4635,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>09-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>25-09-25</date><displaydate>25-September</displaydate>
@@ -3649,6 +4652,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>10-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>26-09-25</date><displaydate>26-September</displaydate>
@@ -3658,6 +4669,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>11-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>27-09-25</date><displaydate>27-September</displaydate>
@@ -3667,6 +4686,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>12-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>28-09-25</date><displaydate>28-September</displaydate>
@@ -3676,6 +4703,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>13-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>29-09-25</date><displaydate>29-September</displaydate>
@@ -3685,6 +4720,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>14-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>30-09-25</date><displaydate>30-September</displaydate>
@@ -3694,6 +4737,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>15-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>01-10-25</date>
@@ -3704,6 +4755,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>16-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>02-10-25</date>
@@ -3714,6 +4773,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>17-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>03-10-25</date>
@@ -3724,6 +4791,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>18-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>04-10-25</date>
@@ -3734,6 +4809,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>19-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>05-10-25</date>
@@ -3744,6 +4827,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>20-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>06-10-25</date>
@@ -3754,6 +4845,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>21-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>07-10-25</date>
@@ -3764,6 +4863,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>22-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>08-10-25</date>
@@ -3774,6 +4881,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>23-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>09-10-25</date>
@@ -3784,6 +4899,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>24-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>10-10-25</date>
@@ -3794,6 +4917,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>25-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>11-10-25</date>
@@ -3804,6 +4935,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>26-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>12-10-25</date>
@@ -3825,6 +4964,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>28-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>14-10-25</date>
@@ -3835,6 +4982,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>29-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>15-10-25</date>
@@ -3845,6 +5000,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>30-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>16-10-25</date>
@@ -3855,6 +5018,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>01-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>17-10-25</date>
@@ -3865,6 +5036,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>02-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>18-10-25</date>
@@ -3876,6 +5055,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>03-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>19-10-25</date>
@@ -3886,6 +5073,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>04-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>20-10-25</date>
@@ -3896,6 +5091,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>05-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>21-10-25</date>
@@ -3906,6 +5109,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>06-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>22-10-25</date>
@@ -3916,6 +5127,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>07-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>23-10-25</date>
@@ -3926,6 +5145,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>08-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>24-10-25</date>
@@ -3936,6 +5163,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>09-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>25-10-25</date>
@@ -3946,6 +5181,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>10-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>26-10-25</date>
@@ -3956,6 +5199,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>11-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>27-10-25</date>
@@ -3966,6 +5217,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>12-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>28-10-25</date>
@@ -3976,6 +5235,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>13-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>29-10-25</date>
@@ -3986,6 +5253,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>14-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>30-10-25</date>
@@ -3996,6 +5271,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>15-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>31-10-25</date>
@@ -4006,6 +5289,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>16-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>01-11-25</date>
@@ -4016,6 +5307,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>17-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>02-11-25</date>
@@ -4026,6 +5325,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>18-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>03-11-25</date>
@@ -4058,6 +5365,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>21-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>06-11-25</date>
@@ -4068,6 +5383,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>22-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>07-11-25</date>
@@ -4078,6 +5401,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>23-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>08-11-25</date>
@@ -4121,6 +5452,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>27-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>12-11-25</date>
@@ -4131,6 +5470,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>28-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>13-11-25</date>
@@ -4152,6 +5499,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>30-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>15-11-25</date>
@@ -4162,6 +5517,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>01-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>16-11-25</date>
@@ -4172,6 +5535,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>02-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>17-11-25</date>
@@ -4182,6 +5553,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>03-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>18-11-25</date>
@@ -4192,6 +5571,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>04-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>19-11-25</date>
@@ -4202,6 +5589,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>05-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>20-11-25</date>
@@ -4223,6 +5618,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>07-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>22-11-25</date>
@@ -4233,6 +5636,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>08-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>23-11-25</date>
@@ -4243,6 +5654,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>09-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>24-11-25</date>
@@ -4253,6 +5672,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>10-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>25-11-25</date>
@@ -4263,6 +5690,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>11-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>26-11-25</date>
@@ -4273,6 +5708,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>12-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>27-11-25</date>
@@ -4283,6 +5726,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>13-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>28-11-25</date>
@@ -4293,6 +5744,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>14-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>29-11-25</date>
@@ -4303,6 +5762,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>15-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>30-11-25</date>
@@ -4313,6 +5780,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>16-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>01-12-25</date>
@@ -4323,6 +5798,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>17-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>02-12-25</date>
@@ -4333,6 +5816,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>18-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>03-12-25</date>
@@ -4343,6 +5834,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>19-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>04-12-25</date>
@@ -4353,6 +5852,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>20-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>05-12-25</date>
@@ -4363,6 +5870,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>21-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>06-12-25</date>
@@ -4373,6 +5888,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>22-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>07-12-25</date>
@@ -4383,6 +5906,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>23-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>08-12-25</date>
@@ -4393,6 +5924,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>24-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>09-12-25</date>
@@ -4403,6 +5942,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>25-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>10-12-25</date>
@@ -4413,6 +5960,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>26-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>11-12-25</date>
@@ -4423,6 +5978,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>27-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>12-12-25</date>
@@ -4444,6 +6007,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>29-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>14-12-25</date>
@@ -4454,6 +6025,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>30-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>15-12-25</date>
@@ -4464,6 +6043,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>01-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>16-12-25</date>
@@ -4474,6 +6061,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>02-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>17-12-25</date>
@@ -4495,6 +6090,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>04-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>19-12-25</date>
@@ -4505,6 +6108,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>05-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>20-12-25</date>
@@ -4515,6 +6126,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>06-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>21-12-25</date>
@@ -4525,6 +6144,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>07-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>22-12-25</date>
@@ -4535,6 +6162,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>08-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>23-12-25</date>
@@ -4545,6 +6180,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>09-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>24-12-25</date>
@@ -4555,6 +6198,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>10-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>25-12-25</date>
@@ -4565,6 +6216,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>11-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>26-12-25</date>
@@ -4575,6 +6234,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>12-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>27-12-25</date>
@@ -4585,6 +6252,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>13-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>28-12-25</date>
@@ -4595,6 +6270,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>14-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>29-12-25</date>
@@ -4605,6 +6288,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>15-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>30-12-25</date>
@@ -4615,6 +6306,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>16-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>31-12-25</date>
@@ -4625,6 +6324,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>17-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>01-01-26</date><displaydate>01-January</displaydate>
@@ -4634,6 +6341,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>18-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>02-01-26</date><displaydate>02-January</displaydate>
@@ -4643,6 +6358,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>19-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>03-01-26</date>
@@ -4653,6 +6376,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>20-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>04-01-26</date><displaydate>04-January</displaydate>
@@ -4662,6 +6393,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>21-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>05-01-26</date><displaydate>05-January</displaydate>
@@ -4671,6 +6410,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>22-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>06-01-26</date><displaydate>06-January</displaydate>
@@ -4680,6 +6427,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>23-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>07-01-26</date><displaydate>07-January</displaydate>
@@ -4689,6 +6444,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>24-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>08-01-26</date><displaydate>08-January</displaydate>
@@ -4698,6 +6461,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>25-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>09-01-26</date><displaydate>09-January</displaydate>
@@ -4707,6 +6478,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>26-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>10-01-26</date><displaydate>10-January</displaydate>
@@ -4716,6 +6495,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>27-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>11-01-26</date><displaydate>11-January</displaydate>
@@ -4725,6 +6512,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>28-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>12-01-26</date><displaydate>12-January</displaydate>
@@ -4734,6 +6529,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>29-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>13-01-26</date><displaydate>13-January</displaydate>
@@ -4743,5 +6546,13 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>30-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
 </messages>
