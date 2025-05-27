@@ -2484,7 +2484,9 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
              partial_txt="books/BP1/mobile/index.html#p=230"
              ref="BP1 - 226"
              >This is why Rev. Babuji was always saying "don't question, sit before me, see for yourself. You will understand it". Not just sitting, closing eyes and going. But, if we have thought about what makes Him flow into us and give a certain amount of calmness to us, we will know what is the Love He has; that strengthens our confidence in us, that we can reach Him. One, that we are sufficiently worthy enough to have the attention of the Divine is what is proved and then two, the capacity to attract the attention of the Divine is sufficient logic for us to have confidence that we one day or other will reach Him. So this is the fundamental faith that you should have
-        </main_kcn>
+     </main_kcn>
+      <kcn audio="audio/xref/kcn/craving_of_the_soul.mp3"             txt="books/BP9/mobile/index.html#p=11"             partial_txt="books/BP9/mobile/index.html#p=86"             ref="BP9 - 34"             start="8588"
+             end="8667"        > Those of us who stop our meditation in between and then say Sir I have not found the progress. They cannot think that they have been let off by God. He is such a cantankerous friend that he never leaves you. Once you made some friendship with Him, he is not prepared to leave you. Do whatever you want; he is there along with you. He does not leave us. He always tells us damn fellow you have to do something better. 'You leave me for a moment I have collected so much of filth you get lost in that filth', He says 'no I will try to expel it and then I am there with you. I will somehow make my presence felt. You can't help my presence, you can't get rid of me'. Can there be a better approach to spirituality than this? Once you start the introduction properly you can't help his presence and I am happy about it atleast, provided proper introductions are done, otherwise there is always a God, "Antaryami" is always there.</kcn>
     </item>
     <item>
         <date>21-05-25</date><displaydate>22-May</displaydate>
@@ -2494,11 +2496,11 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>06-Bhanwar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
-        <babuji audio="audio/babuji/001_divine_light" txt="html/babuji/001_divine_light">Divine Light</babuji>
+	<babuji audio="audio/xref/babuji/001_divine_light.mp3" txt="audio/xref/babuji/html/001_divine_light.html">Divine Light</babuji>
         <kcn audio="audio/New%20folder/BP-1%20Sriramchandra%20Consciousness.mp3"
-             txt=""
-             partial_txt=""
-             ref=""
+		txt="audio/xref/kcn/pdf/sriramchandra_consciousness.pdf"
+             partial_txt="audio/xref/kcn/pdf/sriramchandra_consciousness.pdf"
+             ref="Sri Ramchandra Consciousness"
              start="764"
              end="956"
              >According to our Master by connecting ourselves with such a person with love and devotion and by practicing meditation in the right manner, we get transcended accordingly.
@@ -2512,7 +2514,7 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>07-Bhanwar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
-        <babuji audio="audio/babuji/002_intercommunion.mp3" txt="html/babuji/002_intercommunion.html">Intercommunion</babuji>
+	<babuji audio="audio/xref/babuji/002_intercommunion.mp3" txt="aduio/xref/babuji/002_intercommunion.html">Intercommunion</babuji>
         <kcn audio="audio/Bodhayanti%20Vol%204/BP411_Freedom-Liberation.mp3"
              txt="books/BP4/mobile/index.html#p=149"
              partial_txt="books/BP4/mobile/index.html#p=150"
@@ -2567,15 +2569,22 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
         <babuji audio="audio/xref/babuji/005_chaos.mp3" txt="audio/xref/babuji/html/005_chaos.html">Chaos</babuji>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
+<kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%208/BP807_TheUnknown.mp3"
+             txt="books/BP8/mobile/index.html#p=92"
+             partial_txt="books/BP8/mobile/index.html#p=94"
+             ref="BP8 - 88"
+             start="190"
+             end="380"
+             >He is not known through perception, inference, analogy,
+Scriptures and advice from elders. He is to be intuited and imperienced.
+It is only when the mind which coordinates and collates all perceptive
+data gets totally interiorised and gets purged out of all the
+impressions of such perceptive data and the reflective analysis it has
+made of such data, that it gains a status that may be called purity. It
+is in a pure mind the flower of pure love blossoms. All sadhana is aimed
+at that only.
         </kcn>
-    </item>
+</item>
     <item>
         <date>26-05-25</date><displaydate>26-May</displaydate>
         <message href="books/BWS/mobile/index.html#p=78">If somehow or other they make a firm determination to reach the Reality, the power of Master shall affect them.</message>
@@ -2585,13 +2594,16 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
         <babuji audio="audio/xref/babuji/006_freedom.mp3" txt="audio/xref/babuji/html/006_freedom.html">Freedom</babuji>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
+        <kcn audio="audio/Bodhayanti%20Vol%207/BP711_LionHeartedMen.mp3"
+             txt="books/BP7/mobile/index.html#p=176"
+             partial_txt="books/BP7/mobile/index.html#p=194"
+             ref="BP7 - 185"
+             start="1334"
+             end="1422"
+             >Master asks “What is the call of the present day?
+Nothing but the energy issuing forth from the centre. Either it should burn us or it should embrace us. That should be our thought if we really want our transformation, for which we should come forward like a warrior in the field to test our own bravery for the task.” (SDG-112) He also states that “If you want to taste the real nectar of life, come forward into the field with undaunted courage, not minding the ups and downs of fortune. That is the thing needed for our life, not charity and alms.” (SS-329-30) He affirms that “The courage
+starts when confidence is there; and confidence is there when you have willed to reach the destination.”(SDG-31) He bemoans that “Firm resolve and dauntless courage are the essential features of manly character. That is what is required for the final success. My advice in this respect
+usually goes unheeded.” (SS -264)
         </kcn>
     </item>
     <item>
@@ -2603,13 +2615,13 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
         <babuji audio="audio/xref/babuji/007_homeland_message.mp3" txt="audio/xref/babuji/html/007_homeland_message.html">Homeland Message</babuji>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
+        <kcn audio="audio/Bodhayanti%20Vol%2010/BP1009_Need%20for%20the%20Trainer.mp3"
+             txt="books/BP10/mobile/index.html#p=57"
+             partial_txt="books/BP10/mobile/index.html#p=60"
+             ref="BP10 - 54"
+             start="415"
+             end="519"
+             >The spiritual path is not only a winding path where the path ahead is dimly perceived, it is also a steep path. Further the roads ahead are bumpy and give occasions to fall and falter. The spiritual path is also compared with a stream - a stream of consciousness and the more we try to forge ahead the more we get pushed down. We seek finer states of consciousness and we find ourselves fallen into a deep pit of forgotten stages of consciousness. We think we have crawled above into the stage of utter dependency or Prapatti and we start slipping into the stage of devotion while we are unable to perceive the difference between these states. Traditional lore and revered saints and musicians of the past and present aid us in this confusion. We need, not only  a push from below but a pull from above too. To the sensitive aspirant the anguish is far too great and the urgency to come out of the stage categorical imperative. Master states that 'the subtle force is very strong and  if an abhyasi tries to go further by his effort, he is pushed down because he cannot get at the subtle force'. The trainer alone who knows the path and is always dwelling in the consciousness of Master and is who is not in any way different from the Master is the we refuge.
         </kcn>
     </item>
     <item>
@@ -2621,13 +2633,13 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
         <babuji audio="audio/xref/babuji/008_lalaji_message.mp3" txt="audio/xref/babuji/html/008_lalaji_message.html">Lalaji Message</babuji>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
+        <kcn audio="audio/Bodhayanti%20Vol%204/BP411_Freedom-Liberation.mp3"
+             txt="books/BP4/mobile/index.html#p=149"
+             partial_txt="books/BP4/mobile/index.html#p=150"
+             ref="BP4 - 142"
+             start="411"
+             end="528"
+             >The problem of life is not just seeking pleasure or even happiness during our life time, but to seek permanent happiness that is attainable only through freedom from our desires and wishes. Until we find this freedom even as Swami Vivekananda put it we do not know the joy of freedom itself. For this one needs to be freed or liberated from the bindings of the desire and wishes. What is the way and how do we accomplish it in a practical manner. Master says "......, if one is to be brought to the stage of Liberation, "...method for it would be to divert his soul towards the Ultimate. The result shall be that he will go on developing till, by the last moment of his life, he will finally reach the destination and attain Liberation. I can proclaim by the beat of the drum that none except a worthy Master having at his command the power of transmission can ever bring forth such wonderful results, and that Raja Yoga alone is the path which promises sure success. But this can fall to the lot of those fortunate ones alone who are actuated by an earnest longing for Liberation and are really destined for it. The various successive steps of yoga laid down in Patanjali's system are all included in the one routine process ...and are covered by the abhyasi without undergoing each one separately. But since that is possible only through the help of Pranahuti, I wish more and more abhyasis to come up to it and be profited thereby. [Silence Speaks pg 423]"
         </kcn>
     </item>
     <item>
@@ -2639,13 +2651,17 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
         <babuji audio="audio/xref/babuji/009_relationship_with_master.mp3" txt="audio/xref/babuji/html/009_relationship_with_master.html">Relationship with Master</babuji>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
+        <kcn audio="audio/Bodhayanti%20Vol%204/BP411_Freedom-Liberation.mp3"
+             txt="books/BP4/mobile/index.html#p=149"
+             partial_txt="books/BP4/mobile/index.html#p=160"
+             ref="BP4 - 152"
+             start="1120"
+             end="1262"
+             >He strongly affirms ".... that such a masterly type of spiritual training cannot be had anywhere but in our sanstha which runs under the kind grace of my great Divine Master. It is certain that the followers of such a highroad to Divinity have ever been few at all times and in all yugas. Only those who are destined for liberation are attracted to it with eagerness and zeal." [Silence Speaks 175]
+
+Master while exhorting us to develop humility said "As a matter of fact all of us are like beggars at the Master's door, having a begging bowl in hand which the Master readily fills. But when the bowl is already full with things other than spirituality, the question of getting anything from Him does not arise at all, for anything poured into it will flow out at once. The primary thing for us to do is therefore to make ourselves empty of all these so that it may be filled up with Master's grace."
+
+"But it is a matter of pity that I find all my warnings going unheeded; few seem to be trying to develop that amount of capability in themselves. The whole atmosphere is surcharged with the strongest Divine force. Can liberation ever be so easy and cheap? It is definitely the time when everyone should give his entire attention to it, setting aside all other things and feelings. I do not thereby mean to induce you to give up your worldly living, discarding everything including your responsibilities and obligations, but only to give yourself up to your Master in a spirit of surrender, availing of the time as best you can. The Master does a lot for you even without your knowledge, to inspire you with the true feelings required for your spiritual uplift. But then there must be a true response from your side too. You must promote within him the intensity of feeling which might compel him to push you on and on. That is, as a matter of fact, your part in the enterprise and for that you have to develop intense love and devotion."[Silence Speaks pg 74]
         </kcn>
     </item>
     <item>
@@ -2656,14 +2672,17 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <era_dt>15-Bhanwar-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
-        <babuji audio="audio/xref/babuji/010_meditation.mp3" txt="audio/xref/babuji/html/010_meditation.html">Meditation</babuji>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
+	<babuji audio="audio/xref/babuji/010_meditation.mp3" txt="audio/xref/babuji/html/010_meditation.html">Meditation</babuji>
+	<main_kcn txt="books/BP2/mobile/index.html#p=59"             partial_txt="books/BP2/mobile/index.html#p=82"             ref="BP2 - 80"
+             >The prayer we are asked to do is very clear in our system. We are asking him saying, we are yet but slaves of wishes and we don't ask him for remission or some condonation or anything like that in our prayer because the goal is clear and we will not ask for it. What is that goal, That God! Thou art the goal. God is called samavarthi. And what is the principle of samavarthi. It is law of equality; we can put it as the law of causation or karma. For every karma (act) we have got an effect. This law cannot be changed. If we question that, then we are questioning the rationale of existence, the reason behind this universe itself is questioned
+     </main_kcn>
+        <kcn audio="audio/Bodhayanti%20Vol%205/BP510_Attempt%20infinite%20with%20finite.mp3"
+             txt="books/BP5/mobile/index.html#p=123"
+             partial_txt="books/BP5/mobile/index.html#p=130"
+             ref="BP5 - 119"
+             start="646"
+             end="719"
+             >God is pure and simple consciousness and its main characteristic is to remain balanced and be equanimous or as we understand being a Samavarthi. He is by himself nothing and is totally ignorant. When we move towards the Centre and dwell in that region it is Ignorance that reigns and knowledge per se is not there. This is also the condition of Sahaj Samadhi where every action is automatic and there is no premeditated will that works. In the case of human beings perfect Sahaj Samadhi may be a far off thing but in the case of God that is his natural and permanent condition. This Balancedness carries along with it the criteria of Rtam or order. There is an inviolable order in the entire realm of the Divine which includes everything. This is also the nature of Nature and that is why we many times use it as a synonym with that of God. Balance is the condition of Nature and to be in that condition is the call of the Commandment 4 of the Master.
         </kcn>
     </item>
     <item>
@@ -2675,14 +2694,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
         <babuji audio="audio/xref/babuji/011_nervousness.mp3" txt="audio/xref/babuji/html/011_nervousness.html">Nervousness</babuji>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
-        </kcn>
+<kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%207/BP701_Mind%20Can%20Know%20Mind.mp3"
+             txt="https://sriramchandra.in/books/BP7/mobile/index.html#p=12"
+             partial_txt="https://sriramchandra.in/books/BP7/mobile/index.html#p=12"
+             ref="BP7 - 3"
+             start="310"
+             end="520"
+        >Explaining the power of mind, Master has said that it is of the same nature as Kshob and has its roots in the divine. “A powerful will made at the very first step and maintained all through shall never fail to achieve complete success.” However the problem is that we really do not know how to make that ‘will ‘ and we always found ourselves no wiser for the advise. The lower mind has its own logic and reasons to give us not to work for achieving the objective.  ... This is how the impure mind fails us in our task.
+</kcn>
     </item>
     <item>
         <date>01-06-25</date><displaydate>01-Jun</displaydate>
@@ -2693,15 +2712,15 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
         <babuji audio="audio/xref/babuji/012_loss_of_a_child.mp3" txt="audio/xref//babuji/html/012_loss_of_a_child.html">Loss of a child</babuji>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
-        </kcn>
-    </item>
+<kcn audio="https://sriramchandra.in/audio/New%20folder/BP1_14_Surrender.mp3"
+             txt="https://sriramchandra.in/books/BP1/mobile/index.html#p=261"
+             partial_txt="https://sriramchandra.in/books/BP1/mobile/index.html#p=261"
+             ref="BP1 - 257"
+             start="807"
+             end="977"
+        >This lead us to an interesting position in surrender.... When we seek help from the Divine and there is a Master in between, to whom are we making the prayer. If we distinguish between God and the Master it is wrong. ... The God that is at the base is Brahma with whom he has got connection.
+</kcn>
+</item>
     <item>
         <date>02-06-25</date><displaydate>02-Jun</displaydate>
         <message href="books/SDG/mobile/index.html#p=150">Having God is the real subject of spirituality.</message>
@@ -2711,14 +2730,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
         <babuji audio="audio/xref/babuji/013_past_lives.mp3" txt="audio/xref/babuji/html/013_past_lives.html">Past Lives</babuji>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
-        </kcn>
+	<kcn audio="https://sriramchandra.in/audio/New%20folder/BP-3%20ch13%20WHEN%20OUT%20OF%20REALITY%20WE%20BECOME%20SATAN.mp3"
+             txt="https://sriramchandra.in/books/BP3/mobile/index.html#p=287"
+             partial_txt="https://sriramchandra.in/books/BP3/mobile/index.html#p=287"
+             ref="BP3 - 289"
+             start="203"
+             end="276"
+        >Aspirants who seek to know the nature of reality.... Many an intellectual who thinks he got an idea of the reality and freedom by reading books is deluding himself by such and idea. Reading books and understanding the same is not the same as real understanding.
+</kcn>
     </item>
     <item>
         <date>03-06-25</date><displaydate>03-Jun</displaydate>
@@ -2729,14 +2748,14 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
         <babuji audio="audio/xref/babuji/014_revolutionary_approach.mp3" txt="audio/xref/babuji/html/014_revolutionary_approach.html">Revolutionary Approach</babuji>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
-        </kcn>
+	<kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%209/BP901_craving%20of%20soul2.mp3"
+             txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=71"
+             partial_txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=71"
+             ref="BP9 - 56"
+             start="2089"
+             end="2513"
+        >In a funny way once I asked Master ... I want liberation, I want freedom. How can a person who is already chained liberate me? ... if he is going to make the great souls from out of us, our views about ourselves we know, no body need tell us.
+</kcn>
     </item>
     <item>
         <date>04-06-25</date><displaydate>04-Jun</displaydate>
@@ -2747,15 +2766,16 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
 		<babuji audio="audio/xref/babuji/015_curvature.mp3" txt="audio/xref/babuji/html/015_curvature.html">Curvature</babuji>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
-        </kcn>
-    </item>
+	<kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%208/BP807_TheUnknown.mp3"
+             txt="https://sriramchandra.in/books/BP8/mobile/index.html#p=94"
+             partial_txt="https://sriramchandra.in/books/BP8/mobile/index.html#p=94"
+             ref="BP8 - 88"
+             start="263"
+             end="432"
+        >We all practice the Natural path .... We know that God is completely devoid of grossness, so the realisation of God must mean the attainment of the state similar subtleness to the last possible degree.... "Do not try to know the Unknown; Be the Unknown".
+
+</kcn>
+	</item>
     <item>
         <date>05-06-25</date><displaydate>05-Jun</displaydate>
         <message href="books/SDG/mobile/index.html#p=28">To find the way back by unravelling the strands binding us may not be possible except with the help of a guide who has connected himself to the Source.</message>
@@ -2765,13 +2785,13 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
         <babuji audio="audio/xref/babuji/016_meditation.mp3" txt="audio/xref/babuji/html/016_meditation.html">Meditation</babuji>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
+        <kcn audio="audio/Bodhayanti%20Vol%207/BP712_Vagaries%20of%20Mind.mp3"
+             txt="books/BP7/mobile/index.html#p=197"
+             partial_txt="books/BP7/mobile/index.html#p=208"
+             ref="BP7 - 199"
+             start="770"
+             end="840"
+             >Master on the other hand says that the help of a competent brother can be taken and he would through the his own internal Divine power exercise Pranahuti and divert the flow to the higher plane and also further on to the Divine realms.
         </kcn>
     </item>
     <item>
@@ -2783,13 +2803,17 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
         <babuji audio="audio/xref/babuji/017_peace.mp3" txt="audio/xref/babuji/html/017_peace.html">Peace</babuji>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
+	<babuji audio="audio/xref/babuji/010_meditation.mp3" txt="audio/xref/babuji/html/010_meditation.html">Meditation</babuji>
+        <main_kcn txt="books/BP3/mobile/index.html#p=317"             partial_txt="books/BP3/mobile/index.html#p=330"             ref="BP3 - 332"
+             >Revered Babuji Maharaj asserts that the power or capacity to offer Pranahuti is a yogic attainment of a very high order through which a yogi can infuse by his own will force the yogic energy of godly effulgence within anyone and remove anything unwanted in him or detrimental to spiritual sadhana.
+     </main_kcn>
+	<kcn audio="audio/New%20folder/BP-108%20Pranahuti%20and%20its%20Role.mp3"
+             txt="books/BP3/mobile/index.html#p=65"
+             partial_txt="books/BP3/mobile/index.html#p=74"
+             ref="BP3 - 66"
+             start="810"
+             end="890"
+             >Pranahuti as a process is a unique technique that proceeds on the basis of direct imparting of the awakened condition from one individual to another. In our hoary and rich spiritual tradition the core of the authentic work has been invariably been such a living transmission. What is transmitted is the very core of reality namely consciousness or spiritual energy which nurtures and enables the recipient to grow in an integral consciousness that sees no duality.
         </kcn>
     </item>
     <item>
@@ -2801,13 +2825,13 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
 		<babuji audio="audio/xref/babuji/018_knots.mp3" txt="audio/xref/babuji/html/018_knots.html">Peace</babuji>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
+        <kcn audio="audio/Bodhayanti%20Vol%209/BP906_Murad%20and%20Malamita.mp3"
+             txt="books/BP3/mobile/index.html#p=141"
+             partial_txt="books/BP3/mobile/index.html#p=158"
+             ref="BP9 - 146"
+             start="1170"
+             end="1425"
+             >We thus see the Master exquisitely weaving the concepts of murid and murad in a practical manner and have given us the necessary guidelines for action.
         </kcn>
     </item>
     <item>
@@ -2819,13 +2843,13 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
 	    <babuji audio="audio/xref/babuji/019_masters_grace.mp3" txt="audio/xref/babuji/html/019_masters_grace.html">Master's Grace</babuji>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
+        <kcn audio="audio/xref/kcn/craving_of_the_soul.mp3"
+             txt="books/BP9/mobile/index.htmli#p=11"
+             partial_txt="books/BP9/mobile/index.htmli#p=31"
+             ref="BP9 - 19"
+             start="2178"
+             end="2559"
+             >When you think about Him you are at one end of the phone and the other end Master is there, the channel is made.
         </kcn>
     </item>
     <item>
@@ -2837,13 +2861,13 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
         <babuji audio="audio/xref/babuji/020_q_and_a.mp3" txt="audio/xref/babuji/html/020_q_and_a.html">Q and A</babuji>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
+        <kcn audio="audio/Bodhayanti%20Vol%204/BP409_RevLalajiMaharaj_the%20advent.mp3"
+             txt="books/BP4/mobile/index.htmli#p=101"
+             partial_txt="books/BP4/mobile/index.html#p=130"
+             ref="BP4 - 122"
+             start="3150"
+             end="3489"
+             >That is where you are going to find the relevance of Rev. Lalaji Maharaj. He said the path to Reality is through meditation in the heart not through other.
         </kcn>
     </item>
     <item>
