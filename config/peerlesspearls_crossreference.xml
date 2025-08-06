@@ -3954,8 +3954,8 @@ suspended and slowly resolved in a natural way.
         <quiz>Fraternity</quiz>
         <babuji audio="audio/xref/babuji/078_philosophy.mp3" txt="audio/xref/babuji/html/078_philosophy.html">Philosophy</babuji>
         <kcn audio="audio/xref/kcn/stages_of_progress.mp3"
-             txt="books/LiberalExpo/mobile/index.htmli#p=119"
-             partial_txt="books/LiberalExpo/mobile/index.htmli#p=130"
+             txt="books/LiberalExpo/mobile/index.html#p=119"
+             partial_txt="books/LiberalExpo/mobile/index.html#p=130"
              ref="LEPAM - 130"
              start="2400"
              end="3293"
@@ -3972,8 +3972,8 @@ suspended and slowly resolved in a natural way.
         <quiz>Fraternity</quiz>
 	<babuji audio="audio/xref/babuji/079_vedas_I.mp3" txt="audio/xref/babuji/html/079_vedas_I.html">Vedas I</babuji>
 	<kcn audio="audio/Bodhayanti%20Vol%207/BP703_Spiritual%20Experience.mp3"
-             txt="books/BP7/mobile/index.htmli#p=48"
-             partial_txt="books/BP7/mobile/index.htmli#p=58"
+             txt="books/BP7/mobile/index.html#p=48"
+             partial_txt="books/BP7/mobile/index.html#p=58"
              ref="BP7 - 49"
              start="651"
              end="1512"
@@ -4036,46 +4036,18 @@ n) You will remember all this at will
         <quiz_link>https://www.imperience.org/quizzes/Commandment%206/Commandment%206.html</quiz_link>
         <quiz>Fraternity</quiz>
         <babuji audio="audio/xref/babuji/081_egoism.mp3" txt="audio/xref/babuji/html/081_egoism.html">Egoism</babuji>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
+        <kcn audio="audio/New%20folder/BP-203%20Exposition%20on%20Gita.mp3"
+             txt="books/BP2/mobile/index.html#p=113"
+             partial_txt="books/BP2/mobile/index.html#p=114"
+             ref="BP2 - 112"
+             start="0"
+             end="288"
+		>"It may appear that this is something new but it is not so this is the tradition. When the new avatar comes the old avatar ceases to have relevance. For historical reasons the worship of Lord Rama was restored sometime in the 12th Century and our first temples of Lord Rama were constructed only then. Many people may not be aware of these facts because we tend to accept what is generally believable. Goebbels theory applies that a lie told several times becomes a truth.&lt;br/&gt;
+""It is now the regime of Lord Krishna who is to continue till the next avatar comes to the world. This is the phenomenon of Nature which I bring to light for your understanding"". The position of The Special personality with reference to the position of Avatar was explained in the earlier occasions and I can only say that this is some
+ushering of a great personality to better the quality of human life. I think this distinction must always be kept in mind. Yesterday I told that there cannot be any difference between Lord Krishna and Babuji Maharaj. Yes! I hold that opinion even now and perhaps forever because that is the truth. Lord Krishna is working through the agency of Sri Ramchandra of Shahjahanpur. There is something like an agency in work and training is only one of the many things that He does. That is on record elsewhere. So He is not just confined to being our Master in the sense of a trainer. He has got many things to do and it is for us to follow what ever He has said."
         </kcn>
     </item>
     <item>
-        <date>10-08-25</date><displaydate>10-August</displaydate>
-        <message href="books/SDG/mobile/index.html#p=104">The effect of the activities of the lower consciousness settles down upon the subconscious mind forming fate.</message>
-        <reference>SDG 100</reference>
-        <era>Varada</era>
-        <era_dt>26-Varada-153</era_dt>
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
-        </kcn>
-    </item>
-    <item>
-        <date>09-08-25</date><displaydate>09-August</displaydate>
-        <message href="books/SILENCESPEAKS/SILENCESPEAKS.html#p=122">It is now the regime of Lord Krishna which is to continue till the next avatar comes into the world.</message>
-        <reference>SS 116</reference>
-        <era>Varada</era>
-        <era_dt>25-Varada-153</era_dt>
-        <quiz_link>https://www.imperience.org/quizzes/Commandment%206/Commandment%206.html</quiz_link>
-        <quiz>Fraternity</quiz>
-        <babuji audio="audio/xref/babuji/081_egoism.mp3" txt="audio/xref/babuji/html/081_egoism.html">Egoism</babuji>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
-        </kcn>
-    </item>
     <item>
         <date>10-08-25</date><displaydate>10-August</displaydate>
         <message href="books/SDG/mobile/index.html#p=104">The effect of the activities of the lower consciousness settles down upon the subconscious mind forming fate.</message>
@@ -4085,13 +4057,25 @@ n) You will remember all this at will
         <quiz_link>https://www.imperience.org/quizzes/Commandment%206/Commandment%206.html</quiz_link>
         <quiz>Fraternity</quiz>
         <babuji audio="audio/xref/babuji/082_my_master.mp3" txt="audio/xref/babuji/html/082_my_master.html">My Master</babuji>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
+        <main_kcn 
+             txt="books/BP1/mobile/index.htmli#p=67"
+             partial_txt="books/BP1/mobile/index.htmli#p=73"
+             ref="BP - 69"
+             >It is natural for us to be calm. God has given that status at the time of our birth it is we who have added all the blemishes that make us disturbed. Disturbed in the sense that we have applied our mind to other sensory inputs instead of applying to the particular consciousness of quiet sensory inputs. Occasional disturbances of a noise outside will not form an impression. Only when there is an intention for you to own that particular experience or a feeling you form a samskara. This is what is known as intentional consciousness. So the internal consciousness is enormously influenced by the content of the intentional consciousness. These intentions are our own. We have willed it, if we have not willed for such an attachment or an intention to hold it as our own, which is not our own, which is in nature of things, we started owning up and once we own it, it becomes a part of our samskara. The intentional consciousness gets itself into a state of samskara. These samskaras are what we are trying to get rid off during the cleaning process so that the mind comes to a state of calmness or steadiness which is its true nature. Its true nature is to be oriented to the Divine, which is already in us. The cleaning process helps us to get rid off these samskaras so that the mind becomes more and more clean and if we are going to accept only the samskara which we have during your meditation namely the relative quiet that we get among varying thoughts, the relative quiet will come to us for a few seconds.
+&lt;br/&gt;
+Man has three types of impurities: Mala, Vikshepa and Avarana. Master states categorically unless these impurities or coverings are removed, inspiration or guidance from the inner voice is meaningless. ("Reality at Dawn," p. 59). Mala means superficial impurities or dirt that are caused by lack of control over the senses, such as laziness, sloth, attraction to trivia and giving up impulsive tendencies towards sensory pleasures.
+&lt;br/&gt;
+		Vikshepa means the unreal projections of desires for enjoyment, such as greed avarice, jealousy and others. &lt;br/&gt;
+
+Avarana means the layers of grossness due to past Samskaras or impressions in the five layers of our being named as Physical, Vital, Mental, Aspirational and Ecstatic (Annamaya, Pranamaya, Manomaya, Vijnanamaya and Anandamaya) which drag a person down through formation of the Antahkarana (Inner Apparatus that moves from one life to another called as Jiva) and form as a barrier for the Union between man and God which is the primary right of every human being.
+</main_kcn>
+<kcn audio="audio/Bodhayanti%20Vol%209/BP912_Purity_2009PujyaBabujiBday.mp3"
+             txt="books/BP9/mobile/index.htmli#p=210"
+             partial_txt="books/BP9/mobile/index.htmli#p=213"
+             ref="BP9 - 201"
+             start="129"
+             end="488"
+             >Cleaning or purifying ourselves of negative energies through daily meditation and purificatory sessions can provide a direct link to the "ultimate reality," i.e., the pure consciousness residing within each of us. As our negative beliefs are purified through regular contact with the "light" of our divine nature, unhealthy emotions, such as fear, hate and anger, will naturally begin to diminish, and we will be free to transcend to higher states of consciousness. We will have the descending grace of the Master more and more such that our true self start vibrating in the higher planes of consciousness, while simultaneously and automatically attracting others of similar vibration. Our world will become more synchronistic with the divine. We will naturally repel angry, fearful people, and those who stick around will become calmer and more centered. We will radiate love. By simply being in consciousness governed by purity, we will have a greater effect on the world than the most gifted orators and political leaders.
         </kcn>
     </item>
     <item>
@@ -4103,13 +4087,14 @@ n) You will remember all this at will
         <quiz_link>https://www.imperience.org/quizzes/Commandment%206/Commandment%206.html</quiz_link>
         <quiz>Fraternity</quiz>
         <babuji audio="audio/xref/babuji/083_anger.mp3" txt="audio/xref/babuji/html/083_anger.html">Anger</babuji>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
+        <kcn audio="audio/xref/kcn/efficacy_of_rajayoga_pam.mp3"
+             txt="books/LiberalExpo/mobile/index.htmli#p=65"
+             partial_txt="books/LiberalExpo/mobile/index.htmli#p=76"
+             ref="LEPAM - 76"
+             start="2662"
+             end="3119"
+             >Mother sacrifices, instinctively you know that mother sacrifices lot of her interests for the sake of the children. Imitating the mother the father also sacrifices, he learns the value from her. It is the mother who tells, you have got to attend to the child more, it is time to educate, it is time to give him food, it is time that you should go and do something for him. It is the mother who teaches the principles of sacrifice, which is reason why the Vedas always used the word Mathrudevo Bhava, please note it. For no other reason we use that word. This is the reason why she gets a precedence
+over the father. She participates in the Divine function of sacrifice first, and then she teaches that lesson to the husband. Now, here God in essence, God in manifestation having the principles of sharing, serving and the third principle we have got, sacrifice. If we learn these three things in life we have learnt almost everything of spirituality.
         </kcn>
     </item>
     <item>
@@ -4121,13 +4106,21 @@ n) You will remember all this at will
         <quiz_link>https://www.imperience.org/quizzes/Commandment%206/Commandment%206.html</quiz_link>
         <quiz>Fraternity</quiz>
         <babuji audio="audio/xref/babuji/084_naturalness.mp3" txt="audio/xref/babuji/html/084_naturalness.html">Naturalness</babuji>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
+        <main_kcn 
+             txt="books/BP1/mobile/index.htmli#p=345"
+             partial_txt="books/BP1/mobile/index.htmli#p=347"
+             ref="BP1 - 343"
+		>Values of life are based on the goals which that life strives after in a society to make its life pleasant. That is precisely the reason why people who seek such a goal in life are generally considered to be a useless and certain times even mad. &lt;br/&gt;
+		But when a person has transcended the realm of values we find him giving us a new meaning of life itself. He lives entirely for the sake of others and there appears to be nothing which he would personally like to have in order to be happy. That is because he is in a condition which does not differentiate between happiness and unpleasantness (not that he is a stone) between misery and pleasure, so far as he is concerned. While all others try to see a meaning for their individual lives only, he gets a peep into the meaning of Life itself. Such a participation consciously in the working of Nature which is striving to perfect the forms of life that have so far evolved to the condition in which they exist is the only duty that a person who attained such a state has. It is a condition where he works one with the principle of Life itself which we may call Nature. Because of his identification with Nature which is perfect due to annihilation of his personal identity he may be said to be Nature itself, and Nature therefore behaves according to his wishes which come from Nothingness.
+</main_kcn>
+<kcn audio=""
+             txt="books/BP1/mobile/index.html#p=371"
+             partial_txt="books/BP1/mobile/index.html#p=386"
+             ref="BP1 - 382"
              start=""
              end=""
              >
+             Looking at the concept with the organic way of approach you will see there is a great organism. And there are several limbs, several cells, several parts of that organism. Every one shall work in tune with the remaining. Then it's a balanced existence. One limb working contrary to other will not lead us anywhere except conflict. And this body of which you and I are part of, has to work in consonance with the DivineWill for Divine purposes. It is God who uses us. For his purposes as he deems fit. If you are given the role of a person who has to be a attendant, by all means happily enjoy that. That is enough. There is no need to compare yourself with somebody else because a attendant is as much important in the office as an officer in charge of the office. Neither he nor the other is dispensable. Both of them are required. Each one of us has been blessed by the Divine, with certain endowments and it shall be used of his sake. Whatever we do shall be for the good of others which naturally includes your good. Whatever you want to do if it is only good for you it may not be likely to be good for others. The reverse proposition however is not correct. When you try to do something which is good for all, naturally your good is included in that. So the jivatma has to besomehow or the other be transcended. And we should atleast enter into the realms of the Mahatma, start thinking about the higher things. So theyielding to the Divine is the first step in that.
         </kcn>
     </item>
     <item>
