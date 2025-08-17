@@ -4251,7 +4251,7 @@ When the self interest is dissolved, naturally we move on. We start thinking abo
              partial_txt="books/BP7/mobile/index.html#p=134"
              ref="BP7 - 125"
              start="366"
-             end="415"
+             end="472"
              >The planet will not survive another hundred years of the same state of consciousness that produced the external effects of recenthistory. Spirituality is no longer a question of luxury of a few individuals here and there becoming liberated. It has become a necessity
         </kcn>
 </item>
@@ -4269,7 +4269,7 @@ When the self interest is dissolved, naturally we move on. We start thinking abo
              partial_txt="books/BP4/mobile/index.html#p=290"
              ref="BP4 - 282"
              start="793"
-             end="816"
+             end="870"
              >According to the hindu scriptures one should serve the world unselfishly and without attachment leaving the fruit of ones work atthe feet of the Master. This altruistic way of life of service is the best form of service to the Master.
         </kcn>
 </item>
@@ -4287,7 +4287,7 @@ When the self interest is dissolved, naturally we move on. We start thinking abo
              partial_txt="books/LiberalExpo/mobile/index.html#p=13"
              ref="LEPAM - 13"
              start="1202"
-             end="2248"
+             end="1357"
              >We have all come from the same base and therefore we are brothers not because of any other reason not because of commonness of idealogy which is governing, communism or rotarian or any other system but the common bondage is because of the one source from which we all have come.
         </kcn>
 </item>
@@ -4300,15 +4300,15 @@ When the self interest is dissolved, naturally we move on. We start thinking abo
         <quiz_link>https://www.imperience.org/quizzes/Commandment%206/Commandment%206.html</quiz_link>
         <quiz>Fraternity</quiz>
         <babuji audio="audio/xref/babuji/094_faith.mp3" txt="audio/xref/babuji/html/094_faith.html">Faith</babuji>
- <kcn audio="audio/New%20folder/BP-108%20Pranahuti%20and%20its%20Role.mp3"
-             txt="books/BP3/mobile/index.htmli#p=64"
-             partial_txt="books/BP3/mobile/index.htmli#p=67"
-             ref="BP3 - 59"
-             start="243"
-             end="301"
-             >It is our commitment to understand and empathize the other that gives meaning and relevance to realization of our true nature. Itis only then we can consider ourselves as living upto the expectations of the divine, as Master often urges us to.
+ <kcn audio="audio/xref/kcn/introduction_to_pam.mp3"
+             txt="books/LiberalExpo/mobile/index.html#p=7"
+             partial_txt="books/LiberalExpo/mobile/index.html#p=12"
+             ref="LEPAM - 12"
+             start="1016"
+             end="1198"
+             >Brotherhood demands certain amount of sharing so the insulation has to go.
         </kcn>
-    </item>
+</item>
     <item>
         <date>23-08-25</date><displaydate>23-August</displaydate>
         <message href="books/SDG/mobile/index.html#p=127">Let the light of the Real, shine in the heart of everyone so that we may rise up to the expectations of the Divine!</message>
@@ -4323,7 +4323,7 @@ When the self interest is dissolved, naturally we move on. We start thinking abo
              partial_txt="books/BP3/mobile/index.htmli#p=67"
              ref="BP3 - 59"
              start="243"
-             end="301"
+             end="525"
              >It is our commitment to understand and empathize the other that gives meaning and relevance to realization of our true nature. Itis only then we can consider ourselves as living upto the expectations of the divine, as Master often urges us to.
         </kcn>
 </item>
@@ -4372,15 +4372,9 @@ When the self interest is dissolved, naturally we move on. We start thinking abo
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
         <babuji audio="audio/xref/babuji/098_babujis_pain.mp3" txt="audio/xref/babuji/html/098_babujis_pain.html">Babujis pain</babuji>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
-        </kcn>
-    </item>
+	<kcn audio="audio/New%20folder/BP-3%20Path%20of%20Pain.mp3"             txt="books/BP3/mobile/index.html#p=163"             partial_txt="books/BP3/mobile/index.html#p=165"             ref="BP3 - 156"             start="0"             end="336"             >For any sadhaka it is obvious that our pain is the breaking of the shell that encloses or covers as a veil our understanding. It is quite conceivable that not only is pain a necessary aspect of the spiritual process, but that to consciously enter into and experience suffering is the doorway to a more profound understanding of reality, something to be even sought after. This is what Master said: "It is good to be put to worries. The home is the training centre for submission and endurance. To put up patiently with the day-to-day events of life is the highest form of penance and sacrifice. So, instead of anger and resentment, one must cultivate in himself a meek temperament. Meekness refers to thatfeeling of mind in which, on being rebuked by others, one feels his own self to be at fault, and for which he has to yield to what is meted outto him. For others, aloofness, solitude and dissociation might be the means for cultivating contentment, endurance and freedom from the entanglements of life, whereas for us, to put up with the taunts and rebukes of the family, friends and society, is the greatest form of penance and sacrifice.
+</kcn>
+</item>
     <item>
         <date>27-08-25</date><displaydate>27-August</displaydate>
         <message href="books/SDG/mobile/index.html#p=73">The Natural Path provides a system in which, while living a normal worldly life in the way that all our actions may become penances themselves, we try to achieve our highest Goal - The Ultimate.</message>
@@ -4390,13 +4384,19 @@ When the self interest is dissolved, naturally we move on. We start thinking abo
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
         <babuji audio="audio/xref/babuji/099_danger.mp3" txt="audio/xref/babuji/html/099_danger.html">Danger</babuji>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
+	<main_kcn
+		txt="books/BP4/mobile/index.html#p=77"
+		partial_txt="books/BP4/mobile/index.html#p=91"
+		ref="BP4 - 83"
+		>As house holders it is for us to use the circumstances in life for growth internally. As the Upanishad put it "In the dark night live those for whom The world without alone is real; in night Darker still, for whom the world within Alone is real. The first leads to a life Of action, the second to a life of meditation. But those who combine action with meditation Cross the sea of death through action And enter into immortality Through the practice of meditation. So have we heard from the wise." I add that we do not need to hear from the wise. If we wisely follow the path given by our beloved Master we can stand testimony to this Vedic wisdom.
+	</main_kcn>	
+	<kcn audio="audio/Bodhayanti%20Vol%2010/BP1003_Duty.mp3"
+             txt="books/BP10/mobile/index.htmli#p=24"
+             partial_txt="books/BP10/mobile/index.htmli#p=24"
+             ref="BP10 - 18"
+             start="0"
+             end="300"
+             >It is a fact that Lalaji Maharaj met his Master, the great Sufi saint Hazarat Fazal Ahmad Khan Sahib Raipuri, in 1891 and spent 16 years in his company. This saint gave him full powers to train others on October 11, 1896. However he began his teaching in 1911, after he had assimilated the best of various religions had founded a new method drawing liberally from Sufism and Hinduism. His method however also makes it possible to realize ones’ true nature in God for all without giving up family life and in a short period of time. This becomes possible, thanks to the Master enshrined in their hearts and who accompanies them through the entire spiritual journey. His teachings we realise is also bringing a social and spiritual regeneration. He could raise his disciples up to the highest states (the central area) with his will. He is a pillar of Santmat (Sufism beyond the religion).
         </kcn>
     </item>
     <item>
@@ -4408,13 +4408,24 @@ When the self interest is dissolved, naturally we move on. We start thinking abo
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
         <babuji audio="audio/xref/babuji/100_taking_from_the_heart.mp3" txt="audio/xref/babuji/html/100_taking_from_the_heart.html">Taking from the heart</babuji>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
+	<main_kcn
+            txt="books/BP4/mobile/index.html#p=301"
+            partial_txt="books/BP4/mobile/index.html#p=303"
+	    ref="BP4 - 295"	
+		>
+Master adds that we must feel ourselves connected with the Supreme Power every moment with an unbroken chain of thought during all our activities. It can be easily accomplished if we treat all our action and work to be a part of Divine duty, entrusted to us by the Great Master whom we are to serve as best as we can. Service and sacrifice are the two main instruments with which we build the temple of spirituality, love of course being the fundamental basis. Any kind of service, if done selflessly, is helpful. Service to fellow beings is service to God in the real sense, if it is not done out of any selfish motive. Universal love, then becomes predominant and we begin to love every being of the God's creation without any feeling of attachment with it. It leads us to devotion and sacrifice. (Dawn of Reality -Page 36, paragraph 2)
+			&lt;br/&gt;
+Explaining the function of the trainers he asserted that "I do not mean to advocate, in any way, the orthodox idea of gurudom. In our sanstha we take it in the sense of common brotherhood, in a spirit of service and sacrifice, helping each other as needed and required". (Wisdom unfurled. Page 8, paragraph 2)
+ &lt;br/&gt;
+He further explains that "Under this process the Master, by the application of his internal powers, awakens and accelerates the dormant forces in the abhyasi to action, and diverts the flow of the Divine Current towards his heart. The only thing for the abhyasi to do is to connect himself with the power of the Master, whose mind and senses are all thoroughly disciplined and regulated. In that case the Master's power begins to flow into the abhyasi's heart, regulating the tendencies of his mind also. But, this does not refer to the old orthodox view about Gurudom... we take it in the form of common brotherhood with a spirit of service and sacrifice." (Showers of Divine Grace Page 74, paragraph 2)
+	</main_kcn>
+	<kcn audio="audio/Bodhayanti%20Vol%209/BP905_Love%20Him%20who%20Loves%20All_2010PujyaBabujiBday.mp3"
+             txt="books/BP9/mobile/index.html#p=137"
+             partial_txt="books/BP9/mobile/index.html#p=139"
+             ref="BP9 - 127"
+             start="0"
+             end="441"
+             >Natural Path which is a flower with the three petals of love, service and sacrifice is the way of living of humanity from now onwards. The forerunners in the Path are necessarily highly educated persons or those with exceptional knowledge to understand this path. It is heart that matters and human beings are already endowed with the powers of intuition and spiritual wisdom to follow the path. And that was the work of the Master who enabled all of us to breathe Him through our Being. We have to be the change we want to see in this world. We are all already the messengers of the Master to this strife ridden society working towards the harmony and peace that shall last long. I am happy we are all united in this task. The 9 P.M. prayer which our Master prescribed as a matter of regular practice is our mantra for this change that shall happen. In this effort all are welcome and the door to the path is wide open.
         </kcn>
     </item>
     <item>
