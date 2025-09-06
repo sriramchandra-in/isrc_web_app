@@ -4663,7 +4663,17 @@ He further explains that "Under this process the Master, by the application of h
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
         <babuji audio="audio/xref/babuji/111_knowledge.mp3" txt="audio/xref/babuji/html/111_knowledge.html">Knowledge</babuji>
-        <kcn audio=""
+  <kcn
+	audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%208/BP808-Morality.mp3" 
+        txt="https://sriramchandra.in/books/BP8/mobile/index.html#p=105"
+        partial_txt="https://sriramchandra.in/books/BP8/mobile/index.html#p=110"
+        ref="BP8 - 110" 
+        start="586"
+        end="1028"  
+  >
+We need to develop Virtues. Virtues are attitudes, dispositions, or character traits that enable us to be and to act in ways that develop this potential. They enable us to pursue the ideals we have adopted. A person of wisdom should be truthful, without arrogance, without deceit, not slanderous and not hateful. The wise person should go beyond the evil of greed and miserliness Honesty, courage, compassion, generosity, fidelity, integrity; fairness, self-control, and prudence are all examples of virtues. Virtues are developed through learning and through practice. As Lord Krishna stated a person can improve his or her character by practicing self-discipline, while a good character can be corrupted by repeated self-indulgence. Just as the ability to run a marathon develops through much training and practice, so too does our capacity to be fair, to be courageous, or to be compassionate. Virtues are habits. That is, once they are acquired, they become characteristic of a person. For example, a person who has developed the virtue of generosity is often referred to as a generous person because he or she tends to be generous in all circumstances.
+  </kcn>      
+  <!--kcn audio=""
              txt=""
              partial_txt=""
              ref=""
@@ -4674,7 +4684,7 @@ He further explains that "Under this process the Master, by the application of h
              Because we have created the problem has come. That's what he says. He put an end to individual creation. His creation will work. That's what he has been always telling.
              &lt;br/&gt; 
              That is what exactly is the first principle of meditation itself. What we are trying to do here is to allow the divinity to express itself through us rather than express ourselves through our existence.
-        </kcn>
+        </kcn-->
     </item>
     <item>
         <date>09-09-25</date>
