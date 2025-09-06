@@ -605,8 +605,8 @@ messages that have been found in most traditions, most religions and spiritual s
         <era_dt>26-Samavarti-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
-	<babuji audio="audio/xref/babuji/026_change.mp3" txt="audio/xref/babuji/html/026_change.html">Change</babuji>
-	 <kcn audio="audio/Bodhayanti%20Vol%207/BP712_Vagaries%20of%20Mind.mp3"
+	    <babuji audio="audio/xref/babuji/026_change.mp3" txt="audio/xref/babuji/html/026_change.html">Change</babuji>
+	    <kcn audio="audio/Bodhayanti%20Vol%207/BP712_Vagaries%20of%20Mind.mp3"
              txt="books/BP7/mobile/index.html#p=197"
              partial_txt="books/BP7/mobile/index.html#p=218"
              ref="BP7 - 218"
@@ -622,8 +622,8 @@ messages that have been found in most traditions, most religions and spiritual s
         <era_dt>27-Samavarti-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
-	<babuji audio="audio/xref/babuji/027_mantras.mp3" txt="audio/xref/babuji/html/027_mantras.html">Mantras</babuji>
-	<kcn audio="audio/xref/kcn/craving_of_the_soul.mp3"
+        <babuji audio="audio/xref/babuji/027_mantras.mp3" txt="audio/xref/babuji/html/027_mantras.html">Mantras</babuji>
+        <kcn audio="audio/xref/kcn/craving_of_the_soul.mp3"
              txt="books/BP9/mobile/index.html#p=11"
              partial_txt="books/BP9/mobile/index.html#p=46"
              ref="BP9 - 34"
@@ -639,8 +639,8 @@ messages that have been found in most traditions, most religions and spiritual s
         <era_dt>28 Samavarti-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
-	<babuji audio="audio/xref/babuji/028_the_effects.mp3" txt="audio/xref/babuji/html/028_the_effects.html">The effects</babuji>
-	<kcn audio="audio/xref/kcn/methods_of_pam.mp3"
+        <babuji audio="audio/xref/babuji/028_the_effects.mp3" txt="audio/xref/babuji/html/028_the_effects.html">The effects</babuji>
+        <kcn audio="audio/xref/kcn/methods_of_pam.mp3"
              txt="books/LiberalExpo/mobile/index.html#p=134"
              partial_txt="books/LiberalExpo/mobile/index.html#p=134"
              ref="LEPAM - 134"
@@ -655,10 +655,9 @@ messages that have been found in most traditions, most religions and spiritual s
         <era>Samavarti</era>
         <era_dt>29-Samavarti-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
-	<quiz>Basics</quiz>
-	 <babuji audio="audio/xref/babuji/029_powers_of_nature.mp3" txt="audio/xref/babuji/html/029_powers_of_nature.html">Powers of Nature
-</babuji>
- <kcn audio="audio/Bodhayanti%20Vol%207/BP701_Mind%20Can%20Know%20Mind.mp3"
+	    <quiz>Basics</quiz>
+	    <babuji audio="audio/xref/babuji/029_powers_of_nature.mp3" txt="audio/xref/babuji/html/029_powers_of_nature.html">Powers of Nature</babuji>
+        <kcn audio="audio/Bodhayanti%20Vol%207/BP701_Mind%20Can%20Know%20Mind.mp3"
              txt="books/BP7/mobile/index.html#p=10"
              partial_txt="books/BP7/mobile/index.html#p=11"
              ref="BP7 - 2"
@@ -674,8 +673,8 @@ messages that have been found in most traditions, most religions and spiritual s
         <era_dt>30-Samavarti-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
-	<babuji audio="audio/xref/babuji/030_krishna.mp3" txt="audio/xref/babuji/html/030_krishna.mp3">Lord Krishna</babuji>
-	 <kcn audio="audio/Bodhayanti%20Vol%207/BP712_Vagaries%20of%20Mind.mp3"
+        <babuji audio="audio/xref/babuji/030_krishna.mp3" txt="audio/xref/babuji/html/030_krishna.mp3">Lord Krishna</babuji>
+        <kcn audio="audio/Bodhayanti%20Vol%207/BP712_Vagaries%20of%20Mind.mp3"
              txt="books/BP7/mobile/index.html#p=197"
              partial_txt="books/BP7/mobile/index.html#p=206"
              ref="BP7 - 198"
@@ -691,8 +690,8 @@ messages that have been found in most traditions, most religions and spiritual s
         <era_dt>31-Samavarti-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
-	<babuji audio="audio/xref/babuji/031_q_and_a.mp3" txt="audio/xref/babuji/html/031_q_and_a.html">Q and A</babuji>
-	<kcn audio="audio/Bodhayanti%20Vol%209/BP914_RealMan.mp3"
+        <babuji audio="audio/xref/babuji/031_q_and_a.mp3" txt="audio/xref/babuji/html/031_q_and_a.html">Q and A</babuji>
+        <kcn audio="audio/Bodhayanti%20Vol%209/BP914_RealMan.mp3"
              txt="books/BP9/mobile/index.html#p=230"
              partial_txt="books/BP9/mobile/index.html#p=238"
              ref="BP9 - 226"
@@ -707,9 +706,9 @@ messages that have been found in most traditions, most religions and spiritual s
         <era>Prana</era>
         <era_dt>01-Prana-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
-	<quiz>Basics</quiz>
-	<babuji audio="audio/xref/babuji/032_the_way.mp3" txt="audio/xref/babuji/html/032_the_way.html">The way</babuji>
-	<kcn audio="audio/Bodhayanti%20Vol%205/BP506_SriKrishna%20Thru%20SriRamchandra.mp3"
+        <quiz>Basics</quiz>
+        <babuji audio="audio/xref/babuji/032_the_way.mp3" txt="audio/xref/babuji/html/032_the_way.html">The way</babuji>
+        <kcn audio="audio/Bodhayanti%20Vol%205/BP506_SriKrishna%20Thru%20SriRamchandra.mp3"
              txt="books/BP5/mobile/index.html#p=76"
              partial_txt="books/BP5/mobile/index.html#p=80"
              ref="BP5 - 69"
@@ -724,9 +723,9 @@ messages that have been found in most traditions, most religions and spiritual s
         <era>Prana</era>
         <era_dt>02-Prana-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
-	<quiz>Basics</quiz>
-	<babuji audio="audio/xref/babuji/033_a_prophet.mp3" txt="audio/xref/babuji/html/033_a_prophet.html">A Prophet</babuji>
-<kcn audio="audio/Bodhayanti%20Vol%2010/BP1008_Love%20Universal.mp3"
+        <quiz>Basics</quiz>
+        <babuji audio="audio/xref/babuji/033_a_prophet.mp3" txt="audio/xref/babuji/html/033_a_prophet.html">A Prophet</babuji>
+        <kcn audio="audio/Bodhayanti%20Vol%2010/BP1008_Love%20Universal.mp3"
              txt="books/BP10/mobile/index.html#p=52"
              partial_txt="books/BP10/mobile/index.tml#p=52"
              ref="BP10 - 46"
@@ -742,8 +741,8 @@ messages that have been found in most traditions, most religions and spiritual s
         <era_dt>03-Prana-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
-    <babuji audio="audio/xref/babuji/034_the_trinity.mp3" txt="audio/xref/babuji/html/034_the_trinity.html">The Trinity</babuji>
- <kcn audio="audio/Bodhayanti%20Vol%204/BP421Path%20to%20Liberation.mp3"
+        <babuji audio="audio/xref/babuji/034_the_trinity.mp3" txt="audio/xref/babuji/html/034_the_trinity.html">The Trinity</babuji>
+        <kcn audio="audio/Bodhayanti%20Vol%204/BP421Path%20to%20Liberation.mp3"
              txt="books/BP4/mobile/index.html#p=363"
              partial_txt="books/BP4/mobile/index.html#p=363"
              ref="BP4 - 355"
@@ -759,7 +758,7 @@ messages that have been found in most traditions, most religions and spiritual s
         <era_dt>04-Prana-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
-^		<babuji audio="audio/xref/babuji/035_nature.mp3" txt="audio/xref/babuji/html/035_nature.html">Nature</babuji>
+		<babuji audio="audio/xref/babuji/035_nature.mp3" txt="audio/xref/babuji/html/035_nature.html">Nature</babuji>
         <kcn audio="audio/Bodhayanti%20Vol%2010/BP1003_Duty.mp3"
              txt="books/BP10/mobile/index.html#p=24"
              partial_txt="books/BP10/mobile/index.html#p=28"
@@ -775,8 +774,8 @@ messages that have been found in most traditions, most religions and spiritual s
         <era>Prana</era>
         <era_dt>05-Prana-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
-	<quiz>Basics</quiz>
-	 <babuji audio="audio/xref/babuji/036_speaking_to_god.mp3" txt="audio/xref/babuji/html/036_speaking_to_god.html">Speaking to God</babuji>
+	    <quiz>Basics</quiz>
+	    <babuji audio="audio/xref/babuji/036_speaking_to_god.mp3" txt="audio/xref/babuji/html/036_speaking_to_god.html">Speaking to God</babuji>
         <kcn audio="audio/Bodhayanti%20Vol%205/BP514_They%20take%20milk%20and%20also%20pickle.mp3"
              txt="books/BP5/mobile/index.html#p=198"
              partial_txt="books/BP5/mobile/index.html#p=216"
@@ -792,8 +791,8 @@ messages that have been found in most traditions, most religions and spiritual s
         <era>Prana</era>
         <era_dt>06-Prana-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
-	<quiz>Basics</quiz>
-	 <babuji audio="audio/xref/babuji/037_shyness.mp3" txt="audio/xref/babuji/html/037_shyness.html">Shyness</babuji>
+	    <quiz>Basics</quiz>
+	    <babuji audio="audio/xref/babuji/037_shyness.mp3" txt="audio/xref/babuji/html/037_shyness.html">Shyness</babuji>
         <kcn audio="https://sriramchandra.in/celebrations/janmastami2006/Rev%20KCN%20Message%20-%20Krishnashtami%202006.mp3"
              txt="https://sriramchandra.in/celebrations/janmastami2006/Janmastami06RevKCN.pdf"
              partial_txt="https://sriramchandra.in/celebrations/janmastami2006/Janmastami06RevKCN.pdf"
@@ -810,7 +809,7 @@ messages that have been found in most traditions, most religions and spiritual s
         <era_dt>07-Prana-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
-  <babuji audio="audio/xref/babuji/038_light.mp3" txt="audio/xref/babuji/html/038_light.html">Light</babuji>
+        <babuji audio="audio/xref/babuji/038_light.mp3" txt="audio/xref/babuji/html/038_light.html">Light</babuji>
          <kcn audio="audio/Bodhayanti%20Vol%209/BP912_Purity_2009PujyaBabujiBday.mp3"
              txt="books/BP9/mobile/index.html#p=210"
              partial_txt="books/BP9/mobile/index.html#p=218"
@@ -827,7 +826,7 @@ messages that have been found in most traditions, most religions and spiritual s
         <era_dt>08-Prana-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
- <babuji audio="audio/xref/babuji/039_saint_then_scientist.mp3" txt="audio/xref/babuji/html/039_saint_then_scientist.html">Saint and Scientist</babuji>
+        <babuji audio="audio/xref/babuji/039_saint_then_scientist.mp3" txt="audio/xref/babuji/html/039_saint_then_scientist.html">Saint and Scientist</babuji>
         <kcn audio="https://sriramchandra.in/celebrations/janmastami2006/Rev%20KCN%20Message%20-%20Krishnashtami%202006.mp3"
              txt="https://sriramchandra.in/celebrations/janmastami2006/Janmastami06RevKCN.pdf"
              partial_txt="https://sriramchandra.in/celebrations/janmastami2006/Janmastami06RevKCN.pdf"
@@ -4589,7 +4588,7 @@ He further explains that "Under this process the Master, by the application of h
 
     </item>
   <item>
-        <date>05-09-25</date>
+        <date title="Vamana Avatar, Our Master and Methods of PAM!" ref="https://www.sriramchandra.in/vamana.php">05-09-25</date>
         <displaydate>05-September</displaydate>
         <message href="books/BWS/mobile/index.html#p=188">When we do something by applying our head and heart we form impressions</message>
         <reference>BWS 160</reference>
@@ -5096,6 +5095,7 @@ He further explains that "Under this process the Master, by the application of h
         <era_dt>16-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+        <babuji audio="audio/xref/babuji/007_homeland_message.mp3" txt="audio/xref/babuji/html/007_homeland_message.html">Homeland Message</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -5114,6 +5114,7 @@ He further explains that "Under this process the Master, by the application of h
         <era_dt>17-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+        <babuji audio="audio/xref/babuji/008_lalaji_message.mp3" txt="audio/xref/babuji/html/008_lalaji_message.html">Lalaji Message</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -5132,6 +5133,7 @@ He further explains that "Under this process the Master, by the application of h
         <era_dt>18-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+        <babuji audio="audio/xref/babuji/009_relationship_with_master.mp3" txt="audio/xref/babuji/html/009_relationship_with_master.html">Relationship with Master</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -5150,6 +5152,7 @@ He further explains that "Under this process the Master, by the application of h
         <era_dt>19-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+        <babuji audio="audio/xref/babuji/010_meditation.mp3" txt="audio/xref/babuji/html/010_meditation.html">Meditation</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -5168,6 +5171,7 @@ He further explains that "Under this process the Master, by the application of h
         <era_dt>20-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+        <babuji audio="audio/xref/babuji/011_nervousness.mp3" txt="audio/xref/babuji/html/011_nervousness.html">Nervousness</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -5186,6 +5190,7 @@ He further explains that "Under this process the Master, by the application of h
         <era_dt>21-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+        <babuji audio="audio/xref/babuji/012_loss_of_a_child.mp3" txt="audio/xref//babuji/html/012_loss_of_a_child.html">Loss of a child</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -5204,6 +5209,7 @@ He further explains that "Under this process the Master, by the application of h
         <era_dt>22-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+        <babuji audio="audio/xref/babuji/013_past_lives.mp3" txt="audio/xref/babuji/html/013_past_lives.html">Past Lives</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -5222,6 +5228,7 @@ He further explains that "Under this process the Master, by the application of h
         <era_dt>23-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+        <babuji audio="audio/xref/babuji/014_revolutionary_approach.mp3" txt="audio/xref/babuji/html/014_revolutionary_approach.html">Revolutionary Approach</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -5240,6 +5247,7 @@ He further explains that "Under this process the Master, by the application of h
         <era_dt>24-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+		<babuji audio="audio/xref/babuji/015_curvature.mp3" txt="audio/xref/babuji/html/015_curvature.html">Curvature</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -5258,6 +5266,7 @@ He further explains that "Under this process the Master, by the application of h
         <era_dt>25-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+        <babuji audio="audio/xref/babuji/016_meditation.mp3" txt="audio/xref/babuji/html/016_meditation.html">Meditation</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -5276,6 +5285,7 @@ He further explains that "Under this process the Master, by the application of h
         <era_dt>26-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+        <babuji audio="audio/xref/babuji/017_peace.mp3" txt="audio/xref/babuji/html/017_peace.html">Peace</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -5295,6 +5305,15 @@ He further explains that "Under this process the Master, by the application of h
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
         <seminar>https://www.imperience.org/SeminarArchives/DivineCommand.htm</seminar>
+		<babuji audio="audio/xref/babuji/018_knots.mp3" txt="audio/xref/babuji/html/018_knots.html">Peace</babuji>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>13-10-25</date>
@@ -5305,6 +5324,7 @@ He further explains that "Under this process the Master, by the application of h
         <era_dt>28-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+	    <babuji audio="audio/xref/babuji/019_masters_grace.mp3" txt="audio/xref/babuji/html/019_masters_grace.html">Master's Grace</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -5323,6 +5343,7 @@ He further explains that "Under this process the Master, by the application of h
         <era_dt>29-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+        <babuji audio="audio/xref/babuji/020_q_and_a.mp3" txt="audio/xref/babuji/html/020_q_and_a.html">Q and A</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -5341,6 +5362,7 @@ He further explains that "Under this process the Master, by the application of h
         <era_dt>30-Samadristi-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+        <babuji audio="audio/xref/babuji/021_making_masters.mp3" txt="audio/xref/babuji/html/021_making_masters.html">Making Masters</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -5359,6 +5381,7 @@ He further explains that "Under this process the Master, by the application of h
         <era_dt>01-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+        <babuji audio="audio/xref/babuji/022_q_and_a.mp3" txt="audio/xref/babuji/html/022_q_and_a.html">Q and A</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -5377,6 +5400,7 @@ He further explains that "Under this process the Master, by the application of h
         <era_dt>02-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+	    <babuji audio="audio/xref/babuji/023_curvature.mp3" txt="audio/xref/babuji/html/023_curvature.html">Curvature</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -5396,6 +5420,7 @@ He further explains that "Under this process the Master, by the application of h
         <era_dt>03-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+	    <babuji audio="audio/xref/babuji/024_sufferings.mp3" txt="audio/xref/babuji/html/024_sufferings.html">Sufferings</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -5414,6 +5439,7 @@ He further explains that "Under this process the Master, by the application of h
         <era_dt>04-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+	    <babuji audio="audio/xref/babuji/025_god_is_attributeless.mp3" txt="audio/xref/babuji/html/025_god_is_attributeless.html">Q and A</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -5432,6 +5458,7 @@ He further explains that "Under this process the Master, by the application of h
         <era_dt>05-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+	    <babuji audio="audio/xref/babuji/026_change.mp3" txt="audio/xref/babuji/html/026_change.html">Change</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -5450,6 +5477,7 @@ He further explains that "Under this process the Master, by the application of h
         <era_dt>06-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+        <babuji audio="audio/xref/babuji/027_mantras.mp3" txt="audio/xref/babuji/html/027_mantras.html">Mantras</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -5468,6 +5496,7 @@ He further explains that "Under this process the Master, by the application of h
         <era_dt>07-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%208/Commandment%208.html</quiz_link>
         <quiz>Happiness</quiz>
+        <babuji audio="audio/xref/babuji/028_the_effects.mp3" txt="audio/xref/babuji/html/028_the_effects.html">The effects</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -5486,6 +5515,7 @@ He further explains that "Under this process the Master, by the application of h
         <era_dt>08-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
+	    <babuji audio="audio/xref/babuji/029_powers_of_nature.mp3" txt="audio/xref/babuji/html/029_powers_of_nature.html">Powers of Nature</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -5504,6 +5534,7 @@ He further explains that "Under this process the Master, by the application of h
         <era_dt>09-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
+        <babuji audio="audio/xref/babuji/030_krishna.mp3" txt="audio/xref/babuji/html/030_krishna.mp3">Lord Krishna</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -5522,6 +5553,7 @@ He further explains that "Under this process the Master, by the application of h
         <era_dt>10-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
+        <babuji audio="audio/xref/babuji/031_q_and_a.mp3" txt="audio/xref/babuji/html/031_q_and_a.html">Q and A</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -5540,6 +5572,7 @@ He further explains that "Under this process the Master, by the application of h
         <era_dt>11-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
+        <babuji audio="audio/xref/babuji/032_the_way.mp3" txt="audio/xref/babuji/html/032_the_way.html">The way</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -5558,6 +5591,7 @@ He further explains that "Under this process the Master, by the application of h
         <era_dt>12-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
+        <babuji audio="audio/xref/babuji/033_a_prophet.mp3" txt="audio/xref/babuji/html/033_a_prophet.html">A Prophet</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -5576,13 +5610,14 @@ He further explains that "Under this process the Master, by the application of h
         <era_dt>13-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
+        <babuji audio="audio/xref/babuji/034_the_trinity.mp3" txt="audio/xref/babuji/html/034_the_trinity.html">The Trinity</babuji>
+        <kcn audio="audio/Bodhayanti%20Vol%207/BP711_LionHeartedMen.mp3"
+             txt="books/BP7/mobile/index.html#p=176"
+             partial_txt="books/BP7/mobile/index.html#p=195"
+             ref="BP7 - 186"
+             start="1398"
+             end="1470"
+             >The strength of courage is proportional to the intensity of the prayer of the competent. Those who are surrendered are not incompetent but are those who are brave and humble simultaneously and they are courage personified like Hanuman or Arjuna.
         </kcn>
     </item>
     <item>
@@ -5594,13 +5629,14 @@ He further explains that "Under this process the Master, by the application of h
         <era_dt>14-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
+		<babuji audio="audio/xref/babuji/035_nature.mp3" txt="audio/xref/babuji/html/035_nature.html">Nature</babuji>
+        <kcn audio="audio/xref/kcn/ten_commandments.mp3"
+             txt="books/LiberalExpo/mobile/index.html#p=91"
+             partial_txt="books/LiberalExpo/mobile/index.html#p=110"
+             ref="LEPAM - 110"
+             start="446"
+             end="548"
+             >Naturally a tree which requires manure will be given more manure, a tree which does not require that much manure will not be given that much of manure. What is great differentiation we are trying to make? Each according to the need, each according to its capacity.
         </kcn>
     </item>
     <item>
@@ -5612,13 +5648,14 @@ He further explains that "Under this process the Master, by the application of h
         <era_dt>15-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
+	    <babuji audio="audio/xref/babuji/036_speaking_to_god.mp3" txt="audio/xref/babuji/html/036_speaking_to_god.html">Speaking to God</babuji>
+        <kcn audio="audio/Bodhayanti%20Vol%205/BP511_Demolition%20of%20the%20past.mp3"
+             txt="books/BP5/mobile/index.html#p=145"
+             partial_txt="books/BP5/mobile/index.html#p=153"
+             ref="BP5 - 142"
+             start="619"
+             end="681"
+             >It is obvious that when a thing made of clay comes before us we take a different view of it and our liking for it increased in comparison to the mass of clay which it is made up of. Similarly when a man approaches God after proper making of himself, He takes a different view of him. This goes to explain that we should effect such a making of ourselves as may help us to become the cynosure of His eyes.
         </kcn>
     </item>
     <item>
@@ -5630,13 +5667,20 @@ He further explains that "Under this process the Master, by the application of h
         <era_dt>16-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
+	    <babuji audio="audio/xref/babuji/037_shyness.mp3" txt="audio/xref/babuji/html/037_shyness.html">Shyness</babuji>
+        <main_kcn 
+             txt="books/BP2/mobile/index.html#p=303"
+             partial_txt="books/BP2/mobile/index.html#p=308"
+             ref="BP2 - 306"
+             >Universal Consciousness has got along with it Universal responsibilities also. It is necessary that we dwell in Him more and more so that we may be used by Him for His purposes as He wills. Our will has to get replaced by His Will and then real life or life in life starts.
+        </main_kcn>
+        <kcn audio="audio/Bodhayanti%20Vol%205/BP515_We%20are%20and%20we%20are%20not.mp3"
+             txt="books/BP5/mobile/index.html#p=222"
+             partial_txt="books/BP5/mobile/index.html#p=226"
+             ref="BP5 - 215"
+             start="362"
+             end="437"
+             >Divinity in any aspect it should be noted is an act of ‘giving’ even if it means suffering to ones’ petty self. People who want to get divinised should learn how to ‘give’ and without learning that lesson in full no one enters the realm of divinity. Service or giving to others is not just a sphere of our activities: it is the essence of our existence. To think that one does service in spiritual life without serving in the other planes of existence is a deceit that the ego plays.
         </kcn>
     </item>
     <item>
@@ -5648,13 +5692,14 @@ He further explains that "Under this process the Master, by the application of h
         <era_dt>17-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
+        <babuji audio="audio/xref/babuji/038_light.mp3" txt="audio/xref/babuji/html/038_light.html">Light</babuji>
+        <kcn audio="audio/Bodhayanti%20Vol%205/BP512_Remembrance%20of%20everything.mp3"
+             txt="books/BP5/mobile/index.html#p=145"
+             partial_txt="books/BP5/mobile/index.html#p=184"
+             ref="BP5 - 174"
+             start="886"
+             end="926"
+             >It is common to hear the sadhakas telling that they feel the words in their hearts and also feel absorbed so much that they are not able to read his works for a long time. They say that their eyes droop and they enter into the states of Samadhi. The words of the Master are thus an effective means to live in constant remembrance.
         </kcn>
     </item>
     <item>
@@ -5666,13 +5711,14 @@ He further explains that "Under this process the Master, by the application of h
         <era_dt>18-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
+        <babuji audio="audio/xref/babuji/039_saint_then_scientist.mp3" txt="audio/xref/babuji/html/039_saint_then_scientist.html">Saint and Scientist</babuji>
+        <kcn audio="audio/New%20folder/BP-3%20Path%20of%20Pain.mp3"
+             txt="books/BP3/mobile/index.html#p=163"
+             partial_txt="books/BP3/mobile/index.html#p=171"
+             ref="BP3 - 163"
+             start="656"
+             end="734"
+             >We should understand the content of consciousness during meditations and in other situations and be aware of the whole context and should not try to perpetuate the blissful or peaceful condition. We may have to actually relate to the pain in the bliss. This is the call for the condition of non peace-peace about which Master talks so much. 
         </kcn>
     </item>
     <item>
