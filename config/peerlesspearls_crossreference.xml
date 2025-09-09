@@ -55,7 +55,7 @@
         <era_dt>22-Viveka-152</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
-        <kcn audio="https://drive.google.com/file/d/1bnicjClKA2pEwqk3gvKxUqEXlv4SVHrI/view?usp=drive_link"  txt="https://www.sriramchandra.in/Satyapadamspdf/23_3_Silence%20Our%20Goal.pdf">Silence</kcn>
+        <kcn audio="https://drive.google.com/file/d/1bnicjClKA2pEwqk3gvKxUqEXlv4SVHrI/view?usp=drive_link"  txt="Satyapadamspdf/23_3_Silence%20Our%20Goal.pdf">Silence</kcn>
     </item>
     <item>
         <date>06-01-25</date><displaydate>06-January</displaydate>
@@ -76,7 +76,7 @@
         <era_dt>24-Viveka-152</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
-         <kcn audio="audio/Bodhayanti%20Vol%205/BP504_The%20Virtue%20of%20truth.mp3"  txt="https://www.sriramchandra.in/Satyapadamspdf/TheVirtueofTruth.pdf" >Virtue of Truth</kcn>
+         <kcn audio="audio/Bodhayanti%20Vol%205/BP504_The%20Virtue%20of%20truth.mp3"  txt="Satyapadamspdf/TheVirtueofTruth.pdf" >Virtue of Truth</kcn>
     </item>
     <item>
         <date>08-01-25</date><displaydate>08-January</displaydate>
@@ -147,7 +147,7 @@
         </kcn>
     </item>
     <item>
-        <date title="Happy New Year of Lalaji Era 153 !" ref="https://www.sriramchandra.in/Satyapadamspdf/18_1_3_LalajiEra.pdf">14-01-25</date><displaydate>14-January</displaydate>
+        <date title="Happy New Year of Lalaji Era 153 !" ref="Satyapadamspdf/18_1_3_LalajiEra.pdf">14-01-25</date><displaydate>14-January</displaydate>
         <message href="books/BWS/mobile/index.html#p=158">Our first and the foremost commandment relates to the proper observance of Sandhya and Upasana. By following it we begin to draw in power which we have finally to attain due course.</message>
         <reference>BWS 118</reference>
         <era>Samavarti</era>
@@ -216,7 +216,7 @@
              end="460"
         >During meditations when we are deeply absorbed there comes a state when the condition of near (but never absolute) non-conscious state is reached.</kcn>
         <additional>
-              <kcn id="1" audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%204/BP405_MeditationIsNotEnough.mp3"
+              <kcn id="1" audio="audio/Bodhayanti%20Vol%204/BP405_MeditationIsNotEnough.mp3"
              txt="books/BP4/mobile/index.html#p=42"
              partial_txt="books/BP4/mobile/index.html#p=66"
              ref="BP4 - 58"
@@ -285,7 +285,7 @@
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
         <babuji audio="audio/xref/babuji/008_lalaji_message.mp3" txt="audio/xref/babuji/html/008_lalaji_message.html">Lalaji Message</babuji>
- <kcn audio="https://sriramchandra.in/celebrations/babuji2013/2013PujyaBabujiBdayRevKCN30Apr2013.mp3"
+ <kcn audio="celebrations/babuji2013/2013PujyaBabujiBdayRevKCN30Apr2013.mp3"
              txt="books/BP10/mobile/index.html#p=30"
 	     partial_txt="books/BP10/mobile/index.html#p=32"
 	     ref="BP10 - 26"
@@ -353,9 +353,9 @@
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
         <babuji audio="audio/xref/babuji/012_loss_of_a_child.mp3" txt="audio/xref//babuji/html/012_loss_of_a_child.html">Loss of a child</babuji>
-        <kcn audio="https://sriramchandra.in/celebrations/janmastami2006/Rev%20KCN%20Message%20-%20Krishnashtami%202006.mp3"
-                txt="https://sriramchandra.in/celebrations/janmastami2006/Janmastami06RevKCN.pdf#page=4"
-                partial_txt="https://sriramchandra.in/celebrations/janmastami2006/Janmastami06RevKCN.pdf#page=4"
+        <kcn audio="celebrations/janmastami2006/Rev%20KCN%20Message%20-%20Krishnashtami%202006.mp3"
+                txt="celebrations/janmastami2006/Janmastami06RevKCN.pdf#page=4"
+                partial_txt="celebrations/janmastami2006/Janmastami06RevKCN.pdf#page=4"
                 ref="Sri Krishna Janmastami Address 2006"
                 start="470"
                 end="538"
@@ -466,7 +466,7 @@
     </item>
     <item>
         <date title="Commencement of the Birthday Celebrations of the Advent - Lalaji Maharaj!"
-              ref="https://sriramchandra.in/lalajimaharajstory.php">01-02-25</date><displaydate>01-February</displaydate>
+              ref="lalajimaharajstory.php">01-02-25</date><displaydate>01-February</displaydate>
         <message href="books/SDG/mobile/index.html#p=75">Our Great Master has boldly asserted that one can, for sure, attain liberation in this very life, nay, even in a part of it, provided one is really earnest about it and has the fortune of having a proper guide.</message>
         <reference>SDG 71</reference>
         <era>Samavarti</era>
@@ -485,7 +485,7 @@
     </item>
     <item>
         <date title="Happy Birthday of the Advent - Lalaji Maharaj!"
-              ref="https://sriramchandra.in/centenary.php">02-02-25</date><displaydate>02-February</displaydate>
+              ref="centenary.php">02-02-25</date><displaydate>02-February</displaydate>
         <message href="books/SDG/SDG.html#p=33">We should utilize this occasion in getting into the Master and Master alone, which will act as food and tonic for spiritual elevation.</message>
         <reference>SDG 29</reference>
         <era>Samavarti</era>
@@ -506,7 +506,7 @@ messages that have been found in most traditions, most religions and spiritual s
     </item>
     <item>
         <date title="Conclusion of Birthday Celebrations of the Advent - Lalaji Maharaj!"
-              ref="https://sriramchandra.in/marfat.php">03-02-25</date><displaydate>03-February</displaydate>
+              ref="marfat.php">03-02-25</date><displaydate>03-February</displaydate>
         <message href="books/SDG/SDG.html#p=88">Now since times are changing, as I have hinted at in 'Efficacy of Raj Yoga', only such means as introduced by our Revered Master Mahatma Ram Chandraji shall be in vogue throughout the world.</message>
         <reference>SDG 84</reference>
         <era_dt>21-Samavarti-153</era_dt>
@@ -793,9 +793,9 @@ messages that have been found in most traditions, most religions and spiritual s
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 	    <quiz>Basics</quiz>
 	    <babuji audio="audio/xref/babuji/037_shyness.mp3" txt="audio/xref/babuji/html/037_shyness.html">Shyness</babuji>
-        <kcn audio="https://sriramchandra.in/celebrations/janmastami2006/Rev%20KCN%20Message%20-%20Krishnashtami%202006.mp3"
-             txt="https://sriramchandra.in/celebrations/janmastami2006/Janmastami06RevKCN.pdf"
-             partial_txt="https://sriramchandra.in/celebrations/janmastami2006/Janmastami06RevKCN.pdf"
+        <kcn audio="celebrations/janmastami2006/Rev%20KCN%20Message%20-%20Krishnashtami%202006.mp3"
+             txt="celebrations/janmastami2006/Janmastami06RevKCN.pdf"
+             partial_txt="celebrations/janmastami2006/Janmastami06RevKCN.pdf"
              ref="Sri Krishna Janmastami Address 2006"
              start="282"
              end="364"
@@ -827,9 +827,9 @@ messages that have been found in most traditions, most religions and spiritual s
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
         <babuji audio="audio/xref/babuji/039_saint_then_scientist.mp3" txt="audio/xref/babuji/html/039_saint_then_scientist.html">Saint and Scientist</babuji>
-        <kcn audio="https://sriramchandra.in/celebrations/janmastami2006/Rev%20KCN%20Message%20-%20Krishnashtami%202006.mp3"
-             txt="https://sriramchandra.in/celebrations/janmastami2006/Janmastami06RevKCN.pdf"
-             partial_txt="https://sriramchandra.in/celebrations/janmastami2006/Janmastami06RevKCN.pdf"
+        <kcn audio="celebrations/janmastami2006/Rev%20KCN%20Message%20-%20Krishnashtami%202006.mp3"
+             txt="celebrations/janmastami2006/Janmastami06RevKCN.pdf"
+             partial_txt="celebrations/janmastami2006/Janmastami06RevKCN.pdf"
              ref="Sri Krishna Janmastami Address 2006"
              start="471"
              end="540"
@@ -1154,8 +1154,8 @@ messages that have been found in most traditions, most religions and spiritual s
         <quiz>Dedication</quiz>
 ^		<babuji audio="audio/xref/babuji/058_grossness.mp3" txt="audio/xref/babuji/html/058_grossness.html">Grossness</babuji>
         <kcn audio="audio/xref/kcn/efficacy_of_rajayoga_pam.mp3"
-             txt="https://sriramchandra.in//books/LiberalExpo/mobile/index.html#p=65"
-             partial_txt="https://sriramchandra.in//books/LiberalExpo/mobile/index.html#p=86"
+             txt="books/LiberalExpo/mobile/index.html#p=65"
+             partial_txt="books/LiberalExpo/mobile/index.html#p=86"
              ref="LEPAM - 86"
              start="4613"
              end="4942"
@@ -1181,7 +1181,7 @@ messages that have been found in most traditions, most religions and spiritual s
 </kcn>
     </item>
     <item>
-        <date title="Pujya Babuji Maharaj's spiritual message on Holi festival !" ref="https://www.sriramchandra.in/holi.php">14-03-25</date><displaydate>14-March</displaydate>
+        <date title="Pujya Babuji Maharaj's spiritual message on Holi festival !" ref="holi.php">14-03-25</date><displaydate>14-March</displaydate>
         <message href="books/BWS/mobile/index.html#p=172">When a man creates in himself a strong craving for the Absolute, he is indeed in a state of prayer and it is for everyone to strive for it.</message>
         <reference>BWS 132</reference>
         <era>Prana</era>
@@ -1392,7 +1392,7 @@ particular ocean..that comes after all our stages of progress. He says for that 
         <quiz_link>https://www.imperience.org/quizzes/Commandment%202/Commandment%202.html</quiz_link>
         <quiz>Dedication</quiz>
         <babuji audio="audio/xref/babuji/070_nearness_of_god.mp3" txt="audio/xref/babuji/html/070_nearness_of_god.html">Nearness of God</babuji>
-        <main_kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%204/BP414_Moulding_Preceptors_Business.mp3" txt="books/BP4/mobile/index.html#p=217" partial_txt="books/BP4/mobile/index.html#p=232" ref="BP4 - 224"
+        <main_kcn audio="audio/Bodhayanti%20Vol%204/BP414_Moulding_Preceptors_Business.mp3" txt="books/BP4/mobile/index.html#p=217" partial_txt="books/BP4/mobile/index.html#p=232" ref="BP4 - 224"
              start="2094"
              end="2394"
                 >Under Natural Path the master, by the application of his inner powers, awakens to action and accelerates the dormant forces in the abhyasi and diverts the flow of Divine current towards his heart.
@@ -2568,7 +2568,7 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
         <babuji audio="audio/xref/babuji/005_chaos.mp3" txt="audio/xref/babuji/html/005_chaos.html">Chaos</babuji>
-<kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%208/BP807_TheUnknown.mp3"
+<kcn audio="audio/Bodhayanti%20Vol%208/BP807_TheUnknown.mp3"
              txt="books/BP8/mobile/index.html#p=92"
              partial_txt="books/BP8/mobile/index.html#p=94"
              ref="BP8 - 88"
@@ -2693,9 +2693,9 @@ Master while exhorting us to develop humility said "As a matter of fact all of u
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
         <babuji audio="audio/xref/babuji/011_nervousness.mp3" txt="audio/xref/babuji/html/011_nervousness.html">Nervousness</babuji>
-<kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%207/BP701_Mind%20Can%20Know%20Mind.mp3"
-             txt="https://sriramchandra.in/books/BP7/mobile/index.html#p=12"
-             partial_txt="https://sriramchandra.in/books/BP7/mobile/index.html#p=12"
+<kcn audio="audio/Bodhayanti%20Vol%207/BP701_Mind%20Can%20Know%20Mind.mp3"
+             txt="books/BP7/mobile/index.html#p=12"
+             partial_txt="books/BP7/mobile/index.html#p=12"
              ref="BP7 - 3"
              start="310"
              end="520"
@@ -2711,9 +2711,9 @@ Master while exhorting us to develop humility said "As a matter of fact all of u
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
         <babuji audio="audio/xref/babuji/012_loss_of_a_child.mp3" txt="audio/xref//babuji/html/012_loss_of_a_child.html">Loss of a child</babuji>
-<kcn audio="https://sriramchandra.in/audio/New%20folder/BP1_14_Surrender.mp3"
-             txt="https://sriramchandra.in/books/BP1/mobile/index.html#p=261"
-             partial_txt="https://sriramchandra.in/books/BP1/mobile/index.html#p=261"
+<kcn audio="audio/New%20folder/BP1_14_Surrender.mp3"
+             txt="books/BP1/mobile/index.html#p=261"
+             partial_txt="books/BP1/mobile/index.html#p=261"
              ref="BP1 - 257"
              start="807"
              end="977"
@@ -2729,9 +2729,9 @@ Master while exhorting us to develop humility said "As a matter of fact all of u
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
         <babuji audio="audio/xref/babuji/013_past_lives.mp3" txt="audio/xref/babuji/html/013_past_lives.html">Past Lives</babuji>
-	<kcn audio="https://sriramchandra.in/audio/New%20folder/BP-3%20ch13%20WHEN%20OUT%20OF%20REALITY%20WE%20BECOME%20SATAN.mp3"
-             txt="https://sriramchandra.in/books/BP3/mobile/index.html#p=287"
-             partial_txt="https://sriramchandra.in/books/BP3/mobile/index.html#p=287"
+	<kcn audio="audio/New%20folder/BP-3%20ch13%20WHEN%20OUT%20OF%20REALITY%20WE%20BECOME%20SATAN.mp3"
+             txt="books/BP3/mobile/index.html#p=287"
+             partial_txt="books/BP3/mobile/index.html#p=287"
              ref="BP3 - 289"
              start="203"
              end="276"
@@ -2747,9 +2747,9 @@ Master while exhorting us to develop humility said "As a matter of fact all of u
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
         <babuji audio="audio/xref/babuji/014_revolutionary_approach.mp3" txt="audio/xref/babuji/html/014_revolutionary_approach.html">Revolutionary Approach</babuji>
-	<kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%209/BP901_craving%20of%20soul2.mp3"
-             txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=71"
-             partial_txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=71"
+	<kcn audio="audio/Bodhayanti%20Vol%209/BP901_craving%20of%20soul2.mp3"
+             txt="books/BP9/mobile/index.html#p=71"
+             partial_txt="books/BP9/mobile/index.html#p=71"
              ref="BP9 - 56"
              start="2089"
              end="2513"
@@ -2765,9 +2765,9 @@ Master while exhorting us to develop humility said "As a matter of fact all of u
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
 		<babuji audio="audio/xref/babuji/015_curvature.mp3" txt="audio/xref/babuji/html/015_curvature.html">Curvature</babuji>
-	<kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%208/BP807_TheUnknown.mp3"
-             txt="https://sriramchandra.in/books/BP8/mobile/index.html#p=94"
-             partial_txt="https://sriramchandra.in/books/BP8/mobile/index.html#p=94"
+	<kcn audio="audio/Bodhayanti%20Vol%208/BP807_TheUnknown.mp3"
+             txt="books/BP8/mobile/index.html#p=94"
+             partial_txt="books/BP8/mobile/index.html#p=94"
              ref="BP8 - 88"
              start="263"
              end="432"
@@ -2888,7 +2888,7 @@ Master while exhorting us to develop humility said "As a matter of fact all of u
         </kcn>
     </item>
     <item>
-        <date title="Working in Silence with the guidance of the Light on the Path!" ref="https://www.sriramchandra.in/revkcn.php">11-06-25</date><displaydate>11-June</displaydate>
+        <date title="Working in Silence with the guidance of the Light on the Path!" ref="revkcn.php">11-06-25</date><displaydate>11-June</displaydate>
         <message href="books/SDG/mobile/index.html#p=69">If anybody wants that he should get benefited, he should encourage himself to cultivate right faith, right cognition, and right morals.</message>
         <reference>SDG 65</reference>
         <era>Bhanwar</era>
@@ -3055,9 +3055,9 @@ Master while exhorting us to develop humility said "As a matter of fact all of u
         <quiz_link>https://www.imperience.org/quizzes/Commandment%203/Commandment%203.html</quiz_link>
         <quiz>Ideal</quiz>
         <babuji audio="audio/xref/babuji/031_q_and_a.mp3" txt="audio/xref/babuji/html/031_q_and_a.html">Q and A</babuji>
-        <kcn audio="https://www.sriramchandra.in/audio/Bodhayanti%20Vol%207/BP701_Mind%20Can%20Know%20Mind.mp3"
-             txt="https://www.sriramchandra.in/books/BP7/mobile/index.html#p=10"
-             partial_txt="https://www.sriramchandra.in/books/BP7/mobile/index.html#p=24"
+        <kcn audio="audio/Bodhayanti%20Vol%207/BP701_Mind%20Can%20Know%20Mind.mp3"
+             txt="books/BP7/mobile/index.html#p=10"
+             partial_txt="books/BP7/mobile/index.html#p=24"
              ref="BP07 - 15"
              start="1155"
              end="1198"
@@ -3073,9 +3073,9 @@ Master while exhorting us to develop humility said "As a matter of fact all of u
         <quiz_link>https://www.imperience.org/quizzes/Commandment%204/Commandment%204.html</quiz_link>
         <quiz>Identicality</quiz>
         <babuji audio="audio/xref/babuji/032_the_way.mp3" txt="audio/xref/babuji/html/032_the_way.html">The way</babuji>
-        <kcn audio="https://www.sriramchandra.in/audio/Bodhayanti%20Vol%204/BP412%20Love%20is%20the%20Inner%20Awakening%20to%20Reality.mp3"
-             txt="https://www.sriramchandra.in/books/BP4/mobile/index.html#p=171"
-             partial_txt="https://www.sriramchandra.in/books/BP4/mobile/index.html#p=201"
+        <kcn audio="audio/Bodhayanti%20Vol%204/BP412%20Love%20is%20the%20Inner%20Awakening%20to%20Reality.mp3"
+             txt="books/BP4/mobile/index.html#p=171"
+             partial_txt="books/BP4/mobile/index.html#p=201"
              ref="BP04 - 193"
              start="2790"
              end="2940"
@@ -3091,9 +3091,9 @@ Master while exhorting us to develop humility said "As a matter of fact all of u
         <quiz_link>https://www.imperience.org/quizzes/Commandment%204/Commandment%204.html</quiz_link>
         <quiz>Identicality</quiz>
         <babuji audio="audio/xref/babuji/033_a_prophet.mp3" txt="audio/xref/babuji/html/033_a_prophet.html">A Prophet</babuji>
-        <kcn audio="https://www.sriramchandra.in/audio/Bodhayanti%20Vol%204/BP405_MeditationIsNotEnough.mp3"
-             txt="https://www.sriramchandra.in/books/BP4/mobile/index.html#p=43"
-             partial_txt="https://www.sriramchandra.in/books/BP4/mobile/index.html#p=51"
+        <kcn audio="audio/Bodhayanti%20Vol%204/BP405_MeditationIsNotEnough.mp3"
+             txt="books/BP4/mobile/index.html#p=43"
+             partial_txt="books/BP4/mobile/index.html#p=51"
              ref="BP04 - 42"
              start="905"
              end="1263"
@@ -3109,9 +3109,9 @@ Master while exhorting us to develop humility said "As a matter of fact all of u
         <quiz_link>https://www.imperience.org/quizzes/Commandment%204/Commandment%204.html</quiz_link>
         <quiz>Identicality</quiz>
         <babuji audio="audio/xref/babuji/034_the_trinity.mp3" txt="audio/xref/babuji/html/034_the_trinity.html">The Trinity</babuji>
-        <kcn audio="https://www.sriramchandra.in/audio/Bodhayanti%20Vol%205/BP513_It%20is%20the%20Divine%20command.mp3"
-             txt="https://www.sriramchandra.in/books/BP5/mobile/index.html#p=194"
-             partial_txt="https://www.sriramchandra.in/books/BP5/mobile/index.html#p=196"
+        <kcn audio="audio/Bodhayanti%20Vol%205/BP513_It%20is%20the%20Divine%20command.mp3"
+             txt="books/BP5/mobile/index.html#p=194"
+             partial_txt="books/BP5/mobile/index.html#p=196"
              ref="BP05 - 185"
              start="109"
              end="321"
@@ -3127,9 +3127,9 @@ Master while exhorting us to develop humility said "As a matter of fact all of u
         <quiz_link>https://www.imperience.org/quizzes/Commandment%204/Commandment%204.html</quiz_link>
         <quiz>Identicality</quiz>
         <babuji audio="audio/xref/babuji/035_nature.mp3" txt="audio/xref/babuji/html/035_nature.html">Nature</babuji>
-        <kcn audio="https://www.sriramchandra.in/audio/Bodhayanti%20Vol%209/BP912_Purity_2009PujyaBabujiBday.mp3"
-             txt="https://www.sriramchandra.in/books/BP9/mobile/index.html#p=210"
-             partial_txt="https://www.sriramchandra.in/books/BP9/mobile/index.html#p=210"
+        <kcn audio="audio/Bodhayanti%20Vol%209/BP912_Purity_2009PujyaBabujiBday.mp3"
+             txt="books/BP9/mobile/index.html#p=210"
+             partial_txt="books/BP9/mobile/index.html#p=210"
              ref="BP09 - 198"
              start="0"
              end="196"
@@ -4148,7 +4148,7 @@ When the self interest is dissolved, naturally we move on. We start thinking abo
         </kcn>
     </item>
     <item>
-	    <date title="Happy Imperience Day!" ref="https://www.sriramchandra.in/imperience.php">14-08-25</date><displaydate>14-August</displaydate>
+	    <date title="Happy Imperience Day!" ref="imperience.php">14-08-25</date><displaydate>14-August</displaydate>
         <message href="books/SILENCESPEAKS/SILENCESPEAKS.html#p=510">PUJYA DR. K.C.VARADACHARI BIRTHDAY - The word mahatma has been defined in several or various ways, not perhaps without some reasonable basis. But my definition of it as a 'non-being person', though somewhat peculiar, is meaningful.</message>
         <reference>SS 513</reference>
         <era>Varada</era>
@@ -4184,7 +4184,7 @@ When the self interest is dissolved, naturally we move on. We start thinking abo
         </kcn>
     </item>
     <item>
-	    <date title="Happy Sri Krishna Janmastami Celebrations!" ref="https://www.sriramchandra.in/Celebration_SriKrishnaJanmastami.php">16-08-25</date><displaydate>16-August</displaydate>
+	    <date title="Happy Sri Krishna Janmastami Celebrations!" ref="Celebration_SriKrishnaJanmastami.php">16-08-25</date><displaydate>16-August</displaydate>
         <message href="books/BWS/mobile/index.html#p=131">SRI KRISHNA JANMASHTAMI - Lord Krishna had originally introduced bhakti in Raja Yoga in a way the yogis know, because he knew the time was at hand when life would be uncertain.</message>
         <reference>BWS 91</reference>
         <era>Krishna</era>
@@ -4588,7 +4588,7 @@ He further explains that "Under this process the Master, by the application of h
 
     </item>
   <item>
-        <date title="Vamana Avatar, Our Master and Methods of PAM!" ref="https://www.sriramchandra.in/vamana.php">05-09-25</date>
+        <date title="Vamana Avatar, Our Master and Methods of PAM!" ref="vamana.php">05-09-25</date>
         <displaydate>05-September</displaydate>
         <message href="books/BWS/mobile/index.html#p=188">When we do something by applying our head and heart we form impressions</message>
         <reference>BWS 160</reference>
@@ -4664,9 +4664,9 @@ He further explains that "Under this process the Master, by the application of h
         <quiz>Gratitude</quiz>
         <babuji audio="audio/xref/babuji/111_knowledge.mp3" txt="audio/xref/babuji/html/111_knowledge.html">Knowledge</babuji>
   <kcn
-	audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%208/BP808-Morality.mp3" 
-        txt="https://sriramchandra.in/books/BP8/mobile/index.html#p=105"
-        partial_txt="https://sriramchandra.in/books/BP8/mobile/index.html#p=116"
+	audio="audio/Bodhayanti%20Vol%208/BP808-Morality.mp3" 
+        txt="books/BP8/mobile/index.html#p=105"
+        partial_txt="books/BP8/mobile/index.html#p=110"
         ref="BP8 - 110" 
         start="586"
         end="1028"  
@@ -4715,9 +4715,9 @@ We need to develop Virtues. Virtues are attitudes, dispositions, or character tr
              &lt;br/&gt;
              You are damaging his image. It's not right. Your individual creation may be such that you can do all such things. But when you think about him and he's expressing himself through you, which is what we talked about in the first commandment, then you dare not think in terms of hatred, ill will, jealousy, all these things have no place. They can not find a place. Sadhaka can not afford to, not because it is not conducive to meditation or mental peace, surely not, that is incidental, to get peace of mind when you love others, that is incidental benefit. But what is your primary duty is never to lose purity, lest divinity inside is marred, is tarnished.
         </main_kcn>
-	<kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%207/BP703_Spiritual%20Experience.mp3"
-         txt="https://www.sriramchandra.in/books/BP7/mobile/index.html#p=49"
-         partial_txt="https://www.sriramchandra.in/books/BP7/mobile/index.html#p=58"
+	<kcn audio="audio/Bodhayanti%20Vol%207/BP703_Spiritual%20Experience.mp3"
+         txt="books/BP7/mobile/index.html#p=49"
+         partial_txt="books/BP7/mobile/index.html#p=58"
          ref="BP7 - 49"
          start="868"
          end="1512"
@@ -4755,6 +4755,8 @@ Are freed from the law of karma
 iii) Restraint with the eye is good,
 good is restraint with the ear.
 Restraint with the nose is good,
+good is restraint with the tongue.
+Restraint with the body is good,
 good is restraint with speech.
 Restraint with the heart is good,
 good is restraint everywhere.
@@ -4780,9 +4782,9 @@ is released from all suffering &amp; stress
              ref="BP3 - 328"
              >Intention or sankalpa is the one truth that is there always. It is the Intention (of God) that is the cause of the universe. It is a spiritual truth that there is an immeasurable and indescribable force and absolutely everything that exists in the entire Universe/Cosmos is connected to it. This is what is called by many as spirit or consciousness. When we are developing our unfailing Will we are only pressing into service this universally available force for the betterment of the quality of life in general. This force is self creating (that is inexhaustible), kind and loving granting peace to all who share it and make everyone in its fold consciously feel the calm that is faintly reflected when a person feels in the lap of the mother.
         </main_kcn>
-	<kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%204/BP414_Moulding_Preceptors_Business.mp3"
-         txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=217"
-         partial_txt="https://sriramchandra.in/books/BP4/mobile/index.html#p=224"
+	<kcn audio="audio/Bodhayanti%20Vol%204/BP414_Moulding_Preceptors_Business.mp3"
+         txt="books/BP4/mobile/index.html#p=217"
+         partial_txt="books/BP4/mobile/index.html#p=224"
          ref="BP4 - 216"
          start="507"
          end="1409"
@@ -4817,7 +4819,7 @@ Swami Vivekananda also stated that Sage Patanjali has not advocated the theory o
              For sure we are all serious that we should get enlightened and we are doing our sadhana and with the help of Pranahuti are progressing in the path. But it is necessary that though the goal of our life is most desirable thing to be achieved there is a catch. While we want enlightenment, we should realise that our wanting mechanism is still active and thoughts relating to the wants and desires will persist during meditation. We need to understand our thoughts are all governed by the wants and desires. At some point in our practice of meditation we may clearly realise that wanting is a barrier to further progress. Only when we can perceive this very clearly should we try to step back from the wantingmechanism, otherwise we will suppress desires and lead a false life. Stepping back from the wanting mechanism is a form of intense self-observation and not suppression. The repeated influx of Pranahuti which grants us comfort in deep silence and safe and smooth passage into Void also concomitantly and certainly ensures the reduction of wants. We find comfort and safety in the Void, its certainty and indestructibility is all through palpable. It is something we should wait for in patience and perseverance. We are left with our only option and that is to pray to the Master. The fulcrum of the balance which we seek is the Master Himself and this is one of the primary realizations we have in the Path.
              &lt;br/&gt;
              I encourage myself and implore you all 'to pray so that we pray and continue to pray so that prayer may continue.' What else is the goal of human life and its perfection?
-    </kcn>
+        </kcn>
     </item>
     <item>
         <date>12-09-25</date>
@@ -4870,7 +4872,7 @@ Swami Vivekananda also stated that Sage Patanjali has not advocated the theory o
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
         <babuji audio="audio/xref/babuji/117_my_master.mp3" txt="audio/xref/babuji/html/117_my_master.html">My Master</babuji>
-<main_kcn audio="audio/Bodhayanti%20Vol%208/BP808-Morality.mp3"
+        <main_kcn audio="audio/Bodhayanti%20Vol%208/BP808-Morality.mp3"
              txt="books/BP8/mobile/index.html#p=105"
              partial_txt="books/BP8/mobile/index.html#p=120"
              ref="BP8 - 115"
@@ -5038,13 +5040,13 @@ Swami Vivekananda also stated that Sage Patanjali has not advocated the theory o
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
         <babuji audio="audio/xref/babuji/126_songs.mp3" txt="audio/xref/babuji/html/126_songs.html">Songs</babuji>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
+        <kcn audio="audio/Bodhayanti%20Vol%204/BP412%20Love%20is%20the%20Inner%20Awakening%20to%20Reality.mp3"
+             txt="books/BP4/mobile/index.html#p=196"
+             partial_txt="books/BP4/mobile/index.html#p=198"
+             ref="BP4 - 188"
+             start="2453"
+             end="2616"
+        > We are living in a world where we are constantly shown, by the media, man's inhumanity toward each other through violence, terrorism, and war....  If one by one each of us take personal responsibility for raising the awareness of humanity we begin to shift the global consciousness towards more and more benevolence and love. ...Then one by one all others join in until enough people are behaving in the same way and the entire crowd follows: this is the critical mass. 
         </kcn>
     </item>
     <item>
@@ -5056,13 +5058,13 @@ Swami Vivekananda also stated that Sage Patanjali has not advocated the theory o
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
         <babuji audio="audio/xref/babuji/127_sandhya.mp3" txt="audio/xref/babuji/html/127_sandhya.html">Sandhya</babuji>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
+        <kcn audio="audio/Bodhayanti%20Vol%209/BP901_craving%20of%20soul2.mp3"
+             txt="books/BP9/mobile/index.html#p=55"
+             partial_txt="books/BP9/mobile/index.html#p=55"
+             ref="BP9 - 43"
+             start="636"
+             end="714"
+        >Meditation is a process of having, not expecting. What God gives you, you take, don't expect something. May be the surprise is much more dearer to you than what you thought of. You might have asked for a small thing perhaps you get a better thing than that. Why do you want to restrict the choice of the grace of God by saying this is the condition that I want. Not only you are putting a condition on the grace of God, you are also trying to limit yourself to that goal. By asking a condition you are limiting yourself to that goal. That is why this paragraph first starts "Beyond and beyond". If beyond and beyond is not in your mind, you will definitely ask for a stage.
         </kcn>
     </item>
     <item>
@@ -5074,13 +5076,18 @@ Swami Vivekananda also stated that Sage Patanjali has not advocated the theory o
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
 	    <babuji audio="audio/xref/babuji/001_divine_light.mp3" txt="audio/xref/babuji/html/001_divine_light.html">Divine Light</babuji>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
+        <main_kcn audio="audio/Bodhayanti%20Vol%204/BP411_Freedom-Liberation.mp3"
+             txt="books/BP4/mobile/index.html#p=155"
+             partial_txt="books/BP4/mobile/index.html#p=155"
+             ref="BP4 - 147"
+             start="787"
+             end="850"
+        >The impressions and samskaras that we form we know are what we reap as results of karma. Master says "As for Prarabdha Karma, I think and see in my vision that they are in store for bhoga, as every action of body or mind produces some effect. We can attain liberation when we have cleared ourselves of all the past impressions. It is of course a tedious task. In Raja Yoga, they appear for bhoga in an almost fried up state due to abhyas and good guidance. The process of bhoga is also carried on during sleep provided the Master - the essential need in spirituality - is worthy of the task to bring these things round for bhoga in the dream. We have only to unveil ourselves through devotional practices. [Silence Speaks pg 330]"
+        </main_kcn>
+        <kcn txt="books/PG/mobile/index.html#p=95"
+             partial_txt="books/PG/mobile/index.html#p=95"
+             ref="PG - 89"
+             >ith the understanding in the core of our being that everything that is obtaining is Divine, the problem of possessiveness gets tackled. Possessiveness can be related to the physical, vital, mental and aspirational levels of our being. It is only possessiveness that is the cause of all conflicts and wars. Sharing is the basic ethical code that governs the realm of Divinity and that gets developed when an aspirant has moved considerably in this knot. When Master said "Bhog does not only mean undergoing the effect of our past actions but it really means passing through the process of unfolding the intricacies of the point which we have already arrived at" he was stressing this type of intricacies (sharing etc.,) that get unfolded in the knots. It is possessiveness that is the basis for acquisitive behaviour which Psychologists classify as an instinct of certain creatures. Like an ant collects food (for the rainy day), sparrows collect twigs (for its cage) it is the same characteristic in man that makes him acquire legally or illegally and then also face consequences of such collections. The various intricacies that are to be undergone in the knots are difficult to detail. The Appendix 3 to this book titled "Game of life" contains details of some such traits and positions that we traverse in the path.
         </kcn>
     </item>
     <item>
@@ -5092,13 +5099,13 @@ Swami Vivekananda also stated that Sage Patanjali has not advocated the theory o
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
 	    <babuji audio="audio/xref/babuji/002_intercommunion.mp3" txt="aduio/xref/babuji/002_intercommunion.html">Intercommunion</babuji>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
+        <kcn audio="audio/New%20folder/BP-3%20Path%20of%20Pain.mp3"
+             txt="books/BP3/mobile/index.html#p=164"
+             partial_txt="books/BP3/mobile/index.html#p=164"
+             ref="BP3 - 156"
+             start="173"
+             end="255"
+        >For any sadhaka it is obvious that our pain is the breaking of the shell that encloses or covers as a veil our understanding.....To put up patiently with the day-to-day events of life is the highest form of penance and sacrifice. So, instead of anger and resentment, one must cultivate in himself a meek temperament. Meekness refers to that feeling of mind in which, on being rebuked by others, one feels his own self to be at fault, and for which he has to yield to what is meted out to him. For others, aloofness, solitude and dissociation might be the means for cultivating contentment, endurance and freedom from the entanglements of life, whereas for us, to put up with the taunts and rebukes of the family, friends and society, is the greatest form of penance and sacrifice.
         </kcn>
     </item>
     <item>
@@ -5110,13 +5117,15 @@ Swami Vivekananda also stated that Sage Patanjali has not advocated the theory o
         <quiz_link>https://www.imperience.org/quizzes/Commandment%207/Commandment%207.html</quiz_link>
         <quiz>Gratitude</quiz>
         <babuji audio="audio/xref/babuji/003_constant_remembrance.mp3" txt="audio/xref/babuji/html/003_constant_remembrance.html">Constant Remembrance</babuji>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
+        <kcn audio="audio/New%20folder/BP-123%20Soultion%20to%20problem%20of%20life.mp3"
+             txt="books/BP1/mobile/index.html#p=421"
+             partial_txt="books/BP1/mobile/index.html#p=421"
+             ref="BP1 - 417"
+             start="469"
+             end="560"
+        >We have simply to unfold ourselves and restore our own Balance which we had lost. How simple it looks when we say that we have restored our BALANCE! I would appeal to every one of you to kindly think about whether we have restored our balance because we are in an Unbalanced state. We are restless. Unbalanced because of several attachments and bondages, several ideas about ourselves, our egos, our notions, our idiosyncrasies.
+
+It is of course a very simple thing, but it becomes very difficult to follow, because with out unbalanced state we have created intricacies. Intricacies here mean essentially attachment. Attachment to anything other than the Divine is the intricacy we build on our soul. The cocoon of the silkworm is being built, have been built by us regularly. This example Babuji Maharaj mentions elsewhere and says we have formed or put ourselves into a cocoon. It becomes difficult to come out of it without breaking the cocoon.
         </kcn>
     </item>
     <item>
