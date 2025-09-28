@@ -843,7 +843,7 @@ messages that have been found in most traditions, most religions and spiritual s
         <era_dt>09-Prana-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
-	<babuji audio="audio/xref/babuji/040_powers.mp3" txt="audio/xref/babuji/html/040_powers.html">Powers</babuji>
+	    <babuji audio="audio/xref/babuji/040_powers.mp3" txt="audio/xref/babuji/html/040_powers.html">Powers</babuji>
         <kcn audio="audio/Bodhayanti%20Vol%205/BP507_On%20IMP-EventHorizon.mp3"
              txt="books/BP5/mobile/index.html#p=92"
              partial_txt="books/BP5/mobile/index.html#p=98"
@@ -859,8 +859,8 @@ messages that have been found in most traditions, most religions and spiritual s
         <era>Prana</era>
         <era_dt>10-Prana-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
-	<quiz>Basics</quiz>
-	<babuji audio="audio/xref/babuji/041_power_arc.mp3" txt="audio/xref/babuji/html/041_power_arc.html">Power Arc</babuji>
+        <quiz>Basics</quiz>
+        <babuji audio="audio/xref/babuji/041_power_arc.mp3" txt="audio/xref/babuji/html/041_power_arc.html">Power Arc</babuji>
         <kcn audio="audio/Bodhayanti%20Vol%207/BP708_The%20Understanding%20Comes.mp3"
              txt="books/BP7/mobile/index.html#p=130"
              partial_txt="books/BP7/mobile/index.html#p=144"
@@ -876,8 +876,8 @@ messages that have been found in most traditions, most religions and spiritual s
         <era>Prana</era>
         <era_dt>11-Prana-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
-	<quiz>Basics</quiz>
-	        <babuji audio="audio/xref/babuji/042_astrology.mp3" txt="audio/xref/babuji/html/042_astrology.html">Astrology</babuji>
+	    <quiz>Basics</quiz>
+	    <babuji audio="audio/xref/babuji/042_astrology.mp3" txt="audio/xref/babuji/html/042_astrology.html">Astrology</babuji>
         <kcn audio="audio/Bodhayanti%20Vol%208/BP811_Faith%20in%20true%20sense.mp3"
              txt="books/BP8/mobile/index.html#p=151"
              partial_txt="books/BP8/mobile/index.html#p=159"
@@ -893,8 +893,8 @@ messages that have been found in most traditions, most religions and spiritual s
         <era>Prana</era>
         <era_dt>12-Prana-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
-	<quiz>Basics</quiz>
-	<babuji audio="audio/xref/babuji/043_chaos.mp3" txt="audio/xref/babuji/html/043_chaos.html">Chaos</babuji>
+        <quiz>Basics</quiz>
+        <babuji audio="audio/xref/babuji/043_chaos.mp3" txt="audio/xref/babuji/html/043_chaos.html">Chaos</babuji>
         <kcn audio="audio/Bodhayanti%20Vol%2010/BP1001_Spiritual%20Awakening.mp3"
              txt="books/BP10/mobile/index.html#p=6"
              partial_txt="books/BP10/mobile/index.html#p=8"
@@ -911,8 +911,8 @@ messages that have been found in most traditions, most religions and spiritual s
         <era_dt>13-Prana-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
-^		<babuji audio="audio/xref/babuji/044_saints.mp3" txt="audio/xref/babuji/html/044_saints.html">Saints</babuji>
-<kcn audio="audio/xref/kcn/vairagya.mp3"
+        <babuji audio="audio/xref/babuji/044_saints.mp3" txt="audio/xref/babuji/html/044_saints.html">Saints</babuji>
+        <kcn audio="audio/xref/kcn/vairagya.mp3"
              txt="books/BP3/mobile/index.html#p=26"
              partial_txt="books/BP3/mobile/index.html#p=28"
              ref="BP3 - 20"
@@ -927,9 +927,9 @@ messages that have been found in most traditions, most religions and spiritual s
         <era>Prana</era>
         <era_dt>14-Prana-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
-	<quiz>Basics</quiz>
-	<babuji audio="audio/xref/babuji/045_intuition.mp3" txt="audio/xref/babuji/html/045_intuition.html">Intuition</babuji>
-<kcn audio="audio/xref/kcn/vairagya.mp3"
+        <quiz>Basics</quiz>
+        <babuji audio="audio/xref/babuji/045_intuition.mp3" txt="audio/xref/babuji/html/045_intuition.html">Intuition</babuji>
+        <kcn audio="audio/xref/kcn/vairagya.mp3"
              txt="books/BP3/mobile/index.html#p=26"
              partial_txt="books/BP3/mobile/index.html#p=52"
              ref="BP3 - 45"
@@ -944,9 +944,9 @@ messages that have been found in most traditions, most religions and spiritual s
         <era>Prana</era>
         <era_dt>15-Prana-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
-	<quiz>Basics</quiz>
-	<babuji audio="audio/xref/babuji/046_reading_conditions.mp3" txt="audio/xref/babuji/html/046_reading_conditions.html">Reading Conditions</babuji>
-<kcn audio="audio/Bodhayanti%20Vol%209/BP912_Purity_2009PujyaBabujiBday.mp3"
+        <quiz>Basics</quiz>
+        <babuji audio="audio/xref/babuji/046_reading_conditions.mp3" txt="audio/xref/babuji/html/046_reading_conditions.html">Reading Conditions</babuji>
+        <kcn audio="audio/Bodhayanti%20Vol%209/BP912_Purity_2009PujyaBabujiBday.mp3"
              txt="books/BP9/mobile/index.html#p=210"
              partial_txt="books/BP9/mobile/index.html#p=213"
              ref="BP9 - 201"
@@ -962,8 +962,8 @@ messages that have been found in most traditions, most religions and spiritual s
         <era_dt>16-Prana-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
-^		<babuji audio="audio/xref/babuji/047_power_arcs.mp3" txt="audio/xref/babuji/html/047_power_arcs.html">Power Arcs</babuji>
-<kcn audio="audio/Bodhayanti%20Vol%205/BP517_%20Dogmatic%20and%20Godmatic.mp3"
+		<babuji audio="audio/xref/babuji/047_power_arcs.mp3" txt="audio/xref/babuji/html/047_power_arcs.html">Power Arcs</babuji>
+		<kcn audio="audio/Bodhayanti%20Vol%205/BP517_%20Dogmatic%20and%20Godmatic.mp3"
              txt="books/BP5/mobile/index.html#p=289"
              partial_txt="books/BP5/mobile/index.html#p=301"
              ref="BP5 - 290"
@@ -978,9 +978,9 @@ messages that have been found in most traditions, most religions and spiritual s
         <era>Prana</era>
         <era_dt>17-Prana-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
-	<quiz>Basics</quiz>
-	<babuji audio="audio/xref/babuji/048_q_and_a.mp3" txt="audio/xref/babuji/html/048_q_and_a.html">Q and A</babuji>
-	<kcn audio="audio/xref/kcn/vairagya.mp3"
+        <quiz>Basics</quiz>
+        <babuji audio="audio/xref/babuji/048_q_and_a.mp3" txt="audio/xref/babuji/html/048_q_and_a.html">Q and A</babuji>
+        <kcn audio="audio/xref/kcn/vairagya.mp3"
              txt="books/BP3/mobile/index.html#p=26"
              partial_txt="books/BP3/mobile/index.html#p=31"
              ref="BP3 - 23"
@@ -996,8 +996,8 @@ messages that have been found in most traditions, most religions and spiritual s
         <era_dt>18-Prana-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
-^		<babuji audio="audio/xref/babuji/049_influence_of_the_stars.mp3" txt="audio/xref/babuji/html/049_influence_of_the_stars.html">Influence of the stars</babuji>
-<kcn audio="audio/xref/kcn/viveka.mp3"
+        <babuji audio="audio/xref/babuji/049_influence_of_the_stars.mp3" txt="audio/xref/babuji/html/049_influence_of_the_stars.html">Influence of the stars</babuji>
+        <kcn audio="audio/xref/kcn/viveka.mp3"
              txt="audio/xref/kcn/pdf/viveka.pdf"
         partial_txt="audio/xref/kcn/pdf/viveka.pdf"
              ref="Viveka Workshop"
@@ -1013,7 +1013,7 @@ messages that have been found in most traditions, most religions and spiritual s
         <era_dt>19-Prana-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
- <babuji audio="audio/xref/babuji/050_restlessness.mp3" txt="audio/xref/babuji/html/050_restlessness.html">Restlessness</babuji>
+        <babuji audio="audio/xref/babuji/050_restlessness.mp3" txt="audio/xref/babuji/html/050_restlessness.html">Restlessness</babuji>
         <kcn audio="audio/xref/kcn/vairagya.mp3"
              txt="books/BP3/mobile/index.html#p=26"
              partial_txt="books/BP3/mobile/index.html#p=41"
@@ -1030,8 +1030,8 @@ messages that have been found in most traditions, most religions and spiritual s
         <era_dt>20-Prana-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
-^		<babuji audio="audio/xref/babuji/051_preparation.mp3" txt="audio/xref/babuji/html/051_preparation.html">Preparation</babuji>
-<kcn audio="audio/xref/kcn/vairagya.mp3"
+        <babuji audio="audio/xref/babuji/051_preparation.mp3" txt="audio/xref/babuji/html/051_preparation.html">Preparation</babuji>
+        <kcn audio="audio/xref/kcn/vairagya.mp3"
              txt="books/BP3/mobile/index.html#p=26"
              partial_txt="books/BP3/mobile/index.html#p=41"
              ref="BP3 - 42"
@@ -1046,9 +1046,9 @@ messages that have been found in most traditions, most religions and spiritual s
         <era>Prana</era>
         <era_dt>21-Prana-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%222/Commandment%222.html</quiz_link>
-	<quiz>Dedication</quiz>
-	<babuji audio="audio/xref/babuji/052_abstinency.mp3" txt="audio/xref/babuji/html/052_abstinency.html">Abstinency</babuji>
-	<kcn audio="audio/xref/kcn/ten_commandments.mp3"
+        <quiz>Dedication</quiz>
+        <babuji audio="audio/xref/babuji/052_abstinency.mp3" txt="audio/xref/babuji/html/052_abstinency.html">Abstinency</babuji>
+	    <kcn audio="audio/xref/kcn/ten_commandments.mp3"
              txt="books/LiberalExpo/mobile/index.html#p=91"
              partial_txt="books/LiberalExpo/mobile/index.html#p=100"
              ref="LEPAM - 100"
@@ -1064,8 +1064,8 @@ messages that have been found in most traditions, most religions and spiritual s
         <era_dt>22-Prana-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%202/Commandment%202.html</quiz_link>
         <quiz>Dedication</quiz>
-^		<babuji audio="audio/xref/babuji/053_visions.mp3" txt="audio/xref/babuji/html/053_visions.html">Visions</babuji>
-    <kcn audio="audio/xref/kcn/introduction_to_pam.mp3"
+        <babuji audio="audio/xref/babuji/053_visions.mp3" txt="audio/xref/babuji/html/053_visions.html">Visions</babuji>
+        <kcn audio="audio/xref/kcn/introduction_to_pam.mp3"
              txt="books/LiberalExpo/mobile/index.html#p=7"
              partial_txt="books/LiberalExpo/mobile/index.html#p=23"
              ref="LEPAM - 23"
@@ -1080,9 +1080,9 @@ messages that have been found in most traditions, most religions and spiritual s
         <era>Prana</era>
         <era_dt>23-Prana-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%202/Commandment%202.html</quiz_link>
-	<quiz>Dedication</quiz>
-	<babuji audio="audio/xref/babuji/054_expressions.mp3" txt="audio/xref/babuji/html/054_expressions.html">Expressions</babuji>
-    <kcn audio="audio/Bodhayanti%20Vol%207/BP714_prayer.mp3"
+        <quiz>Dedication</quiz>
+        <babuji audio="audio/xref/babuji/054_expressions.mp3" txt="audio/xref/babuji/html/054_expressions.html">Expressions</babuji>
+        <kcn audio="audio/Bodhayanti%20Vol%207/BP714_prayer.mp3"
              txt="books/BP7/mobile/index.html#p=231"
              partial_txt="books/BP7/mobile/index.html#p=245"
              ref="BP7 - 236"
@@ -1097,9 +1097,9 @@ messages that have been found in most traditions, most religions and spiritual s
         <era>Prana</era>
         <era_dt>24-Prana-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%202/Commandment%202.html</quiz_link>
-	<quiz>Dedication</quiz>
-	<babuji audio="audio/xref/babuji/055_realization.mp3" txt="audio/xref/babuji/html/055_realization.html">Realization</babuji>
-    <kcn audio="audio/Bodhayanti%20Vol%205/BP502_On%20Repentance_Pardon.mp3"
+        <quiz>Dedication</quiz>
+        <babuji audio="audio/xref/babuji/055_realization.mp3" txt="audio/xref/babuji/html/055_realization.html">Realization</babuji>
+        <kcn audio="audio/Bodhayanti%20Vol%205/BP502_On%20Repentance_Pardon.mp3"
              txt="books/BP5/mobile/index.html#p=25"
              partial_txt="books/BP5/mobile/index.html#p=38"
              ref="BP5- 27"
@@ -1116,8 +1116,8 @@ messages that have been found in most traditions, most religions and spiritual s
         <era_dt>25-Prana-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%202/Commandment%202.html</quiz_link>
         <quiz>Dedication</quiz>
-^		<babuji audio="audio/xref/babuji/056_enfoldment.mp3" txt="audio/xref/babuji/html/056_enfoldment.html">Enfoldment</babuji>
-    <kcn audio="audio/Bodhayanti%20Vol%205/BP502_On%20Repentance_Pardon.mp3"
+        <babuji audio="audio/xref/babuji/056_enfoldment.mp3" txt="audio/xref/babuji/html/056_enfoldment.html">Enfoldment</babuji>
+        <kcn audio="audio/Bodhayanti%20Vol%205/BP502_On%20Repentance_Pardon.mp3"
              txt="books/BP5/mobile/index.html#p=25"
              partial_txt="books/BP5/mobile/index.html#p=38"
              ref="BP5 - 27"
@@ -1134,8 +1134,8 @@ messages that have been found in most traditions, most religions and spiritual s
         <era_dt>26-Prana-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%202/Commandment%202.html</quiz_link>
         <quiz>Dedication</quiz>
-^		<babuji audio="audio/xref/babuji/057_tasteless_taste.mp3" txt="audio/xref/babuji/html/057_tasteless_taste.html">Tasteless Taste</babuji>
-    <kcn audio="audio/Bodhayanti%20Vol%204/BP416_service-serf.mp3"
+        <babuji audio="audio/xref/babuji/057_tasteless_taste.mp3" txt="audio/xref/babuji/html/057_tasteless_taste.html">Tasteless Taste</babuji>
+        <kcn audio="audio/Bodhayanti%20Vol%204/BP416_service-serf.mp3"
              txt="books/BP4/mobile/index.html#p=281"
              partial_txt="books/BP4/mobile/index.html#p=287"
              ref="BP4 - 279"
@@ -1152,7 +1152,7 @@ messages that have been found in most traditions, most religions and spiritual s
         <era_dt>27-Prana-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%202/Commandment%202.html</quiz_link>
         <quiz>Dedication</quiz>
-^		<babuji audio="audio/xref/babuji/058_grossness.mp3" txt="audio/xref/babuji/html/058_grossness.html">Grossness</babuji>
+        <babuji audio="audio/xref/babuji/058_grossness.mp3" txt="audio/xref/babuji/html/058_grossness.html">Grossness</babuji>
         <kcn audio="audio/xref/kcn/efficacy_of_rajayoga_pam.mp3"
              txt="books/LiberalExpo/mobile/index.html#p=65"
              partial_txt="books/LiberalExpo/mobile/index.html#p=86"
@@ -1170,7 +1170,7 @@ messages that have been found in most traditions, most religions and spiritual s
         <era_dt>28-Prana-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%202/Commandment%202.html</quiz_link>
         <quiz>Dedication</quiz>
-^		<babuji audio="audio/xref/babuji/059_blind_belief.mp3" txt="audio/xref/babuji/html/059_blind_belief.html">Blind Belief</babuji>
+        <babuji audio="audio/xref/babuji/059_blind_belief.mp3" txt="audio/xref/babuji/html/059_blind_belief.html">Blind Belief</babuji>
         <kcn audio="audio/Bodhayanti%20Vol%207/BP710_happiest%20man%20who%20is%20happy....mp3"
              txt="books/BP7/mobile/index.html#p=156"
              partial_txt="books/BP7/mobile/index.html#p=171"
@@ -1187,16 +1187,15 @@ messages that have been found in most traditions, most religions and spiritual s
         <era>Prana</era>
         <era_dt>29-Prana-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%202/Commandment%202.html</quiz_link>
-	<quiz>Dedication</quiz>
-^		<babuji audio="audio/xref/babuji/060_individuality.mp3" txt="audio/xref/babuji/html/060_individuality.html">Individuality</babuji>
+	    <quiz>Dedication</quiz>
+        <babuji audio="audio/xref/babuji/060_individuality.mp3" txt="audio/xref/babuji/html/060_individuality.html">Individuality</babuji>
         <kcn audio="audio/Bodhayanti%20Vol%208/BP807_TheUnknown.mp3"
              txt="books/BP8/mobile/index.html#p=92"
              partial_txt="books/BP8/mobile/index.html#p=102"
              ref="BP9 - 96"
              start="677"
              end="1050"
-        >The intimate moments with the Master is most common to most of the aspirants in this system of sadhana. Very high states of consciousness descend into our heart
-s during meditation and also during prayers. Master states that "Sometimes these things come and go but we should grasp them and make them permanent with us. From there you rise above." The experience of becoming totally unknown to ourselves is one of the feelings during meditation and almost all those who practice the system have expressed the same. But we do not grasp that unknown status of ours and miss the message. It is this that I have been pleading for when I was asking the aspirants to own up the conditions had during meditation.
+        >The intimate moments with the Master is most common to most of the aspirants in this system of sadhana. Very high states of consciousness descend into our hearts during meditation and also during prayers. Master states that "Sometimes these things come and go but we should grasp them and make them permanent with us. From there you rise above." The experience of becoming totally unknown to ourselves is one of the feelings during meditation and almost all those who practice the system have expressed the same. But we do not grasp that unknown status of ours and miss the message. It is this that I have been pleading for when I was asking the aspirants to own up the conditions had during meditation.
 </kcn>
     </item>
     <item>
@@ -1206,8 +1205,8 @@ s during meditation and also during prayers. Master states that "Sometimes these
         <era>Prana</era>
         <era_dt>30-Prana-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%202/Commandment%202.html</quiz_link>
-	<quiz>Dedication</quiz>
-	<babuji audio="audio/xref/babuji/061_illusion.mp3" txt="audio/xref/babuji/html/061_illusion.html">Illusion</babuji>
+        <quiz>Dedication</quiz>
+        <babuji audio="audio/xref/babuji/061_illusion.mp3" txt="audio/xref/babuji/html/061_illusion.html">Illusion</babuji>
         <kcn audio="audio/Bodhayanti%20Vol%205/BP506_SriKrishna%20Thru%20SriRamchandra.mp3"
              txt="books/BP5/mobile/index.html#p=65"
              partial_txt="books/BP5/mobile/index.html#p=89"
@@ -1226,15 +1225,13 @@ s during meditation and also during prayers. Master states that "Sometimes these
         <quiz_link>https://www.imperience.org/quizzes/Commandment%202/Commandment%202.html</quiz_link>
         <quiz>Dedication</quiz>
         <babuji audio="audio/xref/babuji/062_condition_of_surrender.mp3" txt="audio/xref/babuji/html/061_condition_of_surrender.html">Condition of Surrender</babuji>
-	<kcn audio="audio/xref/kcn/centenary_message.mp3" 
-		txt="audio/xref/kcn/pdf/centenary_message.pdf" 
-		partial_txt="audio/xref/kcn/pdf/centenary_message.pdf"
-		ref="Commentary on Centenary Message by Pujya K.C.Narayana"
-		start="3552" end="4014"
-		>I must say, for entering into the vast ocean, swimmers and swimming both are needed. Now, he uses the word vast ocean here. This can be confused with the samsara sagara. Please note that is not what he is talking about, He was talking about the highest realms, because that is what he is talking about. He never talks, anything less than that. The highest approach
-that is possible for a human being is what he always refers to. For that
-particular ocean..that comes after all our stages of progress. He says for that I require both the swimmer and the person who swims
-	</kcn>
+	    <kcn audio="audio/xref/kcn/centenary_message.mp3" 
+            txt="audio/xref/kcn/pdf/centenary_message.pdf" 
+            partial_txt="audio/xref/kcn/pdf/centenary_message.pdf"
+            ref="Commentary on Centenary Message by Pujya K.C.Narayana"
+            start="3552" end="4014"
+            >I must say, for entering into the vast ocean, swimmers and swimming both are needed. Now, he uses the word vast ocean here. This can be confused with the samsara sagara. Please note that is not what he is talking about, He was talking about the highest realms, because that is what he is talking about. He never talks, anything less than that. The highest approach that is possible for a human being is what he always refers to. For that particular ocean..that comes after all our stages of progress. He says for that I require both the swimmer and the person who swims.
+	    </kcn>
     </item>
     <item>
         <date>17-03-25</date><displaydate>17-March</displaydate>
@@ -1243,13 +1240,13 @@ particular ocean..that comes after all our stages of progress. He says for that 
         <era>Bhuma</era>
         <era_dt>02-Bhuma-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%202/Commandment%202.html</quiz_link>
-	<quiz>Dedication</quiz>
-	<babuji audio="audio/xref/babuji/063_no_promises.mp3" txt="audio/xref/babuji/html/063_no_promises.html">No Promises</babuji>
-	<main_kcn txt="books/BP2/mobile/index.html#p=267" 
-		partial_txt="books/BP2/mobile/index.html#p=280"
-	ref="BP2 - 278"
-		>Constant remembrance by itself will not stop formation of samskaras. The remembrance should be such that a feeling that all actions are done by Him, that He is the knower of the action and also the enjoyer of all actions.
-	</main_kcn>
+        <quiz>Dedication</quiz>
+        <babuji audio="audio/xref/babuji/063_no_promises.mp3" txt="audio/xref/babuji/html/063_no_promises.html">No Promises</babuji>
+        <main_kcn txt="books/BP2/mobile/index.html#p=267" 
+            partial_txt="books/BP2/mobile/index.html#p=280"
+        ref="BP2 - 278"
+            >Constant remembrance by itself will not stop formation of samskaras. The remembrance should be such that a feeling that all actions are done by Him, that He is the knower of the action and also the enjoyer of all actions.
+        </main_kcn>
         <kcn audio="audio/Bodhayanti%20Vol%204/BP405_MeditationIsNotEnough.mp3"
              txt="books/BP4/mobile/index.html#p=42"
              partial_txt="books/BP4/mobile/index.html#p=89"
@@ -1268,7 +1265,7 @@ particular ocean..that comes after all our stages of progress. He says for that 
         <quiz_link>https://www.imperience.org/quizzes/Commandment%202/Commandment%202.html</quiz_link>
         <quiz>Dedication</quiz>
         <seminar>https://www.imperience.org/SeminarArchives/SeminarsLoveIsTheInnerAwakeningToReality.htm</seminar>
-^		<babuji audio="audio/xref/babuji/064_beyond_matter.mp3" txt="audio/xref/babuji/html/064_beyond_matter.html">Beyond Matter</babuji>
+        <babuji audio="audio/xref/babuji/064_beyond_matter.mp3" txt="audio/xref/babuji/html/064_beyond_matter.html">Beyond Matter</babuji>
         <kcn audio="audio/Bodhayanti%20Vol%204/BP412%20Love%20is%20the%20Inner%20Awakening%20to%20Reality.mp3"
              txt="books/BP4/mobile/index.html#p=171"
              partial_txt="books/BP4/mobile/index.html#p=205"
@@ -1286,7 +1283,7 @@ particular ocean..that comes after all our stages of progress. He says for that 
         <era_dt>04-Bhuma-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%202/Commandment%202.html</quiz_link>
         <quiz>Dedication</quiz>
-^		<babuji audio="audio/xref/babuji/065_spirituality.mp3" txt="audio/xref/babuji/html/065_spirituality.html">Spirituality</babuji>
+        <babuji audio="audio/xref/babuji/065_spirituality.mp3" txt="audio/xref/babuji/html/065_spirituality.html">Spirituality</babuji>
         <kcn audio="audio/Bodhayanti%20Vol%208/BP805_Company%20of%20Divine.mp3"
              txt="books/BP8/mobile/index.html#p=63"
              partial_txt="books/BP8/mobile/index.html#p=66"
@@ -1305,14 +1302,14 @@ particular ocean..that comes after all our stages of progress. He says for that 
         <quiz_link>https://www.imperience.org/quizzes/Commandment%202/Commandment%202.html</quiz_link>
         <quiz>Dedication</quiz>
         <babuji audio="audio/xref/babuji/066_his_sensitivity.mp3" txt="audio/xref/babuji/html/066_his_sensitivity.html">His Sensitivity</babuji>
-	 <main_kcn audio="audio/Bodhayanti%20Vol%204/BP412%20Love%20is%20the%20Inner%20Awakening%20to%20Reality.mp3" txt="books/BP2/mobile/index.html#p=170"
-		 partial_txt="books/BP4/mobile/index.html#p=185"
-		 start="1377"
-		 end="1412"
-        ref="BP4 - 177"
-                >This linking with the Master, ensures that the Divine current readily running through every fibre of our being kindling the feeling of true love and devotion in the heart.
-        </main_kcn>
-	<kcn audio="audio/Bodhayanti%20Vol%204/BP415_Divinity_play_.mp3"
+        <main_kcn audio="audio/Bodhayanti%20Vol%204/BP412%20Love%20is%20the%20Inner%20Awakening%20to%20Reality.mp3" txt="books/BP2/mobile/index.html#p=170"
+            partial_txt="books/BP4/mobile/index.html#p=185"
+            start="1377"
+            end="1412"
+            ref="BP4 - 177"
+                    >This linking with the Master, ensures that the Divine current readily running through every fibre of our being kindling the feeling of true love and devotion in the heart.
+            </main_kcn>
+        <kcn audio="audio/Bodhayanti%20Vol%204/BP415_Divinity_play_.mp3"
                     txt="books/BP4/mobile/index.html#p=241"
                     partial_txt="books/BP4/mobile/index.html#p=273"
                     ref="BP4 - 265"
@@ -1329,12 +1326,12 @@ particular ocean..that comes after all our stages of progress. He says for that 
         <era_dt>06-Bhuma-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%202/Commandment%202.html</quiz_link>
         <quiz>Dedication</quiz>
-	<babuji audio="audio/xref/babuji/067_the_effects_of_medicine.mp3" txt="audio/xref/babuji/html/067_the_effects_of_medicine.html">Effects of Medicine</babuji>
-	<main_kcn audio="audio/Bodhayanti%20Vol%204/BP412%20Love%20is%20the%20Inner%20Awakening%20to%20Reality.mp3" txt="books/BP2/mobile/index.html#p=171"
+        <babuji audio="audio/xref/babuji/067_the_effects_of_medicine.mp3" txt="audio/xref/babuji/html/067_the_effects_of_medicine.html">Effects of Medicine</babuji>
+        <main_kcn audio="audio/Bodhayanti%20Vol%204/BP412%20Love%20is%20the%20Inner%20Awakening%20to%20Reality.mp3" txt="books/BP2/mobile/index.html#p=171"
                  partial_txt="books/BP4/mobile/index.html#p=185"
                  start="1388"
                  end="1416"
-        ref="BP4 - 177"
+                ref="BP4 - 177"
                 >According to our Master by connecting ourselves with such a person with love and devotion and by practicing meditation in the right manner, we get transcended accordingly.
         </main_kcn>
         <kcn audio="audio/Bodhayanti%20Vol%2010/BP1011_Bhakti%20in%20Sri%20Ramchandra%20Raja%20Yoga.mp3"
@@ -1445,7 +1442,7 @@ The topic of the seminar is ‘moulding is the preceptors business.’ Therefore
         <babuji audio="audio/xref/babuji/072_forgetting_food.mp3" txt="audio/xref/babuji/html/072_forgetting_food.html">Forgetting Food</babuji>
         <main_kcn txt="books/BP1/mobile/index.html#p=209"
                  partial_txt="books/BP1/mobile/index.html#p=210"
-        ref="BP1 - 207"
+                ref="BP1 - 207"
                 >The Master asserts that 'we start our practice from Sham, the first of six sampattis of third sadhana of the Vedantists and devote all our attention to the proper moulding and regulation of mind which is easily accomplished by the help of the transmitted power of worthy master. Control of senses and indiryas (or Dam) follows automatically when we fix our mind on one thing alone which is the Reality ignoring all others (Knots1&amp;2)
         </main_kcn>
         <kcn audio="audio/Bodhayanti%20Vol%2010/BP1003_Duty.mp3"
@@ -3535,7 +3532,7 @@ Master while exhorting us to develop humility said "As a matter of fact all of u
         <era_dt>01-Varada-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%205/Commandment%205.html</quiz_link>
         <quiz>Truthfulness</quiz>
-^		<babuji audio="audio/xref/babuji/057_tasteless_taste.mp3" txt="audio/xref/babuji/html/057_tasteless_taste.html">Tasteless Taste</babuji>
+		<babuji audio="audio/xref/babuji/057_tasteless_taste.mp3" txt="audio/xref/babuji/html/057_tasteless_taste.html">Tasteless Taste</babuji>
         <kcn audio="audio/Bodhayanti%20Vol%205/BP503_Some%20thoughts%20on%20Samadarsi.mp3"
              txt="books/BP5/mobile/index.html#p=43"
              partial_txt="books/BP5/mobile/index.html#p=50"
@@ -3553,7 +3550,7 @@ Master while exhorting us to develop humility said "As a matter of fact all of u
         <era_dt>02-Varada-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%205/Commandment%205.html</quiz_link>
         <quiz>Truthfulness</quiz>
-^		<babuji audio="audio/xref/babuji/058_grossness.mp3" txt="audio/xref/babuji/html/058_grossness.html">Grossness</babuji>
+		<babuji audio="audio/xref/babuji/058_grossness.mp3" txt="audio/xref/babuji/html/058_grossness.html">Grossness</babuji>
         <kcn audio="audio/Bodhayanti%20Vol%207/BP710_happiest%20man%20who%20is%20happy....mp3"
              txt="books/BP7/mobile/index.html#p=157"
              partial_txt="books/BP7/mobile/index.html#p=168"
@@ -3571,7 +3568,7 @@ Master while exhorting us to develop humility said "As a matter of fact all of u
         <era_dt>03-Varada-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%205/Commandment%205.html</quiz_link>
         <quiz>Truthfulness</quiz>
-^		<babuji audio="audio/xref/babuji/059_blind_belief.mp3" txt="audio/xref/babuji/html/059_blind_belief.html">Blind Belief</babuji>
+		<babuji audio="audio/xref/babuji/059_blind_belief.mp3" txt="audio/xref/babuji/html/059_blind_belief.html">Blind Belief</babuji>
         <kcn audio="audio/Bodhayanti%20Vol%205/BP513_It%20is%20the%20Divine%20command.mp3"
              txt="books/BP5/mobile/index.html#p=194"
              partial_txt="books/BP5/mobile/index.html#p=195"
@@ -3587,7 +3584,7 @@ Master while exhorting us to develop humility said "As a matter of fact all of u
         <era_dt>04-Varada-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%205/Commandment%205.html</quiz_link>
         <quiz>Truthfulness</quiz>
-^		<babuji audio="audio/xref/babuji/060_individuality.mp3" txt="audio/xref/babuji/html/060_individuality.html">Individuality</babuji>
+		<babuji audio="audio/xref/babuji/060_individuality.mp3" txt="audio/xref/babuji/html/060_individuality.html">Individuality</babuji>
         <kcn audio="audio/Bodhayanti%20Vol%207/BP703_Spiritual%20Experience.mp3"
              txt="books/BP7/mobile/index.html#p=49"
              partial_txt="books/BP7/mobile/index.html#p=51"
@@ -3659,7 +3656,7 @@ Master while exhorting us to develop humility said "As a matter of fact all of u
         <era_dt>08-Varada-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%205/Commandment%205.html</quiz_link>
         <quiz>Truthfulness</quiz>
-^		<babuji audio="audio/xref/babuji/064_beyond_matter.mp3" txt="audio/xref/babuji/html/064_beyond_matter.html">Beyond Matter</babuji>
+		<babuji audio="audio/xref/babuji/064_beyond_matter.mp3" txt="audio/xref/babuji/html/064_beyond_matter.html">Beyond Matter</babuji>
         <main_kcn txt="books/BP3/mobile/index.html#p=163"
              partial_txt="books/BP3/mobile/index.html#p=176"
              ref="BP3 - 168"
@@ -3695,7 +3692,7 @@ suspended and slowly resolved in a natural way.
         <era_dt>09-Varada-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%205/Commandment%205.html</quiz_link>
         <quiz>Truthfulness</quiz>
-^		<babuji audio="audio/xref/babuji/065_spirituality.mp3" txt="audio/xref/babuji/html/065_spirituality.html">Spirituality</babuji>
+		<babuji audio="audio/xref/babuji/065_spirituality.mp3" txt="audio/xref/babuji/html/065_spirituality.html">Spirituality</babuji>
         <kcn audio="audio/Bodhayanti%20Vol%205/BP513_It%20is%20the%20Divine%20command.mp3"
              txt="books/BP5/mobile/index.html#p=194"
              partial_txt="books/BP5/mobile/index.html#p=194"
@@ -5667,13 +5664,18 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
 	    <babuji audio="audio/xref/babuji/029_powers_of_nature.mp3" txt="audio/xref/babuji/html/029_powers_of_nature.html">Powers of Nature</babuji>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
+        <main_kcn audio="audio/xref/kcn/ten_commandments.mp3"
+             txt="books/LiberalExpo/mobile/index.html#p=91"
+             partial_txt="books/LiberalExpo/mobile/index.html#p=116"
+             ref="LEPAM - 116"
+             start="5606"
+             end="5872"
+             >We mould ourselves not to become pious ourselves, that any way we have to, but others may develop piety and love. You become example for others, for simplicity, for naturalness, for goodness, for help, for being a brother, all these things become possible for you to tell the other man without opening your mouth. You will be in a position to influence them with your behaviour.
+        </main_kcn>
+        <kcn txt="books/IB/mobile/index.html#p=75"
+             partial_txt="books/IB/mobile/index.html#p=75"
+             ref="IB - 75"
+             >Moulding our speech, moderation being our approach, balanced existence being our approach, piety being our approach, devotion being our approach, love being our expression, it should be possible for us to make others think in terms of Divinity.
         </kcn>
     </item>
     <item>
@@ -5686,13 +5688,13 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
         <babuji audio="audio/xref/babuji/030_krishna.mp3" txt="audio/xref/babuji/html/030_krishna.mp3">Lord Krishna</babuji>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
+        <kcn audio="audio/Bodhayanti%20Vol%204/BP415_Divinity_play_.mp3"
+             txt="books/BP4/mobile/index.html#p=249"
+             partial_txt="books/BP4/mobile/index.html#p=253"
+             ref="BP4 - 245"
+             start="323"
+             end="512"
+             >If we want to experience the divine Source, we can not do this as "we are", because we are just one bundle of boundaries, and the Source is limitless, eternal, and boundless. And this is why, if we are seeking the Source, we must ultimately empty our selves. We must erase our boundaries. Our sense of self must die, which is just another way of saying that we must discover that we are really 'Nothing' and what we think as self-entity is an illusion.
         </kcn>
     </item>
     <item>
@@ -5705,13 +5707,13 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
         <babuji audio="audio/xref/babuji/031_q_and_a.mp3" txt="audio/xref/babuji/html/031_q_and_a.html">Q and A</babuji>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
+        <kcn audio="audio/Bodhayanti%20Vol%204/BP412%20Love%20is%20the%20Inner%20Awakening%20to%20Reality.mp3"
+             txt="books/BP4/mobile/index.html#p=171"
+             partial_txt="books/BP4/mobile/index.html#p=197"
+             ref="BP4 - 189"
+             start="2362"
+             end="2636"
+             >It is simply by living as a conscious and committed disciple of Sri Ramchandra and there by becoming spiritual activist, and by being that spark to help others raise their awareness and find peace. By committing to creating peace within us and our family, and encouraging others to stay steadfastly by all human beings who value humanity, and by helping others discover their light, we set in motion the intention of positive transformation.
         </kcn>
     </item>
     <item>
@@ -5724,13 +5726,13 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
         <babuji audio="audio/xref/babuji/032_the_way.mp3" txt="audio/xref/babuji/html/032_the_way.html">The way</babuji>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
+        <kcn audio="celebrations/Basant2012/2012Basanth_PujyaKCN_28Jan2012.mp3"
+             txt="celebrations/Basant2012/2012BasanthSpiritualAwakeningPujyaKCN.pdf"
+             partial_txt="celebrations/Basant2012/2012BasanthSpiritualAwakeningPujyaKCN.pdf"
+             ref="Basant 2012"
+             start="78"
+             end="367"
+             >Awakening and enlightenment should naturally lead us to live a life of equanimity, cooperation and co existence. Exploitation of other beings on earth based on distinctions which are totally ill conceived shall end and we should feel the Beloved all through.
         </kcn>
     </item>
     <item>
@@ -5743,13 +5745,13 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
         <babuji audio="audio/xref/babuji/033_a_prophet.mp3" txt="audio/xref/babuji/html/033_a_prophet.html">A Prophet</babuji>
-        <kcn audio=""
-             txt=""
-             partial_txt=""
-             ref=""
-             start=""
-             end=""
-             >
+        <kcn audio="audio/Bodhayanti%20Vol%209/BP901_craving%20of%20soul2.mp3"
+             txt="books/BP9/mobile/index.html#p=11"
+             partial_txt="books/BP9/mobile/index.html#p=75"
+             ref="BP9 - 62"
+             start="2720"
+             end="3016"
+             >You must achieve the highest because he again tells you there is a duty. It is your duty to reach the highest, not something high, not something higher but the highest.
         </kcn>
     </item>
     <item>
@@ -5882,6 +5884,15 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
         <seminar>https://www.imperience.org/SeminarArchives/Unknown.htm</seminar>
+	    <babuji audio="audio/xref/babuji/040_powers.mp3" txt="audio/xref/babuji/html/040_powers.html">Powers</babuji>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>04-11-25</date>
@@ -5893,6 +5904,15 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
         <seminar>https://www.imperience.org/SeminarArchives/SeminarsMindDivine.htm</seminar>
+        <babuji audio="audio/xref/babuji/041_power_arc.mp3" txt="audio/xref/babuji/html/041_power_arc.html">Power Arc</babuji>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>05-11-25</date>
@@ -5903,6 +5923,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>21-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
+	    <babuji audio="audio/xref/babuji/042_astrology.mp3" txt="audio/xref/babuji/html/042_astrology.html">Astrology</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -5921,6 +5942,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>22-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
+        <babuji audio="audio/xref/babuji/043_chaos.mp3" txt="audio/xref/babuji/html/043_chaos.html">Chaos</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -5939,6 +5961,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>23-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
+        <babuji audio="audio/xref/babuji/044_saints.mp3" txt="audio/xref/babuji/html/044_saints.html">Saints</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -5958,6 +5981,15 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
         <seminar>https://www.imperience.org/SeminarArchives/LifeHighMorals.htm</seminar>
+        <babuji audio="audio/xref/babuji/045_intuition.mp3" txt="audio/xref/babuji/html/045_intuition.html">Intuition</babuji>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>09-11-25</date>
@@ -5969,6 +6001,15 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
         <seminar>https://www.imperience.org/SeminarArchives/InTheHandsOfRealMaster.htm</seminar>
+        <babuji audio="audio/xref/babuji/046_reading_conditions.mp3" txt="audio/xref/babuji/html/046_reading_conditions.html">Reading Conditions</babuji>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>10-11-25</date>
@@ -5980,6 +6021,15 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
         <seminar>https://www.imperience.org/SeminarArchives/Faith.htm</seminar>
+		<babuji audio="audio/xref/babuji/047_power_arcs.mp3" txt="audio/xref/babuji/html/047_power_arcs.html">Power Arcs</babuji>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>11-11-25</date>
@@ -5990,6 +6040,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>27-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
+        <babuji audio="audio/xref/babuji/048_q_and_a.mp3" txt="audio/xref/babuji/html/048_q_and_a.html">Q and A</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6008,6 +6059,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>28-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
+        <babuji audio="audio/xref/babuji/049_influence_of_the_stars.mp3" txt="audio/xref/babuji/html/049_influence_of_the_stars.html">Influence of the stars</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6027,6 +6079,15 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
         <seminar>https://www.imperience.org/SeminarArchives/Morality.htm</seminar>
+        <babuji audio="audio/xref/babuji/050_restlessness.mp3" txt="audio/xref/babuji/html/050_restlessness.html">Restlessness</babuji>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>14-11-25</date>
@@ -6037,6 +6098,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>30-Satpad-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
+        <babuji audio="audio/xref/babuji/051_preparation.mp3" txt="audio/xref/babuji/html/051_preparation.html">Preparation</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6055,6 +6117,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>01-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
+        <babuji audio="audio/xref/babuji/052_abstinency.mp3" txt="audio/xref/babuji/html/052_abstinency.html">Abstinency</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6073,6 +6136,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>02-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
+        <babuji audio="audio/xref/babuji/053_visions.mp3" txt="audio/xref/babuji/html/053_visions.html">Visions</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6091,6 +6155,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>03-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
+        <babuji audio="audio/xref/babuji/054_expressions.mp3" txt="audio/xref/babuji/html/054_expressions.html">Expressions</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6109,6 +6174,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>04-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
+        <babuji audio="audio/xref/babuji/055_realization.mp3" txt="audio/xref/babuji/html/055_realization.html">Realization</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6127,6 +6193,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>05-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
+        <babuji audio="audio/xref/babuji/056_enfoldment.mp3" txt="audio/xref/babuji/html/056_enfoldment.html">Enfoldment</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6146,6 +6213,15 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
         <seminar>https://www.imperience.org/SeminarArchives/LionHeartedMen.htm</seminar>
+        <babuji audio="audio/xref/babuji/057_tasteless_taste.mp3" txt="audio/xref/babuji/html/057_tasteless_taste.html">Tasteless Taste</babuji>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>21-11-25</date>
@@ -6156,6 +6232,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>07-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
+        <babuji audio="audio/xref/babuji/058_grossness.mp3" txt="audio/xref/babuji/html/058_grossness.html">Grossness</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6174,6 +6251,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>08-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
+        <babuji audio="audio/xref/babuji/059_blind_belief.mp3" txt="audio/xref/babuji/html/059_blind_belief.html">Blind Belief</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6192,6 +6270,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>09-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+		<babuji audio="audio/xref/babuji/060_individuality.mp3" txt="audio/xref/babuji/html/060_individuality.html">Individuality</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6210,6 +6289,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>10-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <babuji audio="audio/xref/babuji/061_illusion.mp3" txt="audio/xref/babuji/html/061_illusion.html">Illusion</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6228,6 +6308,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>11-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <babuji audio="audio/xref/babuji/062_condition_of_surrender.mp3" txt="audio/xref/babuji/html/061_condition_of_surrender.html">Condition of Surrender</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6246,6 +6327,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>12-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <babuji audio="audio/xref/babuji/063_no_promises.mp3" txt="audio/xref/babuji/html/063_no_promises.html">No Promises</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6264,6 +6346,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>13-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <babuji audio="audio/xref/babuji/064_beyond_matter.mp3" txt="audio/xref/babuji/html/064_beyond_matter.html">Beyond Matter</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6282,6 +6365,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>14-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <babuji audio="audio/xref/babuji/065_spirituality.mp3" txt="audio/xref/babuji/html/065_spirituality.html">Spirituality</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6300,6 +6384,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>15-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <babuji audio="audio/xref/babuji/066_his_sensitivity.mp3" txt="audio/xref/babuji/html/066_his_sensitivity.html">His Sensitivity</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6318,6 +6403,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>16-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <babuji audio="audio/xref/babuji/067_the_effects_of_medicine.mp3" txt="audio/xref/babuji/html/067_the_effects_of_medicine.html">Effects of Medicine</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6336,6 +6422,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>17-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <babuji audio="audio/xref/babuji/068_devotion.mp3" txt="audio/xref/babuji/html/068_devotion.html">Devotion</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6354,6 +6441,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>18-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <babuji audio="audio/xref/babuji/069_explanation.mp3" txt="audio/xref/babuji/html/069_explanation.html">Explanation</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6372,6 +6460,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>19-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <babuji audio="audio/xref/babuji/070_nearness_of_god.mp3" txt="audio/xref/babuji/html/070_nearness_of_god.html">Nearness of God</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6390,6 +6479,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>20-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <babuji audio="audio/xref/babuji/071_dream_and_reality.mp3" txt="audio/xref/babuji/html/071_dream_and_reality.html">Dream and Reality</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6408,6 +6498,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>21-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <babuji audio="audio/xref/babuji/072_forgetting_food.mp3" txt="audio/xref/babuji/html/072_forgetting_food.html">Forgetting Food</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6426,6 +6517,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>22-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <babuji audio="audio/xref/babuji/073_positive_thinking.mp3" txt="audio/xref/babuji/html/073_positive_thinking.html">Positive Thinking</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6444,6 +6536,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>23-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <babuji audio="audio/xref/babuji/074_attention_to_family.mp3" txt="audio/xref/babuji/html/074_attention_to_family.html">Attention To Family</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6462,6 +6555,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>24-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <babuji audio="audio/xref/babuji/075_honest_means.mp3" txt="audio/xref/babuji/html/075_honest_means.html">Honest Means</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6480,6 +6574,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>25-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <babuji audio="audio/xref/babuji/076_philosophical_talk.mp3" txt="audio/xref/babuji/html/076_philosophical_talk.html">Philosophical Talk</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6498,6 +6593,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>26-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <babuji audio="audio/xref/babuji/077_q_and_a.mp3" txt="audio/xref/babuji/html/077_q_and_a.html">Q and A</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6516,6 +6612,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>27-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <babuji audio="audio/xref/babuji/078_philosophy.mp3" txt="audio/xref/babuji/html/078_philosophy.html">Philosophy</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6535,6 +6632,15 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
         <seminar>https://www.imperience.org/SeminarArchives/SeminarsDivinity.htm</seminar>
+        <babuji audio="audio/xref/babuji/079_vedas_I.mp3" txt="audio/xref/babuji/html/079_vedas_I.html">Vedas I</babuji>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>13-12-25</date>
@@ -6545,6 +6651,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>29-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <babuji audio="audio/xref/babuji/080_vedas_II.mp3" txt="audio/xref/babuji/html/080_vedas_II.html">Vedas II</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6563,6 +6670,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>30-Radha-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <babuji audio="audio/xref/babuji/081_egoism.mp3" txt="audio/xref/babuji/html/081_egoism.html">Egoism</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6581,6 +6689,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>01-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <babuji audio="audio/xref/babuji/082_my_master.mp3" txt="audio/xref/babuji/html/082_my_master.html">My Master</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6599,6 +6708,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>02-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <babuji audio="audio/xref/babuji/083_anger.mp3" txt="audio/xref/babuji/html/083_anger.html">Anger</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6618,6 +6728,15 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
         <seminar>https://www.imperience.org/SeminarArchives/RiceAndDhal.htm</seminar>
+        <babuji audio="audio/xref/babuji/084_naturalness.mp3" txt="audio/xref/babuji/html/084_naturalness.html">Naturalness</babuji>
+        <kcn audio=""
+             txt=""
+             partial_txt=""
+             ref=""
+             start=""
+             end=""
+             >
+        </kcn>
     </item>
     <item>
         <date>18-12-25</date>
@@ -6628,6 +6747,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>04-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <babuji audio="audio/xref/babuji/085_message.mp3" txt="audio/xref/babuji/html/085_message.html">Message</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6646,6 +6766,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>05-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <babuji audio="audio/xref/babuji/086_worship.mp3" txt="audio/xref/babuji/html/086_worship_II.html">Worship</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6664,6 +6785,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>06-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <babuji audio="audio/xref/babuji/087_meditation.mp3" txt="audio/xref/babuji/html/087_meditation.html">Meditation</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6682,6 +6804,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>07-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <babuji audio="audio/xref/babuji/088_creation_of_world.mp3" txt="audio/xref/babuji/html/088_creation_of_world.html">Creation Of World</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6700,6 +6823,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>08-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <babuji audio="audio/xref/babuji/089_love.mp3" txt="audio/xref/babuji/html/089_love.html">Love</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6718,6 +6842,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>09-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <babuji audio="audio/xref/babuji/090_man_and_the_world.mp3" txt="audio/xref/babuji/html/090_man_and_the_world.html">Man And The World</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6736,6 +6861,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>10-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <babuji audio="audio/xref/babuji/091_moderate_living.mp3" txt="audio/xref/babuji/html/091_moderate_living.html">Moderate Living</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6754,6 +6880,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>11-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <babuji audio="audio/xref/babuji/092_cleaning.mp3" txt="audio/xref/babuji/html/092_cleaning.html">Cleaning</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6772,6 +6899,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>12-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <babuji audio="audio/xref/babuji/093_divine_man_and_god.mp3" txt="audio/xref/babuji/html/093_divine_man_and_god.html">Divine man and god</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6790,6 +6918,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>13-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <babuji audio="audio/xref/babuji/094_faith.mp3" txt="audio/xref/babuji/html/094_faith.html">Faith</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6808,6 +6937,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>14-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <babuji audio="audio/xref/babuji/095_surrender.mp3" txt="audio/xref/babuji/html/095_surrender.html">Surrender</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6826,6 +6956,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>15-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <babuji audio="audio/xref/babuji/096_transmission.mp3" txt="audio/xref/babuji/html/096_transmission.html">Transmission</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6844,6 +6975,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>16-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <babuji audio="audio/xref/babuji/097_grossness.mp3" txt="audio/xref/babuji/html/097_grossness.html">Grossness</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6862,6 +6994,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>17-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
+        <babuji audio="audio/xref/babuji/098_babujis_pain.mp3" txt="audio/xref/babuji/html/098_babujis_pain.html">Babujis pain</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6879,6 +7012,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>18-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
+        <babuji audio="audio/xref/babuji/099_danger.mp3" txt="audio/xref/babuji/html/099_danger.html">Danger</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6896,6 +7030,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>19-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
+        <babuji audio="audio/xref/babuji/100_taking_from_the_heart.mp3" txt="audio/xref/babuji/html/100_taking_from_the_heart.html">Taking from the heart</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6914,6 +7049,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>20-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
+        <babuji audio="audio/xref/babuji/101_foreign_travels.mp3" txt="audio/xref/babuji/html/101_foreign_travels.html">Foreign travels</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6931,6 +7067,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>21-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
+        <babuji audio="audio/xref/babuji/102_forgetfullness.mp3" txt="audio/xref/babuji/html/102_forgetfullness.html">Forgetfullness</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6948,6 +7085,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>22-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
+        <babuji audio="audio/xref/babuji/103_smoking.mp3" txt="audio/xref/babuji/html/103_smoking.html">Smoking</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6965,6 +7103,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>23-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
+        <babuji audio="audio/xref/babuji/104_lalaji_singing.mp3" txt="audio/xref/babuji/html/104_lalaji_singing.html">Lalaji singing</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6982,6 +7121,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>24-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
+        <babuji audio="audio/xref/babuji/105_peace_giver.mp3" txt="audio/xref/babuji/html/105_peace_giver.html">Peace giver</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -6999,6 +7139,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>25-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
+        <babuji audio="audio/xref/babuji/106_thoughts.mp3" txt="audio/xref/babuji/html/106_thoughts.html">Thoughts</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -7016,6 +7157,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>26-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
+        <babuji audio="audio/xref/babuji/107_balance.mp3" txt="audio/xref/babuji/html/107_balance.html">Balance</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -7033,6 +7175,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>27-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
+        <babuji audio="audio/xref/babuji/108_beyond_liberation.mp3" txt="audio/xref/babuji/html/108_beyond_liberation.html">Beyond liberation</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -7050,6 +7193,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>28-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
+        <babuji audio="audio/xref/babuji/109_simple_method.mp3" txt="audio/xref/babuji/html/109_simple_method.html">Simple method</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -7067,6 +7211,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>29-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
+        <babuji audio="audio/xref/babuji/110_criticism.mp3" txt="audio/xref/babuji/html/110_criticism.html">Criticism</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
@@ -7084,6 +7229,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <era_dt>30-Viveka-153</era_dt>
         <quiz_link>https://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
         <quiz>Basics</quiz>
+        <babuji audio="audio/xref/babuji/111_knowledge.mp3" txt="audio/xref/babuji/html/111_knowledge.html">Knowledge</babuji>
         <kcn audio=""
              txt=""
              partial_txt=""
