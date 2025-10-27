@@ -5598,7 +5598,7 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         </kcn>
     </item>
     <item>
-        <date>20-10-25</date>
+         <date title="Happy Deepavali!" ref="deepavali.php">20-10-25</date>
         <displaydate>20-October</displaydate>
         <message href="books/SDG/mobile/index.html#p=148">Somehow if we become subtle as He(God) is, it means union.</message>
         <reference>SDG 144</reference>
@@ -5969,13 +5969,19 @@ What is foul? What is not correct? What is right? These are not discussed by Bab
         <quiz_link>https://www.imperience.org/quizzes/Commandment%209/Commandment%209.html</quiz_link>
         <quiz>Moulding</quiz>
         <babuji audio="audio/xref/babuji/044_saints.mp3" txt="audio/xref/babuji/html/044_saints.html">Saints</babuji>
-        <kcn audio="audio/Bodhayanti%20Vol%209/BP915_Restoring%20our%20Balance_2010Basanth.mp3"
+       <main_kcn
              txt="books/BP3/mobile/index.html#p=204"
              partial_txt="books/BP3/mobile/index.html#p=204"
              ref="BP3 - 196"
+             >Realization is not possible unless moderation and balance are restored. It corresponds closely with the very real thing which existed at the time of creation, when everything was in a perfectly balanced state. Now after the lapse of time, degeneration crept in. Our senses and faculties lost the balance and everything went into disorder. What we have to do now is to control our senses and faculties in order to restore moderation in them", No Audio from BP3.
+        </main_kcn>
+        <kcn audio="audio/Bodhayanti%20Vol%209/BP915_Restoring%20our%20Balance_2010Basanth.mp3"
+             txt="books/BP9/mobile/index.html#p=240"
+             partial_txt="books/BP7/mobile/index.html#p=241"
+             ref="BP9 - 229"
              start="175"
              end="265"
-             >Realization is not possible unless moderation and balance are restored. It corresponds closely with the very real thing which existed at the time of creation, when everything was in a perfectly balanced state. Now after the lapse of time, degeneration crept in. Our senses and faculties lost the balance and everything went into disorder. What we have to do now is to control our senses and faculties in order to restore moderation in them.
+             >Life I would rather say is a creative balancing sport. When spirituality is intertwined with life the act of balancing is more interesting and lively. When we appreciate the role of the Master in His spiritual splendor in our individual game of life, it gains a greater meaning.
         </kcn>
     </item>
     <item>
