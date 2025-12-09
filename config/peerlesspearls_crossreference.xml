@@ -6974,13 +6974,18 @@ When we fix up such a goal that very intention will lead us to the Master or the
         <quiz_link>https://www.imperience.org/quizzes/Commandment%2010/Commandment%2010.html</quiz_link>
         <quiz>Prayer</quiz>
         <babuji audio="audio/xref/babuji/092_cleaning.mp3" txt="audio/xref/babuji/html/092_cleaning.html">Cleaning</babuji>
-        <kcn  audio=""
-             txt="books/BP9/mobile/index.html#p=208"
+        <main_kcn txt="books/BP9/mobile/index.html#p=208"
              partial_txt="books/BP9/mobile/index.html#p=208"
              ref="BP9 - 208"
-             start=""
-             end=""
              >Focus on the one and only one goal all the time. This should be partnered with the fact that we should make sure that all our short term goals are indeed structured to help in achieving in our real goal
+        </main_kcn>
+        <kcn audio="audio/xref/kcn/control_of_mind.mp3"
+             txt="books/LiberalExpo/mobile/index.html#p=37"
+             partial_txt="books/LiberalExpo/mobile/index.html#p=38"
+             ref="LEPAM - 38"
+             start="243"
+             end="424"
+             >We should avoid that which is not likely to achieve that goal. We should choose that which would enable us to achieve the goal
         </kcn>
     </item>
     <item>
