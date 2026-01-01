@@ -24,12 +24,14 @@
 
         <quiz>Basics</quiz>
 
-        <babuji audio="audio/babuji/001_divine_light" txt="html/babuji/001_divine_light">Divine Light</babuji>
-        <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%209/BP914_RealMan.mp3"
-             txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=230"
-             partial_txt="https://sriramchandra.in/books/BP9/mobile/index.html#p=235"
-             start="440" end="600"
-        >BP09 - Real Man
+        <babuji audio="audio/xref/babuji/099_danger.mp3" txt="audio/xref/babuji/html/099_danger.html">Danger</babuji>
+        <kcn audio="audio/Bodhayanti%20Vol%209/BP904_Grace%20Divine.mp3"
+             txt="books/BP9/mobile/index.html#p=121"
+             partial_txt="books/BP9/mobile/index.html#p=121"
+             ref="BP9 - 109"
+             start="23"
+             end="64"
+             >God is quite plain and simple, devoid of everything, not to speak of any solidity. So, it is absolutely necessary for us to free ourselves from grossness and solidity in order to achieve Him. The solidity comes in by the effect of our own thoughts, actions and surroundings. Our thoughts must therefore be regulated, and the individual mind must be thoroughly disciplined so as to clear off the weight settled in. We should become as light as possible so that a single breath of the master may put us to the highest possible flight.
         </kcn>
     </item>
 
@@ -52,10 +54,14 @@
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
         <quiz>Basics</quiz>
-        <babuji audio="audio/babuji/002_intercommunion.mp3" txt="html/babuji/002_intercommunion.html">Intercommunion
-        </babuji>
-        <kcn audio="audio/xref/kcn/parallelism.mp3" txt="https://sriramchandra.in/books/BP1/mobile/index.html#p=350">
-            Parallelism
+        <babuji audio="audio/xref/babuji/100_taking_from_the_heart.mp3" txt="audio/xref/babuji/html/100_taking_from_the_heart.html">Taking from the heart</babuji>
+        <kcn audio="audio/Bodhayanti%20Vol%209/BP914_RealMan.mp3"
+             txt="books/BP9/mobile/index.html#p=230"
+             partial_txt="books/BP9/mobile/index.html#p=235"
+             ref="BP9 - 223"
+             start="535"
+             end="581"
+             >The main purpose of training is that a man should begin to imbibe within him as much of godly attributes as possible. If this is not achieved the system of training is defective and consequently of no avail. Proper making of a man must be the natural result of the right type of training. Proper making comprises of the right moulding of mind with due moderation in the exercise of all our senses and faculties. Thus the right type of training under the guidance of a capable master is by far the most important factor in our proper making without which higher attainments in spirituality are never possible.
         </kcn>
     </item>
 
@@ -81,8 +87,19 @@
 
         <quiz>Basics</quiz>
 
-        <kcn audio="https://drive.google.com/file/d/1FSlUg7Z3DIV09BCkt5-bJyRpaswaWMEY/view?usp=drive_link"
-             txt="https://sriramchandra.in/books/LiberalExpo/mobile/index.html#p=90">Ten Commandments
+        <babuji audio="audio/xref/babuji/101_foreign_travels.mp3" txt="audio/xref/babuji/html/101_foreign_travels.html">Foreign travels</babuji>
+        <main_kcn audio="audio/xref/kcn/ten_commandments.mp3"
+             txt="books/LiberalExpo/mobile/index.html#p=134"
+             partial_txt="books/LiberalExpo/mobile/index.html#p=134"
+             ref="LEPAM - 134"
+             start="0"
+             end=""
+             >The Divine is expressing itself and is coming out. That is the time we take advantage of, because the greatness of the God can be seen only in the early hours of the day and not in the midnight. At midnight we can have the laya. One can have laya, a superior form of worship is possible, but for a person who is living a life of grihasta we see here the activity. Activity starts and we must be in tune with it. To be in tune with nature is our system. It is a natural path. We have got to be in tune. We have got to be clean. We have got to be pure.
+        </main_kcn>
+        <kcn txt="books/LiberalExpo/mobile/index.html#p=134"
+             partial_txt="books/LiberalExpo/mobile/index.html#p=135"
+             ref="LEPAM - 135"
+             >Revered SriRamchandraji Maharaj says try to find a place in your house where you can sit in meditation comfortably without any difficulty. It can be a room if you can afford, it can be a small 3/2 space somewhere else in the house. But let it be a fixed place where you pray and have your own carpet. Note that everything is and has vibration. People often forget this. And we think that we can sit anywhere. After all we can say that God is everywhere and it should not matter much where one sits and how he sits. That is philosophy. Yoga is different. Yoga demands discipline.
         </kcn>
 
     </item>
@@ -105,11 +122,15 @@
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
         <quiz>Basics</quiz>
-
-        <kcn audio="https://www.sriramchandra.in/audio/New%20folder/BP-1%20Sriramchandra%20Consciousness.mp3"
-             txt="https://sriramchandra.in/books/BP1/mobile/index.html#p=5">Sri Ramchandra Consciousness
+        <babuji audio="audio/xref/babuji/102_forgetfullness.mp3" txt="audio/xref/babuji/html/102_forgetfullness.html">Forgetfullness</babuji>
+        <kcn audio="audio/xref/kcn/parallelism.mp3"
+                txt="books/BP1/mobile/index.html#p=365"
+             partial_txt="books/BP1/mobile/index.html#p=365"
+             ref="BP1 - 361"
+             start="1946"
+             end="2673"
+             >The meaning of the sandhya is only this, that we are trying to unite two opposite factors. One is a state of Tam, stillness; another is a state of awareness, consciousness.
         </kcn>
-
     </item>
 
     <item>
@@ -131,9 +152,20 @@
 
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
-        <quiz>Basics</quiz>
-        <kcn audio="https://drive.google.com/file/d/1bnicjClKA2pEwqk3gvKxUqEXlv4SVHrI/view?usp=drive_link"
-             txt="https://www.sriramchandra.in/Satyapadamspdf/23_3_Silence%20Our%20Goal.pdf">Silence
+       <quiz>Basics</quiz>
+       <babuji audio="audio/xref/babuji/103_smoking.mp3" txt="audio/xref/babuji/html/103_smoking.html">Smoking</babuji>
+        <main_kcn txt="books/BP7/mobile/index.html#p=94"
+             partial_txt="books/BP7/mobile/index.html#p=94"
+             ref="BP7 - 85"
+             >The final point of approach is where every kind of force, power, activity or even stimulus disappears and a man enters a state of complete negation; Nothingness or Zero.(Reference:DR 19) The actual condition is only Tam which is the source and the expression of joy and bliss are off shoots of that condition. But this is still not the final condition. It is here that silence becomes silent. Many well meaning aspirants despite the clarification given by the Master that the ultimate truth is revealed only now for the first time in human history somehow entertain thoughts that our tradition knew that earlier and try to persuade themselves into such thinking. When their inner psyche informs that it is not true they feel unhappy about the condition though they do have peep into that ultimate condition. The last state of Tam is beyond all the three gunas and is therefore beyond the reach of Vedas. This is a state of equipoise where the roots of Balance are. Advanced persons do get into this state often during meditation particularly when they abide in the thought of the Master to the extent they are totally oblivious of their identity. It is a matter of experience and the Institute appeals to all to reach upto this level.
+        </main_kcn>
+        <kcn audio="audio/Bodhayanti%20Vol%204/BP409_RevLalajiMaharaj_the%20advent.mp3"
+             txt="books/BP4/mobile/index.html#p=128"
+             partial_txt="books/BP4/mobile/index.html#p=128"
+             ref="BP4 - 120"
+             start="0"
+             end=""
+             >The state of TAM was something that was pointed out in the first Commandment of the Master, discovered by Rev. Lalaji Maharaj and stated simply THAT IS WHAT IT IS. That is the central region. He immediately stated that it is not to be confused with Tam or Tamas of the Trigunas.
         </kcn>
 
     </item>
@@ -157,8 +189,21 @@
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
         <quiz>Basics</quiz>
-        <kcn audio="https://sriramchandra.in/audio/New%20folder/BP-3%20Path%20of%20Pain.mp3"
-             txt="https://sriramchandra.in/books/BP3/mobile/index.html#p=163">Path of Pain
+       <babuji audio="audio/xref/babuji/104_lalaji_singing.mp3" txt="audio/xref/babuji/html/104_lalaji_singing.html">Lalaji singing</babuji>
+        <main_kcn
+            txt="books/BP7/mobile/index.html#p=87"
+            partial_txt="books/BP7/mobile/index.html#p=95"
+            ref="BP7 - 86"
+        >The actual condition is only Tam which is the source and the expression of joy and bliss are off shoots of that condition. But this is still not the final condition. It is here that silence becomes silent. Many well meaning aspirants despite the clarification given by the Master that the ultimate truth is revealed only now for the first time in human history somehow entertain thoughts that our tradition knew that earlier and try to persuade themselves into such thinking. When their inner psyche informs that it is not true they feel unhappy about the condition though they do have peep into that ultimate condition. The last state of Tam is beyond all the three gunas and is therefore beyond the reach of Vedas. This is a state of equipoise where the roots of Balance are. Advanced persons do get into this state often during meditation particularly when they abide in the thought of the Master to the extent they are totally oblivious of their identity. It is a matter of experience and the Institute appeals to all to reach upto this level.
+        </main_kcn>
+        <kcn
+            audio="audio/Bodhayanti%20Vol%205/BP506_SriKrishna%20Thru%20SriRamchandra.mp3"
+            txt="books/BP5/mobile/index.html#p=76"
+            partial_txt="books/BP5/mobile/index.html#p=88"
+            ref="BP5 - 77"
+            start="851"
+            end="1423"
+        >Shaping of the entire being or moulding ourselves thus means a total integral and holistic transformation in our way of living. We are aware that during meditation we do go into very deep states and some times we are at the gross level. Broadly we may say that from the ego centric awareness to ethnocentric awareness is the normal mode of meditation of many of the meditators. However we do seem to enter to cosmic and pan cosmic or para cosmic levels of consciousness. And surprisingly in almost all the sincere meditations we do we enter into a state of Tam or Total Ignorance as Rev. Master calls it. This is the one imperience that impels us to continue our meditation even as our Master has stated in his Commentary on Ten Commandments.
         </kcn>
 
     </item>
@@ -182,9 +227,16 @@
 
         <quiz>Basics</quiz>
 
-        <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%205/BP504_The%20Virtue%20of%20truth.mp3"
-             txt="https://www.sriramchandra.in/Satyapadamspdf/TheVirtueofTruth.pdf">Virtue of Truth
-        </kcn>
+        <babuji audio="audio/xref/babuji/105_peace_giver.mp3" txt="audio/xref/babuji/html/105_peace_giver.html">Peace giver</babuji>
+        <kcn
+                audio="audio/Bodhayanti%20Vol%208/BP807_TheUnknown.mp3"
+                txt="books/BP8/mobile/index.html#p=92"
+                partial_txt="books/BP8/mobile/index.html#p=94"
+                ref="BP8 - 88"
+                start="263"
+                end="561"
+        >We all practice the Natural Path and the meditation prescribed for us only with the aim of knowing the Unknown and become one with it. Master says "We know that God is completely devoid of grossness, so the realisation of God must mean the attainment of a state of similar subtleness to the last possible degree. This is what we aim at in Natural Path. The system helps an abhyasi free himself from grossness that has settled round him in the form of coverings. The technique though quite simple, is often beyond common grasp, since it adheres closely to the absolute Reality and proceeds along subtlest lines. It prescribes meditation on the heart, supposing the presence of Divine Light there. But the abhyasi is directed not to try to see the light in any form or shape. If he does so the light, if perchance it appears to his view, will not be the real one but a projection of his mind. An abhyasi is, however, advised to take it in the form of mere supposition. In that case it will be the subtlest, and we shall thereby be meditating upon the subtlest. Every saint has used the word Light for it and I too cannot avoid it, since that is the only expression best suited for the purpose. But that creates some complications, because when we talk of light the idea of luminosity becomes predominant, and we begin to take it as glittering. The real light carries with it no such sense and may be represented as 'light without luminosity'. It refers to the very real substance or, more appropriately, the substance which is associated with neither light nor darkness but is beyond both." Here in the very technique of meditation we find the Master eliminating the very process of perceptive knowledge and is asking us to directly dive into the Infinite. In fact he is asking us to meditate on the Unknown- a divine light without luminosity. Those who are accustomed to accept only the perceptive knowledge will not find this method agreeable. But unfortunately the mind with all its notions and ideas cannot comprehend reality in its true form. Any change or modification on the procedure given to us by the Master is bound to lead us to perceptive knowledge which cannot grant us the Unknown. I may say reality is so very intimate that we cannot perceive it and add 'Do not try to know the Unknown; be the Unknown'.</kcn>
+
 
     </item>
 
@@ -208,9 +260,15 @@
 
         <quiz>Basics</quiz>
 
-        <kcn audio="https://sriramchandra.in/audio/Bodhayanti%20Vol%207/BP711_LionHeartedMen.mp3"
-             txt="https://sriramchandra.in/books/BP7/mobile/index.html#p=176">Lion-hearted men alone dare approach
-            Reality and men are made so, by Natural Path
+      <babuji audio="audio/xref/babuji/106_thoughts.mp3" txt="audio/xref/babuji/html/106_thoughts.html">Thoughts</babuji>
+        <kcn audio="audio/Bodhayanti%20Vol%208/BP801_Colorlessness.mp3"
+         txt="books/BP8/mobile/index.htmli#p=7"
+         partial_txt="books/BP8/mobile/index.html#p=23"
+         ref="BP8 - 17"
+         start="895"
+         end="1194"
+
+        >Master states that 'Satyapad is itself a science for which one may not be well fitted unless he develops the capacity to perceive Nature with his inner eye.' We know that the inner eye gets vision from the heart. While physical eyes feed the mind with all its colours, it is the colourlessness that the heart knows. The Natural Path is lighted by such colourlessness of the heart. Broader the spread of such inner light the nobler are the Visions. That is what meditation on light without luminosity grants and that is wisdom. Such is reward and destiny by following the principle "One must become colourless while playing with colours"
         </kcn>
 
 
@@ -11774,9 +11832,9 @@ When we fix up such a goal that very intention will lead us to the Master or the
 
         <date>04-01-27</date>
         <displaydate>04-January</displaydate>
-
-        <message href="http://www.sriramchandra.in/books/BWS/mobile/index.html#p=150">In fact it (Reality) is all the
-            sphere of Tam and Tam alone. This is the only thing worth achieving for a true yogi.
+        <message href="http://www.sriramchandra.in/books/BWS/mobile/index.html#p=150">It is a scientific principle upon
+            which the division of the timings for puja and Sandhya is based in accordance with the natural effect of the
+            time.
         </message>
 
         <reference>BWS 110</reference>
@@ -11789,18 +11847,13 @@ When we fix up such a goal that very intention will lead us to the Master or the
 
         <quiz>Basics</quiz>
         <babuji audio="audio/xref/babuji/102_forgetfullness.mp3" txt="audio/xref/babuji/html/102_forgetfullness.html">Forgetfullness</babuji>
-        <main_kcn txt="books/BP1/mobile/index.html#p=365"
+        <kcn audio="audio/xref/kcn/parallelism.mp3"
+                txt="books/BP1/mobile/index.html#p=365"
              partial_txt="books/BP1/mobile/index.html#p=365"
              ref="BP1 - 361"
+             start="1946"
+             end="2673"
              >The meaning of the sandhya is only this, that we are trying to unite two opposite factors. One is a state of Tam, stillness; another is a state of awareness, consciousness.
-        </main_kcn>
-        <kcn audio="audio/Bodhayanti%20Vol%205/BP507_On%20IMP-EventHorizon.mp3"
-             txt="books/BP5/mobile/index.html#p=102"
-             partial_txt="books/BP5/mobile/index.html#p=102"
-             ref="BP5 - 91"
-             start="888"
-             end="919"
-             > We enter into a state which we do not know how to describe, as the awareness is something that comes after we emerge from this state and then feel that we were into Nothingness. Such is the nature of laya or mergence that we imperience in each knot and sub-knot on the path Towards Infinity. This is what I understand to be the meaning of the concept of several sandhyas apart from the physical ones that we see at sunrise and sunset.
         </kcn>
 
     </item>
@@ -11859,6 +11912,22 @@ When we fix up such a goal that very intention will lead us to the Master or the
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
         <quiz>Basics</quiz>
+        <babuji audio="audio/xref/babuji/104_lalaji_singing.mp3" txt="audio/xref/babuji/html/104_lalaji_singing.html">Lalaji singing</babuji>
+        <main_kcn
+            txt="books/BP7/mobile/index.html#p=87"
+            partial_txt="books/BP7/mobile/index.html#p=95"
+            ref="BP7 - 86"
+        >The actual condition is only Tam which is the source and the expression of joy and bliss are off shoots of that condition. But this is still not the final condition. It is here that silence becomes silent. Many well meaning aspirants despite the clarification given by the Master that the ultimate truth is revealed only now for the first time in human history somehow entertain thoughts that our tradition knew that earlier and try to persuade themselves into such thinking. When their inner psyche informs that it is not true they feel unhappy about the condition though they do have peep into that ultimate condition. The last state of Tam is beyond all the three gunas and is therefore beyond the reach of Vedas. This is a state of equipoise where the roots of Balance are. Advanced persons do get into this state often during meditation particularly when they abide in the thought of the Master to the extent they are totally oblivious of their identity. It is a matter of experience and the Institute appeals to all to reach upto this level.
+        </main_kcn>
+        <kcn
+            audio="audio/Bodhayanti%20Vol%205/BP506_SriKrishna%20Thru%20SriRamchandra.mp3"
+            txt="books/BP5/mobile/index.html#p=76"
+            partial_txt="books/BP5/mobile/index.html#p=88"
+            ref="BP5 - 77"
+            start="851"
+            end="1423"
+        >Shaping of the entire being or moulding ourselves thus means a total integral and holistic transformation in our way of living. We are aware that during meditation we do go into very deep states and some times we are at the gross level. Broadly we may say that from the ego centric awareness to ethnocentric awareness is the normal mode of meditation of many of the meditators. However we do seem to enter to cosmic and pan cosmic or para cosmic levels of consciousness. And surprisingly in almost all the sincere meditations we do we enter into a state of Tam or Total Ignorance as Rev. Master calls it. This is the one imperience that impels us to continue our meditation even as our Master has stated in his Commentary on Ten Commandments.
+        </kcn>
 
     </item>
 
@@ -11880,6 +11949,15 @@ When we fix up such a goal that very intention will lead us to the Master or the
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
         <quiz>Basics</quiz>
+        <babuji audio="audio/xref/babuji/105_peace_giver.mp3" txt="audio/xref/babuji/html/105_peace_giver.html">Peace giver</babuji>
+        <kcn
+                audio="audio/Bodhayanti%20Vol%208/BP807_TheUnknown.mp3"
+                txt="books/BP8/mobile/index.html#p=92"
+                partial_txt="books/BP8/mobile/index.html#p=94"
+                ref="BP8 - 88"
+                start="263"
+                end="561"
+        >We all practice the Natural Path and the meditation prescribed for us only with the aim of knowing the Unknown and become one with it. Master says "We know that God is completely devoid of grossness, so the realisation of God must mean the attainment of a state of similar subtleness to the last possible degree. This is what we aim at in Natural Path. The system helps an abhyasi free himself from grossness that has settled round him in the form of coverings. The technique though quite simple, is often beyond common grasp, since it adheres closely to the absolute Reality and proceeds along subtlest lines. It prescribes meditation on the heart, supposing the presence of Divine Light there. But the abhyasi is directed not to try to see the light in any form or shape. If he does so the light, if perchance it appears to his view, will not be the real one but a projection of his mind. An abhyasi is, however, advised to take it in the form of mere supposition. In that case it will be the subtlest, and we shall thereby be meditating upon the subtlest. Every saint has used the word Light for it and I too cannot avoid it, since that is the only expression best suited for the purpose. But that creates some complications, because when we talk of light the idea of luminosity becomes predominant, and we begin to take it as glittering. The real light carries with it no such sense and may be represented as 'light without luminosity'. It refers to the very real substance or, more appropriately, the substance which is associated with neither light nor darkness but is beyond both." Here in the very technique of meditation we find the Master eliminating the very process of perceptive knowledge and is asking us to directly dive into the Infinite. In fact he is asking us to meditate on the Unknown- a divine light without luminosity. Those who are accustomed to accept only the perceptive knowledge will not find this method agreeable. But unfortunately the mind with all its notions and ideas cannot comprehend reality in its true form. Any change or modification on the procedure given to us by the Master is bound to lead us to perceptive knowledge which cannot grant us the Unknown. I may say reality is so very intimate that we cannot perceive it and add 'Do not try to know the Unknown; be the Unknown'.</kcn>
 
     </item>
 
@@ -11901,7 +11979,16 @@ When we fix up such a goal that very intention will lead us to the Master or the
         <quiz_link>http://www.imperience.org/quizzes/Commandment1/Commandment1.html</quiz_link>
 
         <quiz>Basics</quiz>
+        <babuji audio="audio/xref/babuji/106_thoughts.mp3" txt="audio/xref/babuji/html/106_thoughts.html">Thoughts</babuji>
+        <kcn audio="audio/Bodhayanti%20Vol%208/BP801_Colorlessness.mp3"
+         txt="books/BP8/mobile/index.htmli#p=7"
+         partial_txt="books/BP8/mobile/index.html#p=23"
+         ref="BP8 - 17"
+         start="895"
+         end="1194"
 
+        >Master states that 'Satyapad is itself a science for which one may not be well fitted unless he develops the capacity to perceive Nature with his inner eye.' We know that the inner eye gets vision from the heart. While physical eyes feed the mind with all its colours, it is the colourlessness that the heart knows. The Natural Path is lighted by such colourlessness of the heart. Broader the spread of such inner light the nobler are the Visions. That is what meditation on light without luminosity grants and that is wisdom. Such is reward and destiny by following the principle "One must become colourless while playing with colours"
+        </kcn>
     </item>
 
     <item>
